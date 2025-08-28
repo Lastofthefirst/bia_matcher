@@ -296,24 +296,6 @@ impl DocumentMatcher {
         Ok((results, statistics))
     }
     
-    fn calculate_similarity(&self, text1: &str, text2: &str) -> f32 {
-        // Simple Jaccard similarity on word sets
-        let words1: Vec<&str> = text1.split_whitespace().collect();
-        let words2: Vec<&str> = text2.split_whitespace().collect();
-        
-        let set1: std::collections::HashSet<_> = words1.into_iter().collect();
-        let set2: std::collections::HashSet<_> = words2.into_iter().collect();
-        
-        let intersection: usize = set1.intersection(&set2).count();
-        let union: usize = set1.union(&set2).count();
-        
-        if union == 0 {
-            0.0
-        } else {
-            intersection as f32 / union as f32
-        }
-    }
-    
     async fn save_results(&self, pdf_name: &str, document_match: &DocumentMatch) -> Result<()> {
         let output_path = self.config.output_dir.join(format!("{}_matches.json", pdf_name));
         let json_content = serde_json::to_string_pretty(document_match)?;
