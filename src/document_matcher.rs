@@ -206,6 +206,8 @@ impl DocumentMatcher {
         similarities.sort_by(|a, b| b.similarity.partial_cmp(&a.similarity).unwrap());
         similarities
     }
+    
+    fn calculate_document_similarities_fallback(&self, pdf_blocks: &[PdfBlock]) -> Vec<DocumentMatchInfo> {
         let mut similarities = Vec::new();
         
         // Get first 30 blocks for document-level matching (as per specification)
