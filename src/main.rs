@@ -1,6 +1,8 @@
 mod document_matcher;
 mod error;
 mod models;
+mod embedding_service;
+mod similarity_search;
 
 use anyhow::Result;
 use clap::Parser;

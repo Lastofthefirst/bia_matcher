@@ -1,5 +1,7 @@
 use crate::error::MatchingError;
 use crate::models::{Config, DocumentMatch, PdfBlock, XmlElement, ElementMatchResult, MatchResult, DocumentMatchInfo, MatchStatistics};
+use crate::embedding_service::EmbeddingService;
+use crate::similarity_search::{DocumentSimilaritySearch, ParagraphSimilaritySearch};
 use anyhow::Result;
 use serde_json;
 use std::collections::HashMap;
@@ -11,16 +13,27 @@ pub struct DocumentMatcher {
     config: Config,
     xml_documents: HashMap<String, Vec<XmlElement>>,
     pdf_documents: HashMap<String, Vec<PdfBlock>>,
+    embedding_service: EmbeddingService,
+    document_search: DocumentSimilaritySearch,
 }
 
 impl DocumentMatcher {
     pub async fn new(config: Config) -> Result<Self> {
-        info!("Initializing DocumentMatcher");
+        info!("Initializing DocumentMatcher with embedding-based matching");
+        
+        // Initialize embedding service
+        let embedding_service = EmbeddingService::new(&config.model_path).await?;
+        let embedding_dim = embedding_service.embedding_dim();
+        
+        // Initialize document similarity search
+        let document_search = DocumentSimilaritySearch::new(embedding_dim)?;
         
         Ok(DocumentMatcher {
             config,
             xml_documents: HashMap::new(),
             pdf_documents: HashMap::new(),
+            embedding_service,
+            document_search,
         })
     }
     
@@ -45,7 +58,21 @@ impl DocumentMatcher {
         
         self.load_xml_documents_recursive(&xml_dir)?;
         
-        info!("Loaded {} XML documents", self.xml_documents.len());
+        // Generate document-level embeddings for all XML documents
+        for (document_id, elements) in &self.xml_documents {
+            // Concatenate first 30 elements or all elements if fewer
+            let document_text = elements
+                .iter()
+                .take(30)
+                .map(|e| e.text.as_str())
+                .collect::<Vec<_>>()
+                .join(" ");
+            
+            let embedding = self.embedding_service.generate_document_embedding(&document_text)?;
+            self.document_search.add_document(document_id.clone(), embedding)?;
+        }
+        
+        info!("Loaded {} XML documents with embeddings", self.xml_documents.len());
         Ok(())
     }
     
@@ -116,7 +143,7 @@ impl DocumentMatcher {
         Ok(())
     }
     
-    async fn match_documents(&self) -> Result<()> {
+    async fn match_documents(&mut self) -> Result<()> {
         if self.xml_documents.is_empty() {
             return Err(MatchingError::NoXmlDocuments.into());
         }
@@ -125,11 +152,17 @@ impl DocumentMatcher {
             return Err(MatchingError::NoPdfDocuments.into());
         }
         
-        for (pdf_name, pdf_blocks) in &self.pdf_documents {
+        // Collect pdf documents to avoid borrowing issues
+        let pdf_documents: Vec<(String, Vec<PdfBlock>)> = self.pdf_documents
+            .iter()
+            .map(|(name, blocks)| (name.clone(), blocks.clone()))
+            .collect();
+        
+        for (pdf_name, pdf_blocks) in pdf_documents {
             info!("Matching PDF document: {}", pdf_name);
             
-            // Calculate document-level similarities
-            let document_similarities = self.calculate_document_similarities(pdf_blocks);
+            // Calculate document-level similarities using embeddings
+            let document_similarities = self.calculate_document_similarities_embeddings(&pdf_blocks).await?;
             
             // Find the best matching XML document
             let best_match = document_similarities
@@ -140,9 +173,9 @@ impl DocumentMatcher {
             info!("Best matching XML document for {}: {} (score: {})", 
                   pdf_name, best_match.xml_document_id, best_match.similarity);
             
-            // Perform paragraph-level matching with the best XML document
-            let best_xml_elements = self.xml_documents.get(&best_match.xml_document_id).unwrap();
-            let (matches, statistics) = self.simple_match_paragraphs(best_xml_elements, pdf_blocks);
+            // Perform paragraph-level matching with the best XML document using embeddings
+            let best_xml_elements = self.xml_documents.get(&best_match.xml_document_id).unwrap().clone();
+            let (matches, statistics) = self.embedding_match_paragraphs(&best_xml_elements, &pdf_blocks).await?;
             
             let document_match = DocumentMatch {
                 pdf_document_id: pdf_name.clone(),
@@ -153,15 +186,13 @@ impl DocumentMatcher {
             };
             
             // Save results
-            self.save_results(pdf_name, &document_match).await?;
+            self.save_results(&pdf_name, &document_match).await?;
         }
         
         Ok(())
     }
     
-    fn calculate_document_similarities(&self, pdf_blocks: &[PdfBlock]) -> Vec<DocumentMatchInfo> {
-        let mut similarities = Vec::new();
-        
+    async fn calculate_document_similarities_embeddings(&mut self, pdf_blocks: &[PdfBlock]) -> Result<Vec<DocumentMatchInfo>> {
         // Get first 30 blocks for document-level matching (as per specification)
         let first_blocks: Vec<&PdfBlock> = pdf_blocks.iter().take(30).collect();
         
@@ -172,58 +203,72 @@ impl DocumentMatcher {
             .collect::<Vec<_>>()
             .join(" ");
         
-        // Calculate similarity with each XML document
-        for (xml_doc_name, xml_elements) in &self.xml_documents {
-            // For document-level matching, we'll use the first few XML elements as representatives
-            let xml_texts: Vec<&str> = xml_elements.iter().take(10).map(|e| e.text.as_str()).collect();
-            let concatenated_xml_text = xml_texts.join(" ");
-            
-            let similarity = self.calculate_similarity(&concatenated_text, &concatenated_xml_text);
-            
-            similarities.push(DocumentMatchInfo {
-                xml_document_id: xml_doc_name.clone(),
+        // Generate query embedding for the PDF content
+        let query_embedding = self.embedding_service.generate_query_embedding(&concatenated_text)?;
+        
+        // Get similarities for all documents using FAISS
+        let similarities = self.document_search.get_all_document_similarities(&query_embedding)?;
+        
+        // Convert to DocumentMatchInfo
+        let document_similarities = similarities
+            .into_iter()
+            .map(|(xml_document_id, similarity)| DocumentMatchInfo {
+                xml_document_id,
                 similarity,
-            });
-        }
+            })
+            .collect();
         
-        // Sort by similarity (highest first)
-        similarities.sort_by(|a, b| b.similarity.partial_cmp(&a.similarity).unwrap());
-        
-        similarities
+        Ok(document_similarities)
     }
     
-    fn simple_match_paragraphs(&self, xml_elements: &[XmlElement], pdf_blocks: &[PdfBlock]) -> (Vec<ElementMatchResult>, MatchStatistics) {
+    async fn embedding_match_paragraphs(&mut self, xml_elements: &[XmlElement], pdf_blocks: &[PdfBlock]) -> Result<(Vec<ElementMatchResult>, MatchStatistics)> {
+        let embedding_dim = self.embedding_service.embedding_dim();
+        let mut paragraph_search = ParagraphSimilaritySearch::new(embedding_dim)?;
+        
+        // Generate embeddings for XML elements
+        let mut xml_embeddings = Vec::new();
+        for xml_element in xml_elements.iter().take(50) {  // Process up to 50 XML elements
+            let embedding = self.embedding_service.generate_document_embedding(&xml_element.text)?;
+            xml_embeddings.push((xml_element.id.clone(), embedding));
+        }
+        
+        // Add XML element embeddings to the search index
+        paragraph_search.add_elements(&xml_embeddings)?;
+        
         let mut results = Vec::new();
         let mut matched_elements_count = 0;
         
-        // For each XML element, find the top 3 matching PDF blocks
-        for xml_element in xml_elements.iter().take(50) {  // Process up to 50 XML elements
+        // For each XML element, find the top matching PDF blocks
+        for xml_element in xml_elements.iter().take(50) {
             let mut element_matches = Vec::new();
             
-            // Match this XML element against all PDF blocks
-            for pdf_block in pdf_blocks.iter() {  // Process all PDF blocks
-                let similarity = self.calculate_similarity(&xml_element.text, &pdf_block.text);
+            // Generate embeddings for all PDF blocks and find matches
+            for pdf_block in pdf_blocks.iter() {
+                let pdf_embedding = self.embedding_service.generate_query_embedding(&pdf_block.text)?;
+                let matches = paragraph_search.find_matches(&pdf_embedding, 1, self.config.similarity_threshold)?;
                 
-                // Store all matches above threshold
-                if similarity > 0.01 {
-                    element_matches.push(MatchResult {
-                        pdf_block_id: pdf_block.id.clone(),
-                        similarity,
-                        pdf_text: pdf_block.text.clone(),
-                    });
+                // Check if this XML element matches
+                if let Some((matched_id, similarity)) = matches.first() {
+                    if matched_id == &xml_element.id {
+                        element_matches.push(MatchResult {
+                            pdf_block_id: pdf_block.id.clone(),
+                            similarity: *similarity,
+                            pdf_text: pdf_block.text.clone(),
+                        });
+                    }
                 }
             }
             
             // Sort by similarity (highest first) and take top 3
             element_matches.sort_by(|a, b| b.similarity.partial_cmp(&a.similarity).unwrap());
-            element_matches.truncate(3);
+            element_matches.truncate(self.config.top_k_matches);
             
             // Count matched elements
             if !element_matches.is_empty() {
                 matched_elements_count += 1;
             }
             
-            // Create element match result with top 3 matches
+            // Create element match result with top matches
             let element_result = ElementMatchResult {
                 xml_element_id: xml_element.id.clone(),
                 xml_text: xml_element.text.clone(),
@@ -244,11 +289,11 @@ impl DocumentMatcher {
             total_pdf_blocks: pdf_blocks.len(),
             matched_elements: matched_elements_count,
             unmatched_elements,
-            match_threshold: 0.01,
+            match_threshold: self.config.similarity_threshold,
             top_k_matches: self.config.top_k_matches,
         };
         
-        (results, statistics)
+        Ok((results, statistics))
     }
     
     fn calculate_similarity(&self, text1: &str, text2: &str) -> f32 {

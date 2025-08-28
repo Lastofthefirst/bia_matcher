@@ -1,1121 +1,434 @@
 {
   "pdf_document_id": "LB-Epistola al Hijo del Lobo_processed",
   "best_match": {
-    "xml_document_id": "epistle-son-wolf",
-    "similarity": 0.010862186
+    "xml_document_id": "twelve-table-talks-abdul-baha",
+    "similarity": 0.25353384
   },
   "all_document_scores": [
     {
-      "xml_document_id": "epistle-son-wolf",
-      "similarity": 0.010862186
-    },
-    {
-      "xml_document_id": "gems-divine-mysteries",
-      "similarity": 0.007897335
-    },
-    {
-      "xml_document_id": "tablets-hague-abdul-baha",
-      "similarity": 0.0073394496
-    },
-    {
-      "xml_document_id": "selections-writings-abdul-baha",
-      "similarity": 0.00729927
-    },
-    {
-      "xml_document_id": "gleanings-writings-bahaullah",
-      "similarity": 0.0072202166
-    },
-    {
-      "xml_document_id": "travelers-narrative",
-      "similarity": 0.0068728523
-    },
-    {
-      "xml_document_id": "prayers-meditations",
-      "similarity": 0.006679389
-    },
-    {
-      "xml_document_id": "secret-divine-civilization",
-      "similarity": 0.0064935065
-    },
-    {
       "xml_document_id": "twelve-table-talks-abdul-baha",
-      "similarity": 0.005982054
+      "similarity": 0.25353384
     },
     {
       "xml_document_id": "tablet-august-forel",
-      "similarity": 0.0056818184
-    },
-    {
-      "xml_document_id": "some-answered-questions",
-      "similarity": 0.005611672
-    },
-    {
-      "xml_document_id": "prayers-abdul-baha",
-      "similarity": 0.005319149
-    },
-    {
-      "xml_document_id": "light-of-the-world",
-      "similarity": 0.004938272
-    },
-    {
-      "xml_document_id": "will-testament-abdul-baha",
-      "similarity": 0.004764741
+      "similarity": 0.25035313
     },
     {
       "xml_document_id": "tabernacle-unity",
-      "similarity": 0.004576659
+      "similarity": 0.23160009
     },
     {
-      "xml_document_id": "selections-writings-bab",
-      "similarity": 0.004530011
-    },
-    {
-      "xml_document_id": "promulgation-universal-peace",
-      "similarity": 0.0045095826
-    },
-    {
-      "xml_document_id": "paris-talks",
-      "similarity": 0.004439512
-    },
-    {
-      "xml_document_id": "hidden-words",
-      "similarity": 0.0043572984
-    },
-    {
-      "xml_document_id": "kitab-i-iqan",
-      "similarity": 0.004305705
-    },
-    {
-      "xml_document_id": "tablets-divine-plan",
-      "similarity": 0.003488372
-    },
-    {
-      "xml_document_id": "kitab-i-aqdas",
-      "similarity": 0.0034602077
+      "xml_document_id": "travelers-narrative",
+      "similarity": 0.23103544
     },
     {
       "xml_document_id": "call-divine-beloved",
-      "similarity": 0.0034482758
+      "similarity": 0.23000431
     },
     {
-      "xml_document_id": "memorials-faithful",
-      "similarity": 0.0034482758
+      "xml_document_id": "gleanings-writings-bahaullah",
+      "similarity": 0.22269495
+    },
+    {
+      "xml_document_id": "tablets-hague-abdul-baha",
+      "similarity": 0.22109441
+    },
+    {
+      "xml_document_id": "hidden-words",
+      "similarity": 0.21911457
+    },
+    {
+      "xml_document_id": "secret-divine-civilization",
+      "similarity": 0.2185586
+    },
+    {
+      "xml_document_id": "prayers-abdul-baha",
+      "similarity": 0.21507317
     },
     {
       "xml_document_id": "tablets-bahaullah",
-      "similarity": 0.003382187
+      "similarity": 0.21374625
+    },
+    {
+      "xml_document_id": "will-testament-abdul-baha",
+      "similarity": 0.20642424
+    },
+    {
+      "xml_document_id": "epistle-son-wolf",
+      "similarity": 0.20619118
+    },
+    {
+      "xml_document_id": "gems-divine-mysteries",
+      "similarity": 0.20479798
+    },
+    {
+      "xml_document_id": "tablets-divine-plan",
+      "similarity": 0.20339021
+    },
+    {
+      "xml_document_id": "some-answered-questions",
+      "similarity": 0.20289232
     },
     {
       "xml_document_id": "summons-lord-hosts",
-      "similarity": 0.0022988506
+      "similarity": 0.20269659
+    },
+    {
+      "xml_document_id": "selections-writings-bab",
+      "similarity": 0.19961374
+    },
+    {
+      "xml_document_id": "prayers-meditations",
+      "similarity": 0.19792981
+    },
+    {
+      "xml_document_id": "kitab-i-iqan",
+      "similarity": 0.197643
+    },
+    {
+      "xml_document_id": "light-of-the-world",
+      "similarity": 0.19508472
+    },
+    {
+      "xml_document_id": "kitab-i-aqdas",
+      "similarity": 0.18872017
+    },
+    {
+      "xml_document_id": "memorials-faithful",
+      "similarity": 0.1842274
+    },
+    {
+      "xml_document_id": "selections-writings-abdul-baha",
+      "similarity": 0.18338205
     },
     {
       "xml_document_id": "days-remembrance",
-      "similarity": 0.0022727272
+      "similarity": 0.1569827
+    },
+    {
+      "xml_document_id": "paris-talks",
+      "similarity": 0.15611959
+    },
+    {
+      "xml_document_id": "promulgation-universal-peace",
+      "similarity": 0.13161123
     }
   ],
   "paragraph_matches": [
     {
-      "xml_element_id": "804716281",
-      "xml_text": "Epistle to the Son of the Wolf",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.6,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.08,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/132/Text/2",
-          "similarity": 0.013513514,
-          "pdf_text": "Estos pasajes no necesitan comentario. Son brillantes y manifiestos como el sol y, resplandecientes y luminosos como la luz misma. Toda persona imparcial es guiada por la fragancia de estas palabras hacia el jardín del entendimiento y logra aquello que les está velado y vedado a la mayoría de los hombres. Di: Temed a Dios, oh pueblo, y no sigáis las dudas de aquellos que vociferan, quienes han violado el Convenio de Dios y Su Testamento, y han negado Su misericordia que ha precedido a todo lo que está en los cielos y todo lo que está en la tierra."
-        }
-      ]
-    },
-    {
-      "xml_element_id": "067359947",
-      "xml_text": "by Bahá’u’lláh",
+      "xml_element_id": "811617070",
+      "xml_text": "Twelve Table Talks given by ‘Abdu’l‑Bahá in ‘Akká",
       "top_matches": []
     },
     {
-      "xml_element_id": "874961306",
-      "xml_text": "Translated by Shoghi Effendi",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/173/Text/226",
-          "similarity": 0.02631579,
-          "pdf_text": "M ÍRZÁ M ÚSÁ : Áqáy-i-Kalím; un joven hermano de Bahá\"u\"lláh que permaneció leal y fiel a Bahá\"u\"lláh y Le sirvió hasta el final de su vida. Depués del martirio del Báb, Mírzá Músá, por orden de Bahá\"u\"lláh, escondió el ataúd que contenía los restos mortales del Báb en el Mausoleo del Imam-Zádih Æasan en Teherán. Mírzá Músá acompanió a Bahá\"u\"lláh en Su exilio y a menudo sirivió como Su diputado en las reuniones con los funcionarios del gobierno y los líderes religiosos hasta que \"Abdu\"l-Bahá asumió este cargo. Shoghi Effendi le nombró uno de los Diecinueve Apóstoles de Bahá\"u\"lláh. Mírzá Músá falleció en \"Akká en 1887."
-        },
-        {
-          "pdf_block_id": "/page/171/Text/1",
-          "similarity": 0.01438849,
-          "pdf_text": "de \"Údí Khammár. El Kitáb-i-Aqdas , el cual está revelado en árabe, expone las leyes y ordenanzas de la Dispensación de Bahá\"u\"lláh pero es mucho más que \"un mero código de leyes\". Shoghi Effendi lo ha descrito como \"el Libro Madre de Su Dispensación\", el \"Fuero de Su Nuevo Orden Mundial\" y como el \"Fuero de la civilización mundial del futuro\". Libro revelado por Bahá\"u\"lláh en Bagdád dos años antes de Su declaración. Fue escrito en respuesta a las preguntas formuladas a Bahá\"u\"lláh por un tio del Báb, Æájí Mírzá Siyyid Mu¥ammad, quien aún no estaba convencido de que su sobrino cumplía todas las profecías referentes al Prometido Qá\"im. En el Kitáb-i-Íqán , el cual fue escrito en dos días y dos noches, Bahá\"u\"lláh proclama la unicidad de Dios, la posición de Sus manifestaciones como \"espejos\" através de los cuales el hombre puede obtener conocimiento de Dios y la unidad esencial de Sus enseñanzas. Describe cómo los profetas del pasado se enfrentaron a la oposición y al rechazo por la ceguera y la codicia de los líderes religiosos y presenta las cualidades esenciales del \"verdadero buscador\" de la verdad religiosa. También explica el significado espiritual de las profecías sobre el retorno de Cristo, la venida del Qá\"im y términos como \"resurrección\", \"regreso\" y \"día del juicio\"."
-        },
-        {
-          "pdf_block_id": "/page/167/Text/1",
-          "similarity": 0.012345679,
-          "pdf_text": "principalmente como un elogio al Prometido, más que un código de leyes y ordenanzas designadas a una guía permanente d e futuras generaciones.\" En el tercer Vá¥id, el Báb hace referencia específica al nombre del Prometido y anticipa Su Orden Mundial: \"Bienaventurado es aquel que fija su mirada en el Orden de Bahá'u'lláh y da gracias a su Señor. Pues Él, sin duda, será manifiesto. De hecho, Dios lo ha ordenado irrevocablemente en el Bayán. \" Esta declaración, según Shoghi Effendi, merece el rango de una de las declaraciones más significativas registradas en cualquiera de los Escritos del Báb'."
-        }
-      ]
-    },
-    {
-      "xml_element_id": "736383268",
-      "xml_text": "In the name of God, the One, the Incomparable, the All-Powerful, the All-Knowing, the All-Wise.",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.11111111,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.06896552,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/3/SectionHeader/0",
-          "similarity": 0.05263158,
-          "pdf_text": "En el nombre de Dios, el Único, el Incomparable, el Todopoderoso, el Omnisciente, el Omnisapiente."
-        }
-      ]
-    },
-    {
-      "xml_element_id": "758311257",
-      "xml_text": "Praise be to God, the Eternal that perisheth not, the Everlasting that declineth not, the Self-Subsisting that altereth not. He it is Who is transcendent in His sovereignty, Who is manifest through His signs, and is hidden through His mysteries. He it is at Whose bidding the standard of the Most Exalted Word hath been lifted up in the world of creation, and the banner of “He doeth whatsoever He willeth” raised amidst all peoples. He it is Who hath revealed His Cause for the guidance of His creatures, and sent down His verses to demonstrate His Proof and His Testimony, and embellished the preface of the Book of Man with the ornament of utterance through His saying: “The God of Mercy hath taught the Qur’án, hath created man, and taught him articulate speech.” No God is there but Him, the One, the Peerless, the Powerful, the Mighty, the Beneficent.",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.03125,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.018518519,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/2/Text/8",
-          "similarity": 0.010526316,
-          "pdf_text": "Printed in Spain - Impreso en España"
-        }
-      ]
-    },
-    {
-      "xml_element_id": "149820308",
-      "xml_text": "The light that is shed from the heaven of bounty, and the benediction that shineth from the dawning-place of the will of God, the Lord of the Kingdom of Names, rest upon Him Who is the Supreme Mediator, the Most Exalted Pen, Him Whom God hath made the Dawning-Place of His most excellent names and the Dayspring of His most exalted attributes. Through Him the light of unity hath shone forth above the horizon of the world, and the law of oneness hath been revealed amidst the nations, who, with radiant faces, have turned towards the Supreme Horizon, and acknowledged that which the Tongue of Utterance hath spoken in the kingdom of His knowledge: “Earth and heaven, glory and dominion, are God’s, the Omnipotent, the Almighty, the Lord of grace abounding!”",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.022988506,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.020408163,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/2/Text/8",
-          "similarity": 0.011764706,
-          "pdf_text": "Printed in Spain - Impreso en España"
-        }
-      ]
-    },
-    {
-      "xml_element_id": "673795738",
-      "xml_text": "Give ear, O distinguished divine, unto the voice of this Wronged One. He verily, counselleth thee for the sake of God, and exhorteth thee unto that which will cause thee to draw nigh unto Him under all conditions. He, in truth, is the All-Possessing, the Exalted. Know thou that the ear of man hath been created that it may hearken unto the Divine Voice on this Day that hath been mentioned in all the Books, Scriptures, and Tablets. Purify thou, first, thy soul with the waters of renunciation, and adorn thine head with the crown of the fear of God, and thy temple with the ornament of reliance upon Him. Arise, then, and, with thy face set towards the Most Great House, the Spot round which, as decreed by the Eternal King, all that dwell on earth must circle, recite:",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.029126214,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.017391304,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        }
-      ]
-    },
-    {
-      "xml_element_id": "270933711",
-      "xml_text": "“O God, my God, and my Desire, and my Adored One, and my Master, and my Mainstay, and my utmost Hope, and my supreme Aspiration! Thou seest me turning towards Thee, holding fast unto the cord of Thy bounty, clinging to the hem of Thy generosity, acknowledging the sanctity of Thy Self and the purity of Thine Essence, and testifying to Thy unity and Thy oneness. I bear witness that Thou art the One, the Single, the Incomparable, the Ever-Abiding. Thou didst not take unto Thyself a partner in Thy dominion, nor didst Thou choose a peer for Thyself upon earth. All created things have borne witness unto that which the Tongue of Thy grandeur hath testified ere their creation. Verily Thou art God; there is none other God but Thee! From everlasting Thou wast sanctified from the mention of Thy servants, and exalted above the description of Thy creatures. Thou beholdest, O Lord, the ignorant seeking the ocean of Thy knowledge, the sore athirst the living waters of Thine utterance, the abased the tabernacle of Thy glory, the poor the treasury of Thy riches, the suppliant the dawning-place of Thy wisdom, the weak the source of Thy strength, the wretched the heaven of Thy bounty, the dumb the kingdom of Thy mention.",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.022900764,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.013986014,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/4/Text/3",
-          "similarity": 0.013333334,
-          "pdf_text": "\"¡Oh Dios, mi Dios, mi Deseo, mi Adorado, mi Maestro, mi Apoyo, mi mayor Esperanza y mi supr ema Aspiración! Tú me ves volviéndome hacia Ti, asiénd ome firmemente a la cuerda de Tu munificencia,"
-        }
-      ]
-    },
-    {
-      "xml_element_id": "982751554",
-      "xml_text": "“I testify, O my God, and my King, that Thou hast created me to remember Thee, to glorify Thee, and to aid Thy Cause. And yet, I have aided Thine enemies, who have broken Thy Covenant, who have cast away Thy Book, disbelieved in Thee, and repudiated Thy signs. Alas, alas, for my waywardness, and my shame, and my sinfulness, and my wrong-doing that have withheld me from the depths of the ocean of Thy unity and from fathoming the sea of Thy mercy. Wherefore, alas, alas! and again alas, alas! for my wretchedness and the grievousness of my transgressions! Thou didst call me into being, O my God, to exalt Thy Word, and to manifest Thy Cause. My heedlessness, however, hath deterred me and compassed me about, in such wise that I have arisen to blot out Thy signs, and to shed the blood of Thy loved ones, and of the dawning-places of Thy signs, and of the daysprings of Thy revelation, and of the repositories of Thy mysteries.",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.031578947,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.018691588,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/39/Text/2",
-          "similarity": 0.016,
-          "pdf_text": "O tú o algún otro ha dicho: \"Que el Súrih de Taw ¥íd sea traducido, para que todos conozcan y estén completamente persuadidos de que el único Dios verdadero ni ha engendrado, ni es engendrado. Además, los bábís creen en su Deidad y Divinidad\"(de Bahá'u'lláh)."
-        }
-      ]
-    },
-    {
-      "xml_element_id": "021488291",
-      "xml_text": "“O Lord, my Lord! and again, O Lord, my Lord! and yet again, O Lord, my Lord! I bear witness that by reason of mine iniquity the fruits of the tree of Thy justice have fallen, and through the fire of my rebelliousness the hearts of such of Thy creatures as enjoy near access to Thee were consumed, and the souls of the sincere among Thy servants have melted. O wretched, wretched that I am! O the cruelties, the glaring cruelties, I inflicted! Woe is me, woe is me, for my remoteness from Thee, and for my waywardness, and mine ignorance, and my baseness, and my repudiation of Thee, and my protests against Thee! How many the days during which Thou didst bid Thy servants and Thy loved ones to protect me, whilst I commanded them to harm Thee and to harm them that Thou didst trust! And how numerous the nights during which Thou didst graciously remember me, and didst show me Thy path, whilst I turned away from Thee and from Thy signs! By Thy glory! O Thou Who art the Hope of such as have acknowledged Thy unity, and the Desire of the hearts of them that are rid of all attachment to any save Thee! I find no succorer except Thee, nor king, nor refuge, nor haven besides Thyself. Alas, alas! My turning away from Thee hath burnt up the veil of mine integrity, and my denial of Thee hath rent asunder the covering cast over mine honor. O would that I were beneath the depths of the earth, so that my evil deeds would remain unknown to Thy servants! Thou seest the sinner, O my Lord, who hath turned towards the dawning-place of Thy forgiveness and Thy bounty, and the mountain of iniquity that hath sought the heaven of Thy mercy and pardon. Alas, alas! My mighty sins have prevented me from approaching the court of Thy mercy, and my monstrous deeds have caused me to stray far from the sanctuary of Thy presence. Indeed, I am he that hath failed in duty towards Thee, and hath broken Thy Covenant and Thy Testament, and committed that which hath made the dwellers of the cities of Thy justice, and the dawning-places of Thy grace in Thy realms, to lament. I testify, O my God, that I have put away Thy commandments, and clung to the dictates of my passions, and have cast away the statutes of Thy Book, and seized the book of mine own desire. O misery, misery! As mine iniquities waxed greater and greater, Thy forbearance towards me augmented, and as the fire of my rebelliousness grew fiercer, the more did Thy forgiveness and Thy grace seek to smother up its flame. By the power of Thy might! O Thou Who art the desire of the world and the Best-Beloved of the nations! Thy long-suffering hath puffed me up, and Thy patience hath emboldened me. Thou beholdest, O my God, the tears that my shame hath caused to flow, and the sighs which my heedlessness hath led me to utter. I swear by the greatness of Thy majesty! I can find for myself no habitation save beneath the shadow of the court of Thy bounty, nor any refuge except under the canopy of Thy mercy. Thou seest me in the midst of a sea of despair and of hopelessness, after Thou didst cause me to hear Thy words “Despair not.” By Thy power! My sore injustice hath severed the cord of my hope, and my rebellion hath darkened my face before the throne of Thy justice. Thou beholdest, O my God, him who is as one dead fallen at the door of Thy favor, ashamed to seek from the hand of Thy loving-kindness the living waters of Thy pardon. Thou hast given me a tongue wherewith to remember and praise Thee, and yet it uttereth that which hath caused the souls of such of Thy chosen ones as are nigh unto Thee to melt, and the hearts of the sincere amongst the dwellers of the habitations of holiness to be consumed. Thou hast given me eyes to witness Thy signs, and to behold Thy verses, and to contemplate the revelations of Thine handiwork, but I have rejected Thy will, and have committed what hath caused the faithful among Thy creatures and the detached amidst Thy servants to groan. Thou hast given me ears that I may incline them unto Thy praise and Thy celebration, and unto that which Thou didst send down from the heaven of Thy bounty and the firmament of Thy will. And yet, alas, alas, I have forsaken Thy Cause, and have commanded Thy servants to blaspheme against Thy trusted ones and Thy loved ones, and have acted, before the throne of Thy justice, in such wise that those that have recognized Thy unity and are wholly devoted to Thee among the dwellers of Thy realm mourned with a sore lamentation. I know not, O my God, which among my evildoings to mention before the billowing ocean of Thy favor, nor which of my trespasses to declare when face to face with the splendors of the suns of Thy goodly gifts and bounties.",
+      "xml_element_id": "441936338",
+      "xml_text": "– 1 –",
       "top_matches": []
     },
     {
-      "xml_element_id": "823729794",
-      "xml_text": "“I beseech Thee, this very moment, by the mysteries of Thy Book, and by the things hid in Thy knowledge, and by the pearls that lie concealed within the shells of the ocean of Thy mercy, to reckon me among such as Thou didst mention in Thy Book and describe in Thy Tablets. Hast Thou decreed for me, O my God, any joy after this tribulation, or any relief to succeed this affliction, or any ease to follow this trouble? Alas, alas! Thou hast ordained that every pulpit be set apart for Thy mention, and for the glorification of Thy Word, and the revelation of Thy Cause, but I have ascended it to proclaim the violation of Thy Covenant, and have spoken unto Thy servants such words as have caused the dwellers of the Tabernacles of Thy majesty and the denizens of the Cities of Thy wisdom to lament. How often hast Thou sent down the food of Thine utterance out of the heaven of Thy bounty, and I denied it; and how numerous the occasions on which Thou hast summoned me to the soft flowing waters of Thy mercy, and I have chosen to turn away therefrom, by reason of my having followed my own wish and desire! By Thy glory! I know not for which sin to beg Thy forgiveness and implore Thy pardon, nor from which of mine iniquities to turn aside unto the Court of Thy bounteousness and the Sanctuary of Thy favor. Such are my sins and trespasses that no man can number them, nor pen describe them. I implore Thee, O Thou that turnest darkness into light, and revealest Thy mysteries on the Sinai of Thy Revelation, to aid me, at all times, to put my trust in Thee, and to commit mine affairs unto Thy care. Make me, then, O my God, content with that which the finger of Thy decree hath traced, and the pen of Thy ordinance hath written. Potent art Thou to do what pleaseth Thee, and in Thy grasp are the reins of all that are in heaven and on earth. No God is there but Thee, the All-knowing, the All-Wise.”",
+      "xml_element_id": "866788264",
+      "xml_text": "The Three Kinds of Prophets",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "701775909",
+      "xml_text": "1\n                            \n                            Question: How many kinds of divine Prophets are there?",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "443736521",
+      "xml_text": "2\n                            \n                            Answer:  There are three kinds of divine Prophets.  One kind are the universal Manifestations, which are even as the sun.  Through Their advent the world of existence is renewed, a new cycle is inaugurated, a new religion is revealed, souls are quickened to a new life, and East and West are flooded with light.  These Souls are the universal Manifestations of God and have been sent forth to the entire world and the generality of mankind.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "766322025",
+      "xml_text": "3\n                            \n                            Another kind of Prophets are followers and promulgators, not leaders and law-givers, but they are nonetheless the recipients of the hidden inspirations of God.  Yet another kind are Prophets Whose prophethood has been limited to a particular locality.  But the universal Manifestations are all-encompassing:  They are like the root, and all others are as the branches; they are like the sun, and all others are as the moon and the stars.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "576361283",
+      "xml_text": "– 2 –",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "093365094",
+      "xml_text": "Two Kinds of Prophecy",
       "top_matches": [
         {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.015306123,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
+          "pdf_block_id": "/page/1/Text/2",
+          "similarity": 0.7542166,
+          "pdf_text": "EDITORIAL BAHÁ'Í DE ESPAÑA"
         },
         {
-          "pdf_block_id": "/page/5/Text/2",
-          "similarity": 0.011627907,
-          "pdf_text": "Testifico, oh mi Dios y mi Rey, que Tú me has creado para recordarte, para glorificarte y para ayudar a Tu Causa. Y, sin embargo, he ayudado a Tus enemigos, quienes han violado Tu Convenio, quienes han desechado Tu Libro, no han creído en Ti y han repudiado Tus signos. ¡Ay!, ¡ay!, por mi rebeldía, mi vergüenza, mi depravación y mi maldad, que me han impedido alcanzar las profundidades del océano de Tu unidad y sondear el mar de Tu misericordia. Por tanto, ¡ay!, ¡ay!, y nuevamente ¡ay!, ¡ay!, ¡por mi desdicha y la gravedad de mis transgresiones! Tú me llamaste a la existencia, oh mi Dios, para exaltar Tu Palabra y manifestar Tu Causa. Sin"
+          "pdf_block_id": "/page/2/Text/5",
+          "similarity": 0.720253,
+          "pdf_text": "Primera edición en España: 1995"
         },
         {
-          "pdf_block_id": "/page/141/Text/2",
-          "similarity": 0.010204081,
-          "pdf_text": "Y asimismo Él dice: \"Ellos incluso rehusarán darle a ese Árbol, que no es ni del Este ni del Oeste, el nombre de creyente, pues si fuesen a llamarle de ese modo, no lograrían entristecerle\". ¿Oh mundo, ha escuchado tu oído en qué desamparo fueron reveladas estas palabras desde la aurora de la voluntad de Aquel que es el Lugar de Amanecer de todos los nombres? Él dice: \"He educado a todos los hombres para que puedan reconocer esta Revelación y, sin embargo, el pueblo del Bayán rehúsa incluso conceder el nombre de creyente a ese Árbol bendito que no pertenece al Este ni al Oeste\". ¡Ay, ay, por las cosas que Me han acontecido! ¡Por Dios! A manos de aquel que de día y de noche he criado (Mírzá Ya¥yá), me ha acontencido lo que ha hecho lamentarse al Espíritu Santo y a los moradores del Tabernáculo de la Grandeza de Dios, el Señor de este maravilloso Día."
+          "pdf_block_id": "/page/2/Text/4",
+          "similarity": 0.7186371,
+          "pdf_text": "Portada: Eva Celdrán Esteban"
         }
       ]
     },
     {
-      "xml_element_id": "815758507",
-      "xml_text": "O Shaykh! Know thou that neither the calumnies which men may utter, nor their denials, nor any cavils they may raise, can harm him that hath clung to the cord of the grace, and seized the hem of the mercy, of the Lord of creation. By God! He, the Glory of God (Bahá), hath spoken not from mere impulse. He that hath given Him a voice is He that hath given a voice unto all things, that they may praise and glorify Him. There is none other God but Him, the One, the Incomparable, the Lord of strength, the Unconditioned.",
+      "xml_element_id": "262262479",
+      "xml_text": "1\n                            \n                                Question:  In the books of the Prophets there are tidings of the future; that is, certain events and incidents have been explicitly or implicitly announced and unseen matters foretold, which in this day are witnessed to have come true in their entirety.  How were these events of the present day foreseen in the past?",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "212378546",
+      "xml_text": "2\n                            \n                            Answer:  The Prophets of God draw upon both His boundless universal grace and His particular grace, that is, upon divine revelation and inspiration.  They foretell certain events through revelation and inspiration, which are the heavenly splendours, the intimations of the heart, and the scattering rays of the light of the Day-Star of Truth.  This grace is like the resplendent rays of the sun, and the hearts of the Prophets are even as mirrors.  Thus They affirm that Their words have proceeded from revelation and inspiration.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "977667532",
+      "xml_text": "3\n                            \n                            The second kind of discovery is due to the fact that the Prophets are able Physicians and informed of the mysteries of the universe.  They have Their finger on the pulse of the world, and They diagnose and foresee the ailments and illnesses which are to come.  It is from the appearance, signs, and conditions of the universe itself that They infer these mysteries.  Thus, when an able physician notes certain signs and symptoms in the body of a patient, he diagnoses future ailments, illnesses, and conditions.  This proceeds from his knowledge, skill, and power of inference.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "222959557",
+      "xml_text": "4\n                            \n                            But the tidings of the Prophets are all founded upon the scattering rays of the light of truth and proceed from pure inspiration and revelation.  For past, present, and future apply only to the world of creation, not to the world of God.  In the realm of Truth, past, present, and future are one and the same:  The beginning is even as the end and the end even as the beginning.  For in the eternal and everlasting realm of God, time holds no sway and no distinction can be made between past and future, as past and future are contrary to that which has neither beginning nor end.  In a realm that has no beginning and no end, how can past, present, and future even be imagined?  Observe that even in an outward sense time has no sway in the world of the intellect, even though it holds sway in the mind of an intelligent person, for the power of the mind has ever apprehended and encompassed all things and will forever continue to do so.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "569073022",
+      "xml_text": "5\n                            \n                            Consider for example the sun itself:  It knows neither morning, nor noon, nor evening—all times are one; all moments are the same.  But on account of the rising and setting of the sun, the inhabitants of the earth see mornings and evenings and reckon the days and nights.  Thus all these times are one in the sun and all these days are identical and indistinguishable.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "210683929",
+      "xml_text": "6\n                            \n                            Likewise, in the realm of truth, past, present, and future are the same, and future events are even as past and present occurrences.  From the perspective of that realm, all events and incidents take place in the present and are witnessed by the Prophets and the chosen ones.  And so it is that the Prophets herald events that will transpire two or three thousand years hence, for they abide in the realm of truth, wherein the mysteries of the universe are revealed and laid bare.  Infer from this statement the truth of the spiritual discoveries of the Holy Ones and reflect and ponder thereon—the matter is indeed clear and manifest.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "042228867",
+      "xml_text": "– 3 –",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "676130348",
+      "xml_text": "The Meaning of Speaking in Tongues\n                                        1",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "841661603",
+      "xml_text": "1\n                            \n                            Question:  What is meant by the Apostles’ speaking in tongues?",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "696865657",
+      "xml_text": "2\n                            \n                            Answer:  The meaning is that the Apostles taught in a spiritual tongue, a tongue that embraces all tongues.  For the Word of the Kingdom comprises spiritual meanings and divine mysteries, and whoso attains to this Word will find the realities and mysteries of creation to be clear and evident.  The divine inner meanings are the all-encompassing reality of all tongues.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "381860614",
+      "xml_text": "3\n                            \n                            Therefore, the Holy Spirit endowed the Apostles with the tongue of the Kingdom, and they spoke with all peoples as if in their own tongue; that is, whenever they conversed with a person of any faith or nation, it was as though they were speaking his own tongue.  Were it otherwise, there are at present more than a thousand known languages and it would be fair to expect that the Apostles would have written at least one Gospel in the language of one of the other nations.  It is, however, well established that the Gospel was written only in Hebrew and in Greek.  No Gospel was even written in Latin, though that was at the time the official language of the land.  Yet, as the Apostles were not proficient in Latin, no Gospel was written in that language.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "873310312",
+      "xml_text": "– 4 –",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "013596717",
+      "xml_text": "The Invocation “He Is God”\n                                        2",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "118970596",
+      "xml_text": "1\n                            \n                            Question:  Why is the expression “He is God” used at the beginning of the Tablets and Epistles?",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "522709719",
+      "xml_text": "2\n                            \n                            Answer:  This is a common practice in the East among the Muslims, and their intent is that one must begin all things with the mention of God.  But what is intended in the divine Tablets is that the reality of the divine Essence is sanctified above all understanding, exalted beyond all imagination.  For whatsoever man may imagine is encompassed by him, and that which encompasses is without a doubt greater than that which is encompassed.  It is therefore clear that what is imagined is the creation, not the Creator.  For the reality of Divinity is sanctified above all human fancy.  In this day all people are worshippers of idle fancies, for they conceive a god in the realm of imagination and worship him.  Thus if you were to ask someone who is engaged in prayer:  “Whom are you worshipping?” he would say:  “God.”  “What God?”  “God as I imagine Him.”  Whereas that which is in his imagination is not God.  All people are therefore worshippers of their own thoughts and fancies.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "257321385",
+      "xml_text": "3\n                            \n                            Thus for man there is no path to tread and no place to turn save unto the holy Manifestations.  For, as already mentioned, the reality of Divinity is transcendent, sanctified, and beyond all imagination.  All that can be imagined are the holy and divine Manifestations.  There is nowhere else for man to direct his gaze, and should he pass beyond this he will fall prey to delusion.  Thus what is meant by the words “He is God” is that that manifest Being is the promised Beauty and the Day-Star of Truth, the Exponent of the secrets of Lordship and Divinity, the Repository of the mysteries of the All-Merciful, and the Source of the signs of His Singleness; and that I have begun my discourse with His blessed Name.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "571195015",
+      "xml_text": "– 5 –",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "739651132",
+      "xml_text": "The Wisdom of Fasting\n                                    3",
       "top_matches": [
         {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.04109589,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/10/Text/2",
-          "similarity": 0.031007752,
-          "pdf_text": "¡Oh Shaykh! Sabe que ni las calumnias que los hombres puedan proferir, ni sus negaciones ni cualesquier argucias que puedan urdir serán capaces de hacerle daño a quien se ha asido de la cuerda de la gracia y se ha aferrado a la orla de la misericordia del Señor de la creación. ¡Por Dios! Él, la Gloria de Dios (Bahá), no ha hablado por mero impulso. Quien Le ha dado la voz es Aquel que ha dado la voz a todas las cosas para que puedan alabarle y glorificarle. No existe otro Dios más que Él, el Único, el Incomparable, el Señor de fortaleza, el Incondicionado."
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.023529412,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
+          "pdf_block_id": "/page/2/Text/1",
+          "similarity": 0.71699363,
+          "pdf_text": "© Asamblea Espiritual Bahá'ís de España"
         }
       ]
     },
     {
-      "xml_element_id": "249748535",
-      "xml_text": "They whose sight is keen, whose ears are retentive, whose hearts are enlightened, and whose breasts are dilated, recognize both truth and falsehood, and distinguish the one from the other. Recite thou this prayer that hath flowed from the tongue of this Wronged One, and ponder thereon with a heart rid of all attachment, and with ears that are pure and sanctified, be attentive to its meaning, that haply thou mayest inhale the breath of detachment and have pity upon thyself and upon others:",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.046153847,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.025974026,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/90/Text/1",
-          "similarity": 0.014925373,
-          "pdf_text": "Libros, para que anuncien a Sus criaturas el Recto Sendero."
-        }
-      ]
+      "xml_element_id": "624061593",
+      "xml_text": "1\n                            \n                            Question:  What is the divine wisdom of fasting?",
+      "top_matches": []
     },
     {
-      "xml_element_id": "596822762",
-      "xml_text": "“My God, the Object of my adoration, the Goal of my desire, the All-Bountiful, the Most Compassionate! All life is of Thee, and all power lieth within the grasp of Thine omnipotence. Whosoever Thou exaltest is raised above the angels, and attaineth the station: ‘Verily, We uplifted him to a place on high!’; and whosoever Thou dost abase is made lower than dust, nay, less than nothing. O Divine Providence! Though wicked, sinful, and intemperate, we still seek from Thee a ‘seat of truth,’ and long to behold the countenance of the Omnipotent King. It is Thine to command, and all sovereignty belongeth to Thee, and the realm of might boweth before Thy behest. Everything Thou doest is pure justice, nay, the very essence of grace. One gleam from the splendors of Thy Name, the All-Merciful, sufficeth to banish and blot out every trace of sinfulness from the world, and a single breath from the breezes of the Day of Thy Revelation is enough to adorn all mankind with a fresh attire. Vouchsafe Thy strength, O Almighty One, unto Thy weak creatures, and quicken them who are as dead, that haply they may find Thee, and may be led unto the ocean of Thy guidance, and may remain steadfast in Thy Cause. Should the fragrance of Thy praise be shed abroad by any of the divers tongues of the world, out of the East or out of the West, it would, verily, be prized and greatly cherished. If such tongues, however, be deprived of that fragrance, they assuredly would be unworthy of any mention, in word or yet in thought. We beg of Thee, O Providence, to show Thy way unto all men, and to guide them aright. Thou art, verily, the Almighty, the Most Powerful, the All-Knowing, the All-Seeing.”",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.01604278,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.010050251,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        }
-      ]
+      "xml_element_id": "139336708",
+      "xml_text": "2\n                            \n                            Answer:  There is many a divine wisdom in fasting.  Among them is this:  that, in the days when He Who is the Dayspring of the Sun of Truth engages, through divine inspiration, in revealing the verses of God, in establishing His religion, and in setting forth His teachings, He is so enraptured and enkindled as to find no time for food or drink.  For example, when Moses went up to Mount Sinai to establish the religion of God, He fasted for forty days; and fasting was therefore enjoined upon the Israelites to awaken and admonish them.  Likewise Christ, at the beginning of the foundation of His divine religion, the establishment of His teachings, and the formulation of His admonitions, disregarded for forty days all physical necessities and refrained from food and drink.  The Apostles and early Christian believers also fasted, but this fast was changed by the Church Councils to abstinence from certain foods.  Similarly, the Qur’án was revealed during the month of Ramaḍán\n                                4\n                             and therefore the fast was enjoined during that period.  In the same way, in the beginning of His manifestation, the Báb would be so overcome with emotion at the revelation of the divine verses that for days He would confine himself to drinking tea.  Likewise, in the days when He was instituting the divine teachings, and when the divine verses would be sent down continuously, Bahá’u’lláh would be so overwhelmed with the intensity of their influence and the emotions surging within His heart that He would take but little food.",
+      "top_matches": []
     },
     {
-      "xml_element_id": "716630056",
-      "xml_text": "We beseech God to aid thee to be just and fair-minded, and to acquaint thee with the things that were hidden from the eyes of men. He, in truth, is the Mighty, the Unconstrained. We ask thee to reflect upon that which hath been revealed, and to be fair and just in thy speech, that perchance the splendors of the daystar of truthfulness and sincerity may shine forth, and may deliver thee from the darkness of ignorance, and illumine the world with the light of knowledge. This Wronged One hath frequented no school, neither hath He attended the controversies of the learned. By My life! Not of Mine own volition have I revealed Myself, but God, of His own choosing, hath manifested Me. In the Tablet, addressed to His Majesty the Sháh—may God, blessed and glorified be He, assist him—these words have streamed from the tongue of this Wronged One:",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.02970297,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Text/7",
-          "similarity": 0.017857144,
-          "pdf_text": "M ÍRZÁ R I Æ Á - Q ULÍ : Uno de los hermanos de Bahá\"u\"lláh que no reconoció Su posición."
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.017699115,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        }
-      ]
+      "xml_element_id": "615095796",
+      "xml_text": "3\n                            \n                            Our meaning is that it has been enjoined upon the generality of the people to fast likewise for a few days, that they might follow the example of the divine Manifestations and call to mind Their state and condition.  As history records, the Christians would in the early days observe a complete fast.  For every sincere soul who has a beloved aspires to whatever condition his beloved is experiencing:  If the beloved were sad he would wish for sorrow, and if joyous he would aspire to joy; if the beloved were at ease he would seek comfort, and if troubled he would desire the same.  Now, since in those days the Báb and Bahá’u’lláh would abstain from food and drink, or would partake of only the least amount, it became incumbent upon Their loved ones to follow Their example.  Even as it is said in the Tablet of Visitation:  “... who, for love of Thee, have observed all whereunto they were bidden”.\n                                5\n                             This is but one of the wisdoms of fasting.",
+      "top_matches": []
     },
     {
-      "xml_element_id": "524023635",
-      "xml_text": "“O King! I was but a man like others, asleep upon My couch, when lo, the breezes of the All-Glorious were wafted over Me, and taught Me the knowledge of all that hath been. This thing is not from Me, but from One Who is Almighty and All-Knowing. And He bade Me lift up My voice between earth and heaven, and for this there befell Me what hath caused the tears of every man of understanding to flow. The learning current amongst men I studied not; their schools I entered not. Ask of the city wherein I dwelt, that thou mayest be well assured that I am not of them who speak falsely. This is but a leaf which the winds of the will of thy Lord, the Almighty, the All-Praised, have stirred. Can it be still when the tempestuous winds are blowing? Nay, by Him Who is the Lord of all Names and Attributes! They move it as they list. The evanescent is as nothing before Him Who is the Ever-Abiding. His all-compelling summons hath reached Me, and caused Me to speak His praise amidst all people. I was indeed as one dead when His behest was uttered. The hand of the will of thy Lord, the Compassionate, the Merciful, transformed Me.”",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.021428572,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.013157895,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/34/Text/3",
-          "similarity": 0.012658228,
-          "pdf_text": "En estos días hay algunos que, lejos de ser justos e imparciales, Me han atacado con la espada del odio y la lanza de la enemistad, olvidándose que corresponde a"
-        }
-      ]
+      "xml_element_id": "465793620",
+      "xml_text": "4\n                            \n                            The second wisdom is that fasting is conducive to spiritual awareness.  One’s heart grows more tender, one’s spirituality is increased, and as a result one’s thoughts become purely focused on the remembrance of God.  Such awareness and awakening leads inexorably to spiritual progress.",
+      "top_matches": []
     },
     {
-      "xml_element_id": "240131178",
-      "xml_text": "Now is the moment in which to cleanse thyself with the waters of detachment that have flowed out from the Supreme Pen, and to ponder, wholly for the sake of God, those things which, time and again, have been sent down or manifested, and then to strive, as much as lieth in thee, to quench, through the power of wisdom and the force of thy utterance, the fire of enmity and hatred which smouldereth in the hearts of the peoples of the world. The Divine Messengers have been sent down, and their Books were revealed, for the purpose of promoting the knowledge of God, and of furthering unity and fellowship amongst men. But now behold, how they have made the Law of God a cause and pretext for perversity and hatred. How pitiful, how regrettable, that most men are cleaving fast to, and have busied themselves with, the things they possess, and are unaware of, and shut out as by a veil from, the things God possesseth!",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.026785715,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.016129032,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/134/Text/2",
-          "similarity": 0.012987013,
-          "pdf_text": "Asimismo, en el Law ¥ -i-Fu'ád , y en la Tabla al Rey de París (Napoleón III), y en otras Tablas, ha sido revelado aquello que llevará a toda persona imparcial a atestiguar el poder, la majestad y la sabiduría de Dios, exaltada sea Su gloria. Si los hombres observaran con el ojo de la justicia, se darían cuenta del secreto de este bendito"
-        }
-      ]
+      "xml_element_id": "225698038",
+      "xml_text": "5\n                            \n                            The third wisdom is this.  There are two kinds of fast: material and spiritual.  The material fast consists in abstaining from food and drink, that is, refraining from satisfying the physical appetites.  But the true and spiritual fast is for man to forsake covetous desires, heedlessness, and evil and animalistic attributes.  The material fast is therefore a symbol of that spiritual fast.  It is like saying:  “O Divine Providence!  As I am abstaining from bodily desires and from all occupation with food and drink, even so purify and sanctify my heart from the love of anyone save Thyself, and shield and protect my soul from corrupt inclinations and satanic qualities, that my spirit may commune with the breaths of holiness and fast from the mention of all else besides Thee.”",
+      "top_matches": []
     },
     {
-      "xml_element_id": "133814718",
-      "xml_text": "Say: “O God, my God! Attire mine head with the crown of justice, and my temple with the ornament of equity. Thou, verily, art the Possessor of all gifts and bounties.”",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.0625,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.046511628,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        }
-      ]
+      "xml_element_id": "160469080",
+      "xml_text": "– 6 –",
+      "top_matches": []
     },
     {
-      "xml_element_id": "869755347",
-      "xml_text": "Justice and equity are twin Guardians that watch over men. From them are revealed such blessed and perspicuous words as are the cause of the well-being of the world and the protection of the nations.",
+      "xml_element_id": "459933985",
+      "xml_text": "The Rejection of the Manifestations of God in Every Age\n                                        6",
       "top_matches": [
         {
           "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.060606062,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.045454547,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        }
-      ]
-    },
-    {
-      "xml_element_id": "724599507",
-      "xml_text": "These words have streamed from the pen of this Wronged One in one of His Tablets: “The purpose of the one true God, exalted be His glory, hath been to bring forth the Mystic Gems out of the mine of man—they Who are the Dawning-Places of His Cause and the Repositories of the pearls of His knowledge; for, God Himself, glorified be He, is the Unseen, the One concealed and hidden from the eyes of men. Consider what the Merciful hath revealed in the Qur’án: No vision taketh in Him, but He taketh in all vision, and He is the Subtile, the All-Informed!”",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.04109589,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.023529412,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/2/Text/8",
-          "similarity": 0.013888889,
-          "pdf_text": "Printed in Spain - Impreso en España"
-        }
-      ]
-    },
-    {
-      "xml_element_id": "288821006",
-      "xml_text": "That the divers communions of the earth, and the manifold systems of religious belief, should never be allowed to foster the feelings of animosity among men, is, in this Day, of the essence of the Faith of God and His Religion. These principles and laws, these firmly-established and mighty systems, have proceeded from one Source, and are rays of one Light. That they differ one from another is to be attributed to the varying requirements of the ages in which they were promulgated.",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.04761905,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.026666667,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/2/Text/8",
-          "similarity": 0.016129032,
-          "pdf_text": "Printed in Spain - Impreso en España"
-        }
-      ]
-    },
-    {
-      "xml_element_id": "655576553",
-      "xml_text": "Gird up the loins of your endeavor, O people of Bahá, that haply the tumult of religious dissension and strife that agitateth the peoples of the earth may be stilled, that every trace of it may be completely obliterated. For the love of God, and them that serve Him, arise to aid this sublime and momentous Revelation. Religious fanaticism and hatred are a world-devouring fire, whose violence none can quench. The Hand of Divine power can, alone, deliver mankind from this desolating affliction. Consider the war that hath involved the two Nations, how both sides have renounced their possessions and their lives. How many the villages that were completely wiped out!",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.032967035,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.019417476,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/27/Text/1",
-          "similarity": 0.014285714,
-          "pdf_text": "Te incumbe convocar al pueblo, bajo todas las condiciones, a todo lo que haga de ellos exponentes de características espirituales y buenas acciones, para que sean conscientes de lo que es la causa de la elevación humana y puedan, con el mayor esfuerzo, dirigirse hacia la más sublime Posición y al Pináculo de la Gloria. El temor de Dios ha sido siempre el factor primordial en la educación de Sus criaturas. ¡Bienaventurados quienes lo hayan alcanzado!"
-        }
-      ]
-    },
-    {
-      "xml_element_id": "867043958",
-      "xml_text": "The utterance of God is a lamp, whose light is these words: Ye are the fruits of one tree, and the leaves of one branch. Deal ye one with another with the utmost love and harmony, with friendliness and fellowship. He Who is the Daystar of Truth beareth Me witness! So powerful is the light of unity that it can illuminate the whole earth. The One true God, He Who knoweth all things, Himself testifieth to the truth of these words.",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.04761905,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.026666667,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/34/Text/3",
-          "similarity": 0.024691358,
-          "pdf_text": "En estos días hay algunos que, lejos de ser justos e imparciales, Me han atacado con la espada del odio y la lanza de la enemistad, olvidándose que corresponde a"
-        }
-      ]
-    },
-    {
-      "xml_element_id": "943085671",
-      "xml_text": "Exert yourselves that ye may attain this transcendent and most sublime station, the station that can insure the protection and security of all mankind. This goal excelleth every other goal, and this aspiration is the monarch of all aspirations. So long, however, as the thick clouds of oppression, which obscure the daystar of justice, remain undispelled, it would be difficult for the glory of this station to be unveiled to men’s eyes. These thick clouds are the exponents of idle fancies and vain imaginings, who are none other but the divines of Persia. At one time We spoke in the language of the lawgiver; at another in that of the truth-seeker and the mystic, and yet Our supreme purpose and highest wish hath always been to disclose the glory and sublimity of this station. God, verily, is a sufficient witness!",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.029411765,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.01754386,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/15/Text/3",
-          "similarity": 0.017441861,
-          "pdf_text": "Esforzaos para que podáis alcanzar esta trascendente y muy sublime posición, la posición que puede asegurar la protección y seguridad de toda la humanidad. Esta meta supera a todas las demás metas y esta aspiración es la reina de todas las aspiraciones. Sin embargo, mientras las espesas nubes de la opresión que oscurecen el sol de la justicia no sean disipadas, será difícil que la gloria de esta posición sea develada a los ojos de los hombres. Estas nubes espesas son los exponentes de las ociosas fantasías y las vanas imaginaciones que no son otras que los teólogos de Persia. En un tiempo hablamos en el lenguaje del legislador; en otro, en el del buscador de la verdad y el místico, y aun así Nuestro propósito supremo y"
-        }
-      ]
-    },
-    {
-      "xml_element_id": "594036330",
-      "xml_text": "Consort with all men, O people of Bahá, in a spirit of friendliness and fellowship. If ye be aware of a certain truth, if ye possess a jewel, of which others are deprived, share it with them in a language of utmost kindliness and goodwill. If it be accepted, if it fulfill its purpose, your object is attained. If anyone should refuse it, leave him unto himself, and beseech God to guide him. Beware lest ye deal unkindly with him. A kindly tongue is the lodestone of the hearts of men. It is the bread of the spirit, it clotheth the words with meaning, it is the fountain of the light of wisdom and understanding.",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.036144577,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.021052632,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/70/Text/2",
-          "similarity": 0.018518519,
-          "pdf_text": "Reflexiona sobre la penetrante influencia de la Palabra de Dios. A cada una de estas almas se le ordenó primero blasfemar y renegar de su Fe y, sin embargo, no se encontró a ninguno que prefiriera su propia voluntad a la Voluntad de Dios."
-        }
-      ]
-    },
-    {
-      "xml_element_id": "974584685",
-      "xml_text": "By “divines” in the passage cited above is meant those men who outwardly attire themselves with the raiment of knowledge, but who inwardly are deprived therefrom. In this connection, We quote from the Tablet addressed to His Majesty the Sháh, certain passages from the “Hidden Words” which were revealed by the Abhá Pen under the name of the “Book of Fátimih,” the blessings of God be upon her!",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.048387095,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.027027028,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/2/Text/8",
-          "similarity": 0.016393442,
-          "pdf_text": "Printed in Spain - Impreso en España"
-        }
-      ]
-    },
-    {
-      "xml_element_id": "671219851",
-      "xml_text": "“O ye that are foolish, yet have a name to be wise! Wherefore do ye wear the guise of the shepherd, when inwardly ye have become wolves, intent upon My flock? Ye are even as the star, which riseth ere the dawn, and which, though it seem radiant and luminous, leadeth the wayfarers of My city astray into the paths of perdition.”",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.05357143,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.029411765,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/90/Text/1",
-          "similarity": 0.01724138,
-          "pdf_text": "Libros, para que anuncien a Sus criaturas el Recto Sendero."
-        }
-      ]
-    },
-    {
-      "xml_element_id": "248543746",
-      "xml_text": "And likewise He saith: “O ye seeming fair yet inwardly foul! Ye are like clear but bitter water, which to outward seeming is crystal pure but of which, when tested by the Divine Assayer, not a drop is accepted. Yea, the sunbeam falls alike upon the dust and the mirror, yet differ they in reflection even as doth the star from the earth: nay, immeasurable is the difference!”",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.046875,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.02631579,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/2/Text/8",
-          "similarity": 0.015873017,
-          "pdf_text": "Printed in Spain - Impreso en España"
-        }
-      ]
-    },
-    {
-      "xml_element_id": "269610770",
-      "xml_text": "And also He saith: “O essence of desire! At many a dawn have I turned from the realms of the Placeless unto thine abode, and found thee on the bed of ease busied with others than Myself. Thereupon, even as the flash of the spirit, I returned to the realms of celestial glory, and breathed it not in My retreats above unto the hosts of holiness.”",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.05172414,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.028571429,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/17/Text/2",
-          "similarity": 0.02020202,
-          "pdf_text": "Y además Él dice: \"¡Oh esencia del deseo! Muchas madrugadas he venido a tu morada desde los reinos del Irrestringido y te he encontrado en el lecho de la comodidad ocupado con otros fuera de Mí. Por eso, como el rayo del espíritu, volví a los reinos de gloria celestial y no lo mencioné a las huestes de santidad en Mis retiros de lo alto.\""
-        }
-      ]
-    },
-    {
-      "xml_element_id": "027199009",
-      "xml_text": "And again He saith: “O bond slave of the world! Many a dawn hath the breeze of My loving-kindness wafted over thee and found thee upon the bed of heedlessness fast asleep. Bewailing then thy plight it returned whence it came.”",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.046511628,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.037037037,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/90/Text/1",
-          "similarity": 0.022727273,
-          "pdf_text": "Libros, para que anuncien a Sus criaturas el Recto Sendero."
-        }
-      ]
-    },
-    {
-      "xml_element_id": "007836588",
-      "xml_text": "Those divines, however, who are truly adorned with the ornament of knowledge and of a goodly character are, verily, as a head to the body of the world, and as eyes to the nations. The guidance of men hath, at all times, been, and is, dependent upon such blessed souls. We beseech God to graciously aid them to do His will and pleasure. He, in truth, is the Lord of all men, the Lord of this world and of the next.",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.046153847,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.025974026,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/2/Text/8",
-          "similarity": 0.015625,
-          "pdf_text": "Printed in Spain - Impreso en España"
-        }
-      ]
-    },
-    {
-      "xml_element_id": "978124911",
-      "xml_text": "O Shaykh! We have learned that thou hast turned away from Us, and protested against Us, in such wise that thou hast bidden the people to curse Me, and decreed that the blood of the servants of God be shed. God requite him who said: “Willingly will I obey the judge who hath so strangely decreed that my blood be spilt at Hill and at Ḥaram!” Verily I say: Whatever befalleth in the path of God is the beloved of the soul and the desire of the heart. Deadly poison in His path is pure honey, and every tribulation a draught of crystal water. In the Tablet to His Majesty the Sháh it is written: “By Him Who is the Truth! I fear no tribulation in His path, nor any affliction in My love for Him. Verily God hath made adversity as a morning dew upon His green pasture, and a wick for His lamp which lighteth earth and heaven.”",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.027272727,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/110/Text/4",
-          "similarity": 0.021582734,
-          "pdf_text": "¡Oh Shaykh! Hemos afirmado repetidas veces que durante varios años hemos extendido Nuestra ayuda a su Majestad el Sháh. Por años no ha ocurrido ningún fatal incidente en Persia. Las riendas de los agitadores de sedición de las diferentes sectas estaban firmemente"
-        },
-        {
-          "pdf_block_id": "/page/123/Text/3",
-          "similarity": 0.020833334,
-          "pdf_text": "¡Oh Shaykh! Incumbe a los teólogos unirse a su Majestad el Sháh -quiera Dios asistirle- y adherirse día y noche a lo que exaltará la posición tanto del gobierno como de la nación. Esta gente está asiduamente ocupada en la iluminación de las almas de los hombres y en la rehabilitación de su condición. Esto lo atestigua lo que ha"
-        }
-      ]
-    },
-    {
-      "xml_element_id": "894978220",
-      "xml_text": "Set thine heart towards Him Who is the Kaaba of God, the Help in Peril, the Self-Subsisting, and raise thou thine hands with such firm conviction as shall cause the hands of all created things to be lifted up towards the heaven of the grace of God, the Lord of all worlds. Turn, then, thy face towards Him in such wise that the faces of all beings will turn in the direction of His shining and luminous Horizon, and say: “Thou seest me, O my Lord, with my face turned towards the heaven of Thy bounty and the ocean of Thy favor, withdrawn from all else beside Thee. I ask of Thee, by the splendors of the Sun of Thy revelation on Sinai, and the effulgences of the Orb of Thy grace which shineth from the horizon of Thy Name, the Ever-Forgiving, to grant me Thy pardon and to have mercy upon me. Write down, then, for me with Thy pen of glory that which will exalt me through Thy Name in the world of creation. Aid me, O my Lord, to set myself towards Thee, and to hearken unto the voice of Thy loved ones, whom the powers of the earth have failed to weaken, and the dominion of the nations has been powerless to withhold from Thee, and who, advancing towards Thee, have said: ‘God is our Lord, the Lord of all who are in heaven and all who are on earth!’”",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.022058824,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.013513514,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/18/Text/2",
-          "similarity": 0.012295082,
-          "pdf_text": "Dirige tu corazón hacia Aquel que es la Kaaba de Dios, el que Ayuda en el Peligro, Quien subsiste por Sí Mismo, y eleva tus manos con tan firme convicción que haga que las manos de todas las cosas creadas se eleven hacia el cielo de la gracia de Dios, el Señor de todos los mundos. Vuelve, entonces, tu rostro hacia Él, de tal modo que los rostros de todos los seres se vuelvan en la d irección de Su brillante y luminoso Horizonte, y di: \"Tú me ves, oh mi Señor, con el rostro vuelto hacia el cielo de Tu munificencia y el océano de Tu favor, separado de todo excepto de Ti. Te pido, por los resplandores del sol de Tu revelación en el Sinaí y por los fulgores del astro de Tu gracia que brilla desde el horizonte de Tu Nombre, el que Siempre Perdona, que me otorgues Tu perdón y tengas compasión de mí. Decreta entonces para mí, con Tu pluma de gloria, aquello que me exalte por medio de Tu Nombre en el mundo de la creación. Ayúdame, oh mi Señor, a dirigirme hacia Ti y a escuchar la voz de Tus amados, a quienes los poderes de la tierra no han podido"
-        }
-      ]
-    },
-    {
-      "xml_element_id": "158845818",
-      "xml_text": "O Shaykh! Verily I say, the seal of the Choice Wine hath, in the name of Him Who is the Self-Subsisting, been broken; withhold not thyself therefrom. This Wronged One speaketh wholly for the sake of God; thou too shouldst, likewise, for the sake of God, meditate upon those things that have been sent down and manifested, that haply thou mayest, on this blessed Day, take thy portion of the liberal effusions of Him Who is truly the All-Bountiful, and mayest not remain deprived thereof. This indeed would not be hard for God. Dust-made Adam was raised up, through the Word of God, to the heavenly throne, and a mere fisherman was made the repository of Divine wisdom, and Abú-Dhar, the shepherd, became a prince of the nations!",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.030927835,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.018348623,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/19/Text/2",
-          "similarity": 0.016759777,
-          "pdf_text": "¡Oh Shaykh! En verdad digo, el sello del Vino Escogido ha sido roto en el nombre de Aquel que Subsiste por Sí Mismo; no te prives de él. Este Agraviado habla enteramente por amor a Dios; asimismo, tú también deberías meditar, por amor a Dios, sobre las cosas que han sido enviadas y manifestadas, que quizá puedas tomar, en este bendito Día, tu porción de las generosas efusiones de Aquel que es realmente el Todogeneroso, y no quedar privado de ellas. Esto, en verdad, no sería difícil para Dios. ¡Adán, hecho del polvo por medio de la Palabra de Dios, fue elevado al trono celestial, y un mero pescador fue convertido en repositorio de la sabiduría Divina, y Abú-Dhar, el pastor, llegó a ser un príncipe de naciones!"
-        }
-      ]
-    },
-    {
-      "xml_element_id": "325311309",
-      "xml_text": "This Day, O Shaykh, hath never been, nor is it now, the Day whereon man-made arts and sciences can be regarded as a true standard for men, since it hath been recognized that He Who was wholly unversed in any of them hath ascended the throne of purest gold, and occupied the seat of honor in the council of knowledge, whilst the acknowledged exponent and repository of these arts and sciences remained utterly deprived. By “arts and sciences” is meant those which begin with words and end with words. Such arts and sciences, however, as are productive of good results, and bring forth their fruit, and are conducive to the well-being and tranquility of men have been, and will remain, acceptable before God. Wert thou to give ear to My voice, thou wouldst cast away all thy possessions, and wouldst set thy face towards the Spot wherein the ocean of wisdom and of utterance hath surged, and the sweet savors of the loving-kindness of thy Lord, the Compassionate, have wafted.",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.024193548,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.014705882,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/26/Text/3",
-          "similarity": 0.010471204,
-          "pdf_text": "En el tercer Tajallí (efulgencia) del Libro de Tajallíyát (Libro de Efulgencias), hemos mencionado: \"Las artes, los oficios y las ciencias elevan al mundo del ser y conducen a su exaltación. El conocimiento es como alas para la vida del hombre y una escalera para su ascenso. Su adquisición incumbe a todos. Sin embargo, debe adquirirse el conocimiento de aquellas ciencias que beneficien a los pueblos de la tierra y no de aquellas que comienzan con palabras y terminan con palabras. Grande es, en verdad, el honor de los científicos y artífices ante los pueblos del mundo. De ello da testimonio el Libro Madre en esta destacada posición\"."
-        }
-      ]
-    },
-    {
-      "xml_element_id": "433308565",
-      "xml_text": "We deem it advisable, in this connection, to recount briefly some past events, that perchance they may be the means of vindicating the cause of equity and justice. At the time when His Majesty the Sháh, may God, his Lord, the Most Merciful, aid him through His strengthening grace, was planning a journey to Iṣfahán, this Wronged One, having obtained his permission, visited the holy and luminous resting-places of the Imáms, may the blessings of God be upon them! Upon Our return, We proceeded to Lavásán on account of the excessive heat prevailing in the capital. Following Our departure, there occurred the attempt upon the life of His Majesty, may God, exalted and glorified be He, assist him. Those days were troublous days, and the fires of hatred burned high. Many were arrested, among them this Wronged One. By the righteousness of God! We were in no wise connected with that evil deed, and Our innocence was indisputably established by the tribunals. Nevertheless, they apprehended Us, and from Níyávarán, which was then the residence of His Majesty, conducted Us, on foot and in chains, with bared head and bare feet, to the dungeon of Ṭihrán. A brutal man, accompanying Us on horseback, snatched off Our hat, whilst We were being hurried along by a troop of executioners and officials. We were consigned for four months to a place foul beyond comparison. As to the dungeon in which this Wronged One and others similarly wronged were confined, a dark and narrow pit were preferable. Upon Our arrival We were first conducted along a pitch-black corridor, from whence We descended three steep flights of stairs to the place of confinement assigned to Us. The dungeon was wrapped in thick darkness, and Our fellow prisoners numbered nearly a hundred and fifty souls: thieves, assassins and highwaymen. Though crowded, it had no other outlet than the passage by which We entered. No pen can depict that place, nor any tongue describe its loathsome smell. Most of these men had neither clothes nor bedding to lie on. God alone knoweth what befell Us in that most foul-smelling and gloomy place!",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/20/Text/2",
-          "similarity": 0.016172506,
-          "pdf_text": "Estimamos aconsejable, en relación con esto, recordar brevemente algunos acontecimientos pasados, que tal vez puedan ser el medio de vindicar la causa de la equidad y la justicia. En la época en que Su Majestad el Sháh, quiera Dios, su Señor, el Más Misericordioso, ayudarle mediante Su gracia fortalecedora, estaba planeando un viaje a IÐfahán, este Agraviado, habiendo obtenido su permiso, visitó los santos y luminosos sepulcros de los imames, ¡que las bendiciones de Dios sean con ellos! A Nuestro regreso, debido al excesivo calor reinante en la capital, viajamos a Lavásán. Después de Nuestra partida, sucedió el atentado contra la vida de Su Majestad, quiera Dios, exaltado y glorificado sea Él, asistirle. Esos días fueron días de conmoción y los fuegos del odio ardieron violentamente. Muchos fueron arrestados, entre ellos este Agraviado. ¡Por la rectitud de Dios! De ninguna forma estábamos vinculados a ese hecho infausto y Nuestra inocencia fue indiscutiblemente establecida por los tribunales. No obstante, Nos aprehendieron y desde Níyávarán, que por ese entonces era la residencia de Su Majestad, Nos condujeron a pie y encadenado, con la cabeza descubierta y descalzo, a la mazmorra de Teherán. Un hombre brutal que Nos acompañaba a caballo Nos arrebató el sombrero, mientras éramos conducido a toda prisa por una tropa de verdugos y oficiales. Fuimos"
-        },
-        {
-          "pdf_block_id": "/page/139/Text/2",
-          "similarity": 0.014534884,
-          "pdf_text": "Y asimismo Él dice: \"No os permitáis estar apartados de Dios como por un velo, después de que Él Se ha revelado a Sí Mismo. Pues todo lo que ha sido exaltado en el Bayán no es más que un anillo en Mi mano y Yo Mismo, verdaderamente, no soy sino un anillo en la mano de Aquel a Quien Dios hará manifiesto, ¡glorificada sea Su mención! Él lo hace girar como a Él Le place, por cualquier cosa que a Él Le place y por medio de lo que a Él Le place. Él, verdaderamente, es el que Ayuda en el Peligro, el Altísimo\". Y asimismo Él dice: \"Si Él hiciera de cada uno en la tierra un Profeta, todos serían, en la más pura verdad, considerados como Profetas ante la vista de Dios\". Y asimismo Él dice: \"En el día de la revelación de Aquel a Quien Dios hará manifiesto, todos los que moran en la tierra serán iguales en Su apreciación. A quienquiera Él haya ordenado ser un Profeta, él, verdaderamente, ha sido un Profeta desde el principio que no tiene principio y así permanecerá hasta el fin que no tiene fin, por cuanto esto es una obra de Dios. Y a quienquiera Él haya hecho un Vicerregente, será un Vicerregente en todos los mundos, ya que esto es una obra de Dios. Pues la voluntad de Dios no puede ser revelada de manera alguna salvo mediante Su voluntad; ni Su deseo puede"
-        },
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.012931035,
+          "similarity": 0.7271903,
           "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
         }
       ]
     },
     {
-      "xml_element_id": "211612767",
-      "xml_text": "Day and night, while confined in that dungeon, We meditated upon the deeds, the condition, and the conduct of the Bábís, wondering what could have led a people so high-minded, so noble, and of such intelligence, to perpetrate such an audacious and outrageous act against the person of His Majesty. This Wronged One, thereupon, decided to arise, after His release from prison, and undertake, with the utmost vigor, the task of regenerating this people.",
+      "xml_element_id": "442169361",
+      "xml_text": "1\n                            \n                            When Abraham was sent forth, however much He expounded the truth, established the religion of God, disseminated new teachings, and explained the divine mysteries, the Assyrians and the Chaldeans would say, “This is but an idle fancy and an empty tale, a mere figment of the imagination.  It will never come to pass.”  Even more, they called it sheer ignorance and counted themselves among the exponents of reason and understanding.  But before long it became clear that what Abraham had proclaimed was indeed the truth, and that it was their own thoughts that were the idle fancies.  For after a short time the teachings of Abraham were realized in the world:  The Holy Land was given to His descendants; the foundations of the religion of God were established; Isaac and Jacob came into the world; Joseph became ruler in Egypt; Ishmael was blessed and illumined Mount Paran; Moses the Interlocutor appeared, beheld in the desert of Sinai the blazing fire of God in the Burning Bush, rescued the Israelites from their oppression and captivity at the hands of the Egyptians, led them to the Holy Land, and, through His teachings and His religion, which were consonant with the needs of the age, founded a mighty nation.  Thus did the deniers fully experience their error, yet they were not chastened or admonished.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "184037975",
+      "xml_text": "2\n                            \n                            On the contrary, when Moses appeared they erred anew, for Pharaoh’s people regarded the teachings and the law of Moses as mere fancy and accorded them no importance, considering their own ideas to represent the truth.  But after a short time it became clear and evident that what Moses had proclaimed was indeed the truth and had come to pass, that the religion of God had been put into full effect and had secured the honour and advancement of all Israel, and that it was the thoughts and imaginations of the Egyptians that were the idle fancies.  This was the second experience and yet the people were still not admonished and awakened, but rather persisted in their ignorance until Jesus appeared with a beauteous countenance and an eloquent tongue, and spread abroad the sweet savours of the rose-garden of divine mysteries and imparted the grace of the Holy Spirit.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "922195987",
+      "xml_text": "3\n                            \n                            The people, notwithstanding their two previous experiences wherein their error had been established, claimed again that the teachings of the glorious Gospel were idle fancies—that they were mere thoughts and imaginations, that they were devoid of all reality, and that they lacked in philosophical substance.  “These are but vain and idle thoughts,” they would say, “whereas we possess true knowledge and lofty ideas, we have wisdom and discernment, and we know the ways of sound governance.”  But before long their error was exposed, for what Jesus had said was sound and true:  It was heavenly thoughts and divine teachings, whereas the prevailing thoughts of the tribes and nations of the earth were the vain and idle fancies.  This was the third error and yet another experience which was later also repeated upon the appearance of Muḥammad and the Báb.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "780178949",
+      "xml_text": "4\n                            \n                            Now Bahá’u’lláh has appeared, the divine teachings and admonitions have been unveiled, the call of the oneness of humanity has been sounded, the banner of the kingdom of peace is flying, and the tabernacle of love and harmony amongst all mankind has been raised in the very heart of the world and is summoning all people.  And yet again some ignorant souls imagine that these divine teachings are without foundation and regard their own imaginations as lofty thoughts.  But before long it will become manifest that what He has proclaimed is sound, proven, and compelling, and that all other thoughts are vain and idle.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "453616322",
+      "xml_text": "– 7 –",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "009873382",
+      "xml_text": "The Meaning of “Mysteries”\n                                    7",
       "top_matches": [
         {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.046875,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.02631579,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/21/Text/2",
-          "similarity": 0.017699115,
-          "pdf_text": "Día y noche, mientras estuvimos confinados en aquel calabozo, meditábamos sobre los hechos, la condición y la conducta de los bábís, preguntándonos qué fue lo que indujo a gente tan magnánima, tan noble y tan inteligente, a perpetrar un acto tan audaz y ultrajante contra la persona de Su Majestad. Este Agraviado, por consiguiente, después de ser puesto en libertad decidió levantarse y emprender, con el mayor vigor, la tarea de regenerar a esta gente."
+          "pdf_block_id": "/page/2/Text/6",
+          "similarity": 0.78961545,
+          "pdf_text": "Depósito Legal: ISBN: 85-85238-"
         }
       ]
     },
     {
-      "xml_element_id": "196729548",
-      "xml_text": "One night, in a dream, these exalted words were heard on every side: “Verily, We shall render Thee victorious by Thyself and by Thy Pen. Grieve Thou not for that which hath befallen Thee, neither be Thou afraid, for Thou art in safety. Erelong will God raise up the treasures of the earth—men who will aid Thee through Thyself and through Thy Name, wherewith God hath revived the hearts of such as have recognized Him.”",
+      "xml_element_id": "533836210",
+      "xml_text": "1\n                            \n                            Question:  What is meant by “mysteries” in the blessed Tablets?",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "653719259",
+      "xml_text": "2\n                            \n                            Answer:  By “mysteries” is meant such matters and questions as are remote and hidden from the minds and understandings of the people, but which can later be grasped by fair-minded souls if a perfect Individual unravels and explains them.  Thus, the reality of the advent of Christ was one of God’s mysteries in the Mosaic Dispensation, which was later disclosed and witnessed through the manifestation of Christ.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "965604157",
+      "xml_text": "– 8 –",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "769764203",
+      "xml_text": "The Transformation of Matter across the Kingdoms of Existence",
       "top_matches": [
         {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.029850746,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.025641026,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/2/Text/8",
-          "similarity": 0.015384615,
-          "pdf_text": "Printed in Spain - Impreso en España"
+          "pdf_block_id": "/page/174/Text/1",
+          "similarity": 0.7668596,
+          "pdf_text": "Æusayn Khán; mostró activa hostilidad hacia Bahá\"u\"lláh en Constantinopla."
         }
       ]
     },
     {
-      "xml_element_id": "520603799",
-      "xml_text": "And when this Wronged One went forth out of His prison, We journeyed, in pursuance of the order of His Majesty the Sháh—may God, exalted be He, protect him—to ‘Iráq, escorted by officers in the service of the esteemed and honored governments of Persia and Russia. After Our arrival, We revealed, as a copious rain, by the aid of God and His Divine Grace and mercy, Our verses, and sent them to various parts of the world. We exhorted all men, and particularly this people, through Our wise counsels and loving admonitions, and forbade them to engage in sedition, quarrels, disputes and conflict. As a result of this, and by the grace of God, waywardness and folly were changed into piety and understanding, and weapons converted into instruments of peace.",
+      "xml_element_id": "325480731",
+      "xml_text": "1\n                            \n                            Throughout this endless universe, the greatest means for the progress and renewal of existence is that all things are eaters and eaten.  This is a condition that applies to all the particles of the universe, and it is through this means that created things are renewed, transformed into one another, and endowed with a new reality unlike the previous one.  And this indeed is the means of renewal.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "750408443",
+      "xml_text": "For instance, in the mineral kingdom the soil absorbs the air and the water and decomposes the creatures within it, and thus enables the existence of plants.  The more microscopic animals exist in the soil, the better the plants will grow.  And when the plant has grown, it is consumed by the animal, is incorporated in its body, and is endowed with a new existence.  Thus it progresses further and assumes a higher reality than that which it initially possessed.  This indeed is the means of progress and renewal from the mineral to the vegetable, from the vegetable to the animal, and from the animal to the human world.  For as plants grow they are eaten by the animal and replace those elements which have been depleted in the latter’s body.  In this manner the plants enter the animal kingdom.  The microscopic organisms in the air, water, and food enter in turn the body of man and replace that which has been assimilated therein.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "705921617",
+      "xml_text": "Thus there is progress in these passages and renewals:  The mineral passed from the mineral to the vegetable, then to the animal, and finally to the human realm.  And were it not for the cycle of the eater and the eaten, no renewal would take place.  Such a renewal, however, is one of the inherent requirements of existence, and all contingent things are bound to pass from one condition to another.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "597376329",
+      "xml_text": "The pain and sting of death consists in the dissolution of what was composed and its passage from one condition to another.  When one is accustomed to composition, then decomposition is a painful torment; when one is used to a certain degree and station, it is difficult to take leave of it.  It is therefore clear that death is merely the passage from one condition to another.  Thus if a predatory animal devours another animal, the latter has in reality not been abased but has been decomposed and recomposed, found a renewed existence, and passed from one body to another.  This motion and renewal of beings gives rise to the orderly arrangement and interconnectedness of all things, and were it not for these passages across the vegetable, animal, and human realms, the chain of being would be broken and the innate order of nature would be disrupted.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "638794850",
+      "xml_text": "– 9 –",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "037805626",
+      "xml_text": "Ṭáhirih and the Conference of Badasht",
       "top_matches": [
         {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.031914894,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
+          "pdf_block_id": "/page/2/Text/3",
+          "similarity": 0.73344296,
+          "pdf_text": "Traducido al castellano por: Kamran Vafaei"
         },
         {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.018867925,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
+          "pdf_block_id": "/page/0/SectionHeader/0",
+          "similarity": 0.71258754,
+          "pdf_text": "Epístola AL HIJO DEL LOBO"
         },
         {
-          "pdf_block_id": "/page/98/Text/3",
-          "similarity": 0.014184397,
-          "pdf_text": "Con respecto a esto es necesario mencionar el siguiente suceso, que quizá los hombres se aferren firmemente a la cuerda de la justicia y la veracidad. Æájí Shaykh Mu¥ammad-\"Alí -la gloria de Dios, el Sempiterno, sea con él- era un comerciante de elevada reputación y bien conocido por la mayoría de los habitantes de la Gran Ciudad (Constantinopla). No hace mucho, cuando la Embajada de Persia en Constantinopla estaba empeñada"
+          "pdf_block_id": "/page/1/SectionHeader/0",
+          "similarity": 0.71258754,
+          "pdf_text": "Epístola AL HIJO DEL LOBO"
         }
       ]
     },
     {
-      "xml_element_id": "699618220",
-      "xml_text": "During the days I lay in the prison of Ṭihrán, though the galling weight of the chains and the stench-filled air allowed Me but little sleep, still in those infrequent moments of slumber I felt as if something flowed from the crown of My head over My breast, even as a mighty torrent that precipitateth itself upon the earth from the summit of a lofty mountain. Every limb of My body would, as a result, be set afire. At such moments My tongue recited what no man could bear to hear.",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.04,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/29/Text/1",
-          "similarity": 0.024390243,
-          "pdf_text": "Anciano de los días. ¡Por la rectitud de Dios! La espada de una carácter virtuoso y de una conducta recta es más afilada que las hojas de acero. La voz de la verdadera Fe, en este momento, clama en voz alta diciendo: ¡Oh pueblo! Verdaderamente, el Día ha llegado y mi Señor Me ha hecho brillar con una luz cuyo esplendor ha eclipsado a los soles de la expresión. Temed al Misericordioso y no seáis de los descarriados\"."
-        },
-        {
-          "pdf_block_id": "/page/56/Text/1",
-          "similarity": 0.024390243,
-          "pdf_text": "Rogamos a Dios que seas asistido en ello. Y esto, verdaderamente, no sería difícil para Él."
-        }
-      ]
-    },
-    {
-      "xml_element_id": "483041177",
-      "xml_text": "We shall herewith cite a few passages from Tablets specifically revealed to this people, so that every one may know of a certainty that this Wronged One hath acted in a manner which hath been pleasing and acceptable unto men endued with insight, and unto such as are the exponents of justice and equity:",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.057692308,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.03125,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/2/Text/8",
-          "similarity": 0.019607844,
-          "pdf_text": "Printed in Spain - Impreso en España"
-        }
-      ]
-    },
-    {
-      "xml_element_id": "713687345",
-      "xml_text": "“O ye friends of God in His cities and His loved ones in His lands! This Wronged One enjoineth on you honesty and piety. Blessed the city that shineth by their light. Through them man is exalted, and the door of security is unlocked before the face of all creation. Happy the man that cleaveth fast unto them, and recognizeth their virtue, and woe betide him that denieth their station.”",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.033333335,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.028169014,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/2/Text/8",
-          "similarity": 0.01724138,
-          "pdf_text": "Printed in Spain - Impreso en España"
-        }
-      ]
-    },
-    {
-      "xml_element_id": "412597224",
-      "xml_text": "And in another connection these words were revealed: “We enjoin the servants of God and His handmaidens to be pure and to fear God, that they may shake off the slumber of their corrupt desires, and turn toward God, the Maker of the heavens and of the earth. Thus have We commanded the faithful when the Daystar of the world shone forth from the horizon of ‘Iráq. My imprisonment doeth Me no harm, neither the tribulations I suffer, nor the things that have befallen Me at the hands of My oppressors. That which harmeth Me is the conduct of those who, though they bear My name, yet commit that which maketh My heart and My pen to lament. They that spread disorder in the land, and lay hands on the property of others, and enter a house without leave of its owner, We, verily, are clear of them, unless they repent and return unto God, the Ever-Forgiving, the Most Merciful.”",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.026086956,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/29/Text/1",
-          "similarity": 0.018404908,
-          "pdf_text": "Anciano de los días. ¡Por la rectitud de Dios! La espada de una carácter virtuoso y de una conducta recta es más afilada que las hojas de acero. La voz de la verdadera Fe, en este momento, clama en voz alta diciendo: ¡Oh pueblo! Verdaderamente, el Día ha llegado y mi Señor Me ha hecho brillar con una luz cuyo esplendor ha eclipsado a los soles de la expresión. Temed al Misericordioso y no seáis de los descarriados\"."
-        },
-        {
-          "pdf_block_id": "/page/25/Text/3",
-          "similarity": 0.018072288,
-          "pdf_text": "Y todavía otra vez, en otra ocasión: \"El Sol de la Divina Expresión nunca puede ponerse, ni su esplendor puede ser extinguido. Estas sublimes palabras se han oído, en este día, desde el Árbol del Loto, más allá del cual no hay paso: 'Yo pertenezco a quien Me ama, el que cumple fielmente Mis mandamientos y ha desech ado las cosas que le fueron prohibidas en Mi Libro'\"."
-        }
-      ]
-    },
-    {
-      "xml_element_id": "215150301",
-      "xml_text": "And in another connection: “O peoples of the earth! Haste ye to do the pleasure of God, and war ye valiantly, as it behooveth you to war, for the sake of proclaiming His resistless and immovable Cause. We have decreed that war shall be waged in the path of God with the armies of wisdom and utterance, and of a goodly character and praiseworthy deeds. Thus hath it been decided by Him Who is the All-Powerful, the Almighty. There is no glory for him that committeth disorder on the earth after it hath been made so good. Fear God, O people, and be not of them that act unjustly.”",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.035714287,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/56/Text/1",
-          "similarity": 0.021978023,
-          "pdf_text": "Rogamos a Dios que seas asistido en ello. Y esto, verdaderamente, no sería difícil para Él."
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.020833334,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        }
-      ]
-    },
-    {
-      "xml_element_id": "107948855",
-      "xml_text": "And again in another connection: “Revile ye not one another. We, verily, have come to unite and weld together all that dwell on earth. Unto this beareth witness what the ocean of Mine utterance hath revealed amongst men, and yet most of the people have gone astray. If anyone revile you, or trouble touch you, in the path of God, be patient, and put your trust in Him Who heareth, Who seeth. He, in truth, witnesseth, and perceiveth, and doeth what He pleaseth, through the power of His sovereignty. He, verily, is the Lord of strength, and of might. In the Book of God, the Mighty, the Great, ye have been forbidden to engage in contention and conflict. Lay fast hold on whatever will profit you, and profit the peoples of the world. Thus commandeth you the King of Eternity, Who is manifest in His Most Great Name. He, verily, is the Ordainer, the All-Wise.”",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.027027028,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.016260162,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        }
-      ]
-    },
-    {
-      "xml_element_id": "273528500",
-      "xml_text": "And yet again in another connection: “Beware lest ye shed the blood of any one. Unsheathe the sword of your tongue from the scabbard of utterance, for therewith ye can conquer the citadels of men’s hearts. We have abolished the law to wage holy war against each other. God’s mercy hath, verily, encompassed all created things, if ye do but understand.”",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.050847456,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.028169014,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/2/Text/8",
-          "similarity": 0.01724138,
-          "pdf_text": "Printed in Spain - Impreso en España"
-        }
-      ]
-    },
-    {
-      "xml_element_id": "999588038",
-      "xml_text": "And yet again in another connection: “O people! Spread not disorder in the land, and shed not the blood of any one, and consume not the substance of others wrongfully, neither follow every accursed prattler.”",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.055555556,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.04255319,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/2/Text/8",
-          "similarity": 0.029411765,
-          "pdf_text": "Printed in Spain - Impreso en España"
-        }
-      ]
-    },
-    {
-      "xml_element_id": "376442005",
-      "xml_text": "And still again in another connection: “The Sun of Divine Utterance can never set, neither can its radiance be extinguished. These sublime words have, in this day, been heard from the Lote-Tree beyond which there is no passing: ‘I belong to him that loveth Me, that holdeth fast My commandments, and casteth away the things forbidden him in My Book.’”",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.05,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.027777778,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/54/Text/1",
-          "similarity": 0.025641026,
-          "pdf_text": "ayuda, por lo cual Dios ha ordenado para ti una posición que no puede comprender el conocimiento de nadie excepto Su conocimiento. Cuídate de no trocar esta sublime posición\"."
-        }
-      ]
-    },
-    {
-      "xml_element_id": "799152139",
-      "xml_text": "And still again in another connection: “This is the day to make mention of God, to celebrate His praise, and to serve Him; deprive not yourselves thereof. Ye are the letters of the words, and the words of the Book. Ye are the saplings which the hand of Loving-kindness hath planted in the soil of mercy, and which the showers of bounty have made to flourish. He hath protected you from the mighty winds of misbelief, and the tempestuous gales of impiety, and nurtured you with the hands of His loving providence. Now is the time for you to put forth your leaves, and yield your fruit. The fruits of the tree of man have ever been and are goodly deeds and a praiseworthy character. Withhold not these fruits from the heedless. If they be accepted, your end is attained, and the purpose of life achieved. If not, leave them in their pastime of vain disputes. Strive, O people of God, that haply the hearts of the divers kindreds of the earth may, through the waters of your forbearance and loving-kindness, be cleansed and sanctified from animosity and hatred, and be made worthy and befitting recipients of the splendors of the Sun of Truth.”",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.023255814,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.014184397,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/85/Text/1",
-          "similarity": 0.0125,
-          "pdf_text": "hizo suspirar a todas las cosas creadas y, sin embargo, la gente, en su mayor parte, está sumida en man ifiesta ignorancia! Rogamos a Dios que les ayude a volverse hacia Él y a arrepentirse ante la puerta de Su misericordia. Potente es Él sobre todas las cosas."
-        }
-      ]
-    },
-    {
-      "xml_element_id": "352004137",
-      "xml_text": "In the fourth Ishráq (splendor) of the Ishráqát (Tablet of Splendors) We have mentioned: “Every cause needeth a helper. In this Revelation the hosts which can render it victorious are the hosts of praiseworthy deeds and upright character. The leader and commander of these hosts hath ever been the fear of God, a fear that encompasseth all things, and reigneth over all things.”",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.036363635,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/26/Text/2",
-          "similarity": 0.031914894,
-          "pdf_text": "En el cuarto Ishráq (esplendor) del Ishráqát (Tabla de Esplendores), hemos mencionado: \"Toda causa necesita quien la ayude. En esta Revelación las huestes que pueden hacerla victoriosa son la huestes de los hechos loables y de un carácter recto. El líder y comandante de estas huestes ha sido siempre el temor de Dios, un temor que abarca a todas las cosas y reina sobre todas las cosas\"."
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.030303031,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        }
-      ]
+      "xml_element_id": "057365735",
+      "xml_text": "1\n                            \n                            Question:  Can you provide an account of Ṭáhirih’s deliverance from Qazvín, her arrival in Ṭihrán, her departure for Badasht, and the events that transpired there?",
+      "top_matches": []
     }
   ],
   "statistics": {
     "total_xml_documents": 27,
-    "total_xml_elements": 273,
+    "total_xml_elements": 142,
     "total_pdf_blocks": 466,
-    "matched_elements": 48,
-    "unmatched_elements": 2,
-    "match_threshold": 0.01,
+    "matched_elements": 6,
+    "unmatched_elements": 44,
+    "match_threshold": 0.7,
     "top_k_matches": 3
   }
 }
