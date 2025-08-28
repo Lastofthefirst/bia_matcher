@@ -1,0 +1,10 @@
+storage:
+  path: "./storage"
+
+logs:
+  level: info
+  log_dir: "./logs"
+
+service:
+  http_port: 6333
+  grpc_port: 6334

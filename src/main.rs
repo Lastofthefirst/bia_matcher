@@ -29,7 +29,7 @@ struct Args {
     output_dir: PathBuf,
 
     /// Similarity threshold for matches
-    #[clap(long, default_value_t = 0.7)]
+    #[clap(long, default_value_t = 0.01)]
     similarity_threshold: f32,
 
     /// Number of top matches to return

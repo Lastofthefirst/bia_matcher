@@ -1,1121 +1,1634 @@
 {
   "pdf_document_id": "LB-Epistola al Hijo del Lobo_processed",
   "best_match": {
-    "xml_document_id": "epistle-son-wolf",
-    "similarity": 0.010862186
+    "xml_document_id": "hidden-words",
+    "similarity": 0.0
   },
   "all_document_scores": [
     {
-      "xml_document_id": "epistle-son-wolf",
-      "similarity": 0.010862186
-    },
-    {
-      "xml_document_id": "gems-divine-mysteries",
-      "similarity": 0.007897335
-    },
-    {
-      "xml_document_id": "tablets-hague-abdul-baha",
-      "similarity": 0.0073394496
-    },
-    {
-      "xml_document_id": "selections-writings-abdul-baha",
-      "similarity": 0.00729927
-    },
-    {
-      "xml_document_id": "gleanings-writings-bahaullah",
-      "similarity": 0.0072202166
-    },
-    {
-      "xml_document_id": "travelers-narrative",
-      "similarity": 0.0068728523
-    },
-    {
-      "xml_document_id": "prayers-meditations",
-      "similarity": 0.006679389
-    },
-    {
-      "xml_document_id": "secret-divine-civilization",
-      "similarity": 0.0064935065
-    },
-    {
-      "xml_document_id": "twelve-table-talks-abdul-baha",
-      "similarity": 0.005982054
-    },
-    {
-      "xml_document_id": "tablet-august-forel",
-      "similarity": 0.0056818184
-    },
-    {
-      "xml_document_id": "some-answered-questions",
-      "similarity": 0.005611672
-    },
-    {
-      "xml_document_id": "prayers-abdul-baha",
-      "similarity": 0.005319149
-    },
-    {
-      "xml_document_id": "light-of-the-world",
-      "similarity": 0.004938272
-    },
-    {
-      "xml_document_id": "will-testament-abdul-baha",
-      "similarity": 0.004764741
-    },
-    {
-      "xml_document_id": "tabernacle-unity",
-      "similarity": 0.004576659
-    },
-    {
-      "xml_document_id": "selections-writings-bab",
-      "similarity": 0.004530011
-    },
-    {
-      "xml_document_id": "promulgation-universal-peace",
-      "similarity": 0.0045095826
-    },
-    {
-      "xml_document_id": "paris-talks",
-      "similarity": 0.004439512
-    },
-    {
       "xml_document_id": "hidden-words",
-      "similarity": 0.0043572984
-    },
-    {
-      "xml_document_id": "kitab-i-iqan",
-      "similarity": 0.004305705
-    },
-    {
-      "xml_document_id": "tablets-divine-plan",
-      "similarity": 0.003488372
-    },
-    {
-      "xml_document_id": "kitab-i-aqdas",
-      "similarity": 0.0034602077
-    },
-    {
-      "xml_document_id": "call-divine-beloved",
-      "similarity": 0.0034482758
-    },
-    {
-      "xml_document_id": "memorials-faithful",
-      "similarity": 0.0034482758
-    },
-    {
-      "xml_document_id": "tablets-bahaullah",
-      "similarity": 0.003382187
-    },
-    {
-      "xml_document_id": "summons-lord-hosts",
-      "similarity": 0.0022988506
-    },
-    {
-      "xml_document_id": "days-remembrance",
-      "similarity": 0.0022727272
+      "similarity": 0.0
     }
   ],
   "paragraph_matches": [
     {
-      "xml_element_id": "804716281",
-      "xml_text": "Epistle to the Son of the Wolf",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.6,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.08,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/132/Text/2",
-          "similarity": 0.013513514,
-          "pdf_text": "Estos pasajes no necesitan comentario. Son brillantes y manifiestos como el sol y, resplandecientes y luminosos como la luz misma. Toda persona imparcial es guiada por la fragancia de estas palabras hacia el jardín del entendimiento y logra aquello que les está velado y vedado a la mayoría de los hombres. Di: Temed a Dios, oh pueblo, y no sigáis las dudas de aquellos que vociferan, quienes han violado el Convenio de Dios y Su Testamento, y han negado Su misericordia que ha precedido a todo lo que está en los cielos y todo lo que está en la tierra."
-        }
-      ]
-    },
-    {
-      "xml_element_id": "067359947",
-      "xml_text": "by Bahá’u’lláh",
+      "xml_element_id": "623891128",
+      "xml_text": "The\n                        Hidden Words",
       "top_matches": []
     },
     {
-      "xml_element_id": "874961306",
-      "xml_text": "Translated by Shoghi Effendi",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/173/Text/226",
-          "similarity": 0.02631579,
-          "pdf_text": "M ÍRZÁ M ÚSÁ : Áqáy-i-Kalím; un joven hermano de Bahá\"u\"lláh que permaneció leal y fiel a Bahá\"u\"lláh y Le sirvió hasta el final de su vida. Depués del martirio del Báb, Mírzá Músá, por orden de Bahá\"u\"lláh, escondió el ataúd que contenía los restos mortales del Báb en el Mausoleo del Imam-Zádih Æasan en Teherán. Mírzá Músá acompanió a Bahá\"u\"lláh en Su exilio y a menudo sirivió como Su diputado en las reuniones con los funcionarios del gobierno y los líderes religiosos hasta que \"Abdu\"l-Bahá asumió este cargo. Shoghi Effendi le nombró uno de los Diecinueve Apóstoles de Bahá\"u\"lláh. Mírzá Músá falleció en \"Akká en 1887."
-        },
-        {
-          "pdf_block_id": "/page/171/Text/1",
-          "similarity": 0.01438849,
-          "pdf_text": "de \"Údí Khammár. El Kitáb-i-Aqdas , el cual está revelado en árabe, expone las leyes y ordenanzas de la Dispensación de Bahá\"u\"lláh pero es mucho más que \"un mero código de leyes\". Shoghi Effendi lo ha descrito como \"el Libro Madre de Su Dispensación\", el \"Fuero de Su Nuevo Orden Mundial\" y como el \"Fuero de la civilización mundial del futuro\". Libro revelado por Bahá\"u\"lláh en Bagdád dos años antes de Su declaración. Fue escrito en respuesta a las preguntas formuladas a Bahá\"u\"lláh por un tio del Báb, Æájí Mírzá Siyyid Mu¥ammad, quien aún no estaba convencido de que su sobrino cumplía todas las profecías referentes al Prometido Qá\"im. En el Kitáb-i-Íqán , el cual fue escrito en dos días y dos noches, Bahá\"u\"lláh proclama la unicidad de Dios, la posición de Sus manifestaciones como \"espejos\" através de los cuales el hombre puede obtener conocimiento de Dios y la unidad esencial de Sus enseñanzas. Describe cómo los profetas del pasado se enfrentaron a la oposición y al rechazo por la ceguera y la codicia de los líderes religiosos y presenta las cualidades esenciales del \"verdadero buscador\" de la verdad religiosa. También explica el significado espiritual de las profecías sobre el retorno de Cristo, la venida del Qá\"im y términos como \"resurrección\", \"regreso\" y \"día del juicio\"."
-        },
-        {
-          "pdf_block_id": "/page/167/Text/1",
-          "similarity": 0.012345679,
-          "pdf_text": "principalmente como un elogio al Prometido, más que un código de leyes y ordenanzas designadas a una guía permanente d e futuras generaciones.\" En el tercer Vá¥id, el Báb hace referencia específica al nombre del Prometido y anticipa Su Orden Mundial: \"Bienaventurado es aquel que fija su mirada en el Orden de Bahá'u'lláh y da gracias a su Señor. Pues Él, sin duda, será manifiesto. De hecho, Dios lo ha ordenado irrevocablemente en el Bayán. \" Esta declaración, según Shoghi Effendi, merece el rango de una de las declaraciones más significativas registradas en cualquiera de los Escritos del Báb'."
-        }
-      ]
-    },
-    {
-      "xml_element_id": "736383268",
-      "xml_text": "In the name of God, the One, the Incomparable, the All-Powerful, the All-Knowing, the All-Wise.",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.11111111,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.06896552,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/3/SectionHeader/0",
-          "similarity": 0.05263158,
-          "pdf_text": "En el nombre de Dios, el Único, el Incomparable, el Todopoderoso, el Omnisciente, el Omnisapiente."
-        }
-      ]
-    },
-    {
-      "xml_element_id": "758311257",
-      "xml_text": "Praise be to God, the Eternal that perisheth not, the Everlasting that declineth not, the Self-Subsisting that altereth not. He it is Who is transcendent in His sovereignty, Who is manifest through His signs, and is hidden through His mysteries. He it is at Whose bidding the standard of the Most Exalted Word hath been lifted up in the world of creation, and the banner of “He doeth whatsoever He willeth” raised amidst all peoples. He it is Who hath revealed His Cause for the guidance of His creatures, and sent down His verses to demonstrate His Proof and His Testimony, and embellished the preface of the Book of Man with the ornament of utterance through His saying: “The God of Mercy hath taught the Qur’án, hath created man, and taught him articulate speech.” No God is there but Him, the One, the Peerless, the Powerful, the Mighty, the Beneficent.",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.03125,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.018518519,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/2/Text/8",
-          "similarity": 0.010526316,
-          "pdf_text": "Printed in Spain - Impreso en España"
-        }
-      ]
-    },
-    {
-      "xml_element_id": "149820308",
-      "xml_text": "The light that is shed from the heaven of bounty, and the benediction that shineth from the dawning-place of the will of God, the Lord of the Kingdom of Names, rest upon Him Who is the Supreme Mediator, the Most Exalted Pen, Him Whom God hath made the Dawning-Place of His most excellent names and the Dayspring of His most exalted attributes. Through Him the light of unity hath shone forth above the horizon of the world, and the law of oneness hath been revealed amidst the nations, who, with radiant faces, have turned towards the Supreme Horizon, and acknowledged that which the Tongue of Utterance hath spoken in the kingdom of His knowledge: “Earth and heaven, glory and dominion, are God’s, the Omnipotent, the Almighty, the Lord of grace abounding!”",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.022988506,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.020408163,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/2/Text/8",
-          "similarity": 0.011764706,
-          "pdf_text": "Printed in Spain - Impreso en España"
-        }
-      ]
-    },
-    {
-      "xml_element_id": "673795738",
-      "xml_text": "Give ear, O distinguished divine, unto the voice of this Wronged One. He verily, counselleth thee for the sake of God, and exhorteth thee unto that which will cause thee to draw nigh unto Him under all conditions. He, in truth, is the All-Possessing, the Exalted. Know thou that the ear of man hath been created that it may hearken unto the Divine Voice on this Day that hath been mentioned in all the Books, Scriptures, and Tablets. Purify thou, first, thy soul with the waters of renunciation, and adorn thine head with the crown of the fear of God, and thy temple with the ornament of reliance upon Him. Arise, then, and, with thy face set towards the Most Great House, the Spot round which, as decreed by the Eternal King, all that dwell on earth must circle, recite:",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.029126214,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.017391304,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        }
-      ]
-    },
-    {
-      "xml_element_id": "270933711",
-      "xml_text": "“O God, my God, and my Desire, and my Adored One, and my Master, and my Mainstay, and my utmost Hope, and my supreme Aspiration! Thou seest me turning towards Thee, holding fast unto the cord of Thy bounty, clinging to the hem of Thy generosity, acknowledging the sanctity of Thy Self and the purity of Thine Essence, and testifying to Thy unity and Thy oneness. I bear witness that Thou art the One, the Single, the Incomparable, the Ever-Abiding. Thou didst not take unto Thyself a partner in Thy dominion, nor didst Thou choose a peer for Thyself upon earth. All created things have borne witness unto that which the Tongue of Thy grandeur hath testified ere their creation. Verily Thou art God; there is none other God but Thee! From everlasting Thou wast sanctified from the mention of Thy servants, and exalted above the description of Thy creatures. Thou beholdest, O Lord, the ignorant seeking the ocean of Thy knowledge, the sore athirst the living waters of Thine utterance, the abased the tabernacle of Thy glory, the poor the treasury of Thy riches, the suppliant the dawning-place of Thy wisdom, the weak the source of Thy strength, the wretched the heaven of Thy bounty, the dumb the kingdom of Thy mention.",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.022900764,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.013986014,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/4/Text/3",
-          "similarity": 0.013333334,
-          "pdf_text": "\"¡Oh Dios, mi Dios, mi Deseo, mi Adorado, mi Maestro, mi Apoyo, mi mayor Esperanza y mi supr ema Aspiración! Tú me ves volviéndome hacia Ti, asiénd ome firmemente a la cuerda de Tu munificencia,"
-        }
-      ]
-    },
-    {
-      "xml_element_id": "982751554",
-      "xml_text": "“I testify, O my God, and my King, that Thou hast created me to remember Thee, to glorify Thee, and to aid Thy Cause. And yet, I have aided Thine enemies, who have broken Thy Covenant, who have cast away Thy Book, disbelieved in Thee, and repudiated Thy signs. Alas, alas, for my waywardness, and my shame, and my sinfulness, and my wrong-doing that have withheld me from the depths of the ocean of Thy unity and from fathoming the sea of Thy mercy. Wherefore, alas, alas! and again alas, alas! for my wretchedness and the grievousness of my transgressions! Thou didst call me into being, O my God, to exalt Thy Word, and to manifest Thy Cause. My heedlessness, however, hath deterred me and compassed me about, in such wise that I have arisen to blot out Thy signs, and to shed the blood of Thy loved ones, and of the dawning-places of Thy signs, and of the daysprings of Thy revelation, and of the repositories of Thy mysteries.",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.031578947,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.018691588,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/39/Text/2",
-          "similarity": 0.016,
-          "pdf_text": "O tú o algún otro ha dicho: \"Que el Súrih de Taw ¥íd sea traducido, para que todos conozcan y estén completamente persuadidos de que el único Dios verdadero ni ha engendrado, ni es engendrado. Además, los bábís creen en su Deidad y Divinidad\"(de Bahá'u'lláh)."
-        }
-      ]
-    },
-    {
-      "xml_element_id": "021488291",
-      "xml_text": "“O Lord, my Lord! and again, O Lord, my Lord! and yet again, O Lord, my Lord! I bear witness that by reason of mine iniquity the fruits of the tree of Thy justice have fallen, and through the fire of my rebelliousness the hearts of such of Thy creatures as enjoy near access to Thee were consumed, and the souls of the sincere among Thy servants have melted. O wretched, wretched that I am! O the cruelties, the glaring cruelties, I inflicted! Woe is me, woe is me, for my remoteness from Thee, and for my waywardness, and mine ignorance, and my baseness, and my repudiation of Thee, and my protests against Thee! How many the days during which Thou didst bid Thy servants and Thy loved ones to protect me, whilst I commanded them to harm Thee and to harm them that Thou didst trust! And how numerous the nights during which Thou didst graciously remember me, and didst show me Thy path, whilst I turned away from Thee and from Thy signs! By Thy glory! O Thou Who art the Hope of such as have acknowledged Thy unity, and the Desire of the hearts of them that are rid of all attachment to any save Thee! I find no succorer except Thee, nor king, nor refuge, nor haven besides Thyself. Alas, alas! My turning away from Thee hath burnt up the veil of mine integrity, and my denial of Thee hath rent asunder the covering cast over mine honor. O would that I were beneath the depths of the earth, so that my evil deeds would remain unknown to Thy servants! Thou seest the sinner, O my Lord, who hath turned towards the dawning-place of Thy forgiveness and Thy bounty, and the mountain of iniquity that hath sought the heaven of Thy mercy and pardon. Alas, alas! My mighty sins have prevented me from approaching the court of Thy mercy, and my monstrous deeds have caused me to stray far from the sanctuary of Thy presence. Indeed, I am he that hath failed in duty towards Thee, and hath broken Thy Covenant and Thy Testament, and committed that which hath made the dwellers of the cities of Thy justice, and the dawning-places of Thy grace in Thy realms, to lament. I testify, O my God, that I have put away Thy commandments, and clung to the dictates of my passions, and have cast away the statutes of Thy Book, and seized the book of mine own desire. O misery, misery! As mine iniquities waxed greater and greater, Thy forbearance towards me augmented, and as the fire of my rebelliousness grew fiercer, the more did Thy forgiveness and Thy grace seek to smother up its flame. By the power of Thy might! O Thou Who art the desire of the world and the Best-Beloved of the nations! Thy long-suffering hath puffed me up, and Thy patience hath emboldened me. Thou beholdest, O my God, the tears that my shame hath caused to flow, and the sighs which my heedlessness hath led me to utter. I swear by the greatness of Thy majesty! I can find for myself no habitation save beneath the shadow of the court of Thy bounty, nor any refuge except under the canopy of Thy mercy. Thou seest me in the midst of a sea of despair and of hopelessness, after Thou didst cause me to hear Thy words “Despair not.” By Thy power! My sore injustice hath severed the cord of my hope, and my rebellion hath darkened my face before the throne of Thy justice. Thou beholdest, O my God, him who is as one dead fallen at the door of Thy favor, ashamed to seek from the hand of Thy loving-kindness the living waters of Thy pardon. Thou hast given me a tongue wherewith to remember and praise Thee, and yet it uttereth that which hath caused the souls of such of Thy chosen ones as are nigh unto Thee to melt, and the hearts of the sincere amongst the dwellers of the habitations of holiness to be consumed. Thou hast given me eyes to witness Thy signs, and to behold Thy verses, and to contemplate the revelations of Thine handiwork, but I have rejected Thy will, and have committed what hath caused the faithful among Thy creatures and the detached amidst Thy servants to groan. Thou hast given me ears that I may incline them unto Thy praise and Thy celebration, and unto that which Thou didst send down from the heaven of Thy bounty and the firmament of Thy will. And yet, alas, alas, I have forsaken Thy Cause, and have commanded Thy servants to blaspheme against Thy trusted ones and Thy loved ones, and have acted, before the throne of Thy justice, in such wise that those that have recognized Thy unity and are wholly devoted to Thee among the dwellers of Thy realm mourned with a sore lamentation. I know not, O my God, which among my evildoings to mention before the billowing ocean of Thy favor, nor which of my trespasses to declare when face to face with the splendors of the suns of Thy goodly gifts and bounties.",
+      "xml_element_id": "308215887",
+      "xml_text": "Bahá’u’lláh",
       "top_matches": []
     },
     {
-      "xml_element_id": "823729794",
-      "xml_text": "“I beseech Thee, this very moment, by the mysteries of Thy Book, and by the things hid in Thy knowledge, and by the pearls that lie concealed within the shells of the ocean of Thy mercy, to reckon me among such as Thou didst mention in Thy Book and describe in Thy Tablets. Hast Thou decreed for me, O my God, any joy after this tribulation, or any relief to succeed this affliction, or any ease to follow this trouble? Alas, alas! Thou hast ordained that every pulpit be set apart for Thy mention, and for the glorification of Thy Word, and the revelation of Thy Cause, but I have ascended it to proclaim the violation of Thy Covenant, and have spoken unto Thy servants such words as have caused the dwellers of the Tabernacles of Thy majesty and the denizens of the Cities of Thy wisdom to lament. How often hast Thou sent down the food of Thine utterance out of the heaven of Thy bounty, and I denied it; and how numerous the occasions on which Thou hast summoned me to the soft flowing waters of Thy mercy, and I have chosen to turn away therefrom, by reason of my having followed my own wish and desire! By Thy glory! I know not for which sin to beg Thy forgiveness and implore Thy pardon, nor from which of mine iniquities to turn aside unto the Court of Thy bounteousness and the Sanctuary of Thy favor. Such are my sins and trespasses that no man can number them, nor pen describe them. I implore Thee, O Thou that turnest darkness into light, and revealest Thy mysteries on the Sinai of Thy Revelation, to aid me, at all times, to put my trust in Thee, and to commit mine affairs unto Thy care. Make me, then, O my God, content with that which the finger of Thy decree hath traced, and the pen of Thy ordinance hath written. Potent art Thou to do what pleaseth Thee, and in Thy grasp are the reins of all that are in heaven and on earth. No God is there but Thee, the All-knowing, the All-Wise.”",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.015306123,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/5/Text/2",
-          "similarity": 0.011627907,
-          "pdf_text": "Testifico, oh mi Dios y mi Rey, que Tú me has creado para recordarte, para glorificarte y para ayudar a Tu Causa. Y, sin embargo, he ayudado a Tus enemigos, quienes han violado Tu Convenio, quienes han desechado Tu Libro, no han creído en Ti y han repudiado Tus signos. ¡Ay!, ¡ay!, por mi rebeldía, mi vergüenza, mi depravación y mi maldad, que me han impedido alcanzar las profundidades del océano de Tu unidad y sondear el mar de Tu misericordia. Por tanto, ¡ay!, ¡ay!, y nuevamente ¡ay!, ¡ay!, ¡por mi desdicha y la gravedad de mis transgresiones! Tú me llamaste a la existencia, oh mi Dios, para exaltar Tu Palabra y manifestar Tu Causa. Sin"
-        },
-        {
-          "pdf_block_id": "/page/141/Text/2",
-          "similarity": 0.010204081,
-          "pdf_text": "Y asimismo Él dice: \"Ellos incluso rehusarán darle a ese Árbol, que no es ni del Este ni del Oeste, el nombre de creyente, pues si fuesen a llamarle de ese modo, no lograrían entristecerle\". ¿Oh mundo, ha escuchado tu oído en qué desamparo fueron reveladas estas palabras desde la aurora de la voluntad de Aquel que es el Lugar de Amanecer de todos los nombres? Él dice: \"He educado a todos los hombres para que puedan reconocer esta Revelación y, sin embargo, el pueblo del Bayán rehúsa incluso conceder el nombre de creyente a ese Árbol bendito que no pertenece al Este ni al Oeste\". ¡Ay, ay, por las cosas que Me han acontecido! ¡Por Dios! A manos de aquel que de día y de noche he criado (Mírzá Ya¥yá), me ha acontencido lo que ha hecho lamentarse al Espíritu Santo y a los moradores del Tabernáculo de la Grandeza de Dios, el Señor de este maravilloso Día."
-        }
-      ]
+      "xml_element_id": "681732154",
+      "xml_text": "Translated by Shoghi Effendi with the assistance of some English friends",
+      "top_matches": []
     },
     {
-      "xml_element_id": "815758507",
-      "xml_text": "O Shaykh! Know thou that neither the calumnies which men may utter, nor their denials, nor any cavils they may raise, can harm him that hath clung to the cord of the grace, and seized the hem of the mercy, of the Lord of creation. By God! He, the Glory of God (Bahá), hath spoken not from mere impulse. He that hath given Him a voice is He that hath given a voice unto all things, that they may praise and glorify Him. There is none other God but Him, the One, the Incomparable, the Lord of strength, the Unconditioned.",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.04109589,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/10/Text/2",
-          "similarity": 0.031007752,
-          "pdf_text": "¡Oh Shaykh! Sabe que ni las calumnias que los hombres puedan proferir, ni sus negaciones ni cualesquier argucias que puedan urdir serán capaces de hacerle daño a quien se ha asido de la cuerda de la gracia y se ha aferrado a la orla de la misericordia del Señor de la creación. ¡Por Dios! Él, la Gloria de Dios (Bahá), no ha hablado por mero impulso. Quien Le ha dado la voz es Aquel que ha dado la voz a todas las cosas para que puedan alabarle y glorificarle. No existe otro Dios más que Él, el Único, el Incomparable, el Señor de fortaleza, el Incondicionado."
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.023529412,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        }
-      ]
+      "xml_element_id": "345261942",
+      "xml_text": "Part One: From the Arabic",
+      "top_matches": []
     },
     {
-      "xml_element_id": "249748535",
-      "xml_text": "They whose sight is keen, whose ears are retentive, whose hearts are enlightened, and whose breasts are dilated, recognize both truth and falsehood, and distinguish the one from the other. Recite thou this prayer that hath flowed from the tongue of this Wronged One, and ponder thereon with a heart rid of all attachment, and with ears that are pure and sanctified, be attentive to its meaning, that haply thou mayest inhale the breath of detachment and have pity upon thyself and upon others:",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.046153847,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.025974026,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/90/Text/1",
-          "similarity": 0.014925373,
-          "pdf_text": "Libros, para que anuncien a Sus criaturas el Recto Sendero."
-        }
-      ]
+      "xml_element_id": "333014680",
+      "xml_text": "Part Two: From the Persian",
+      "top_matches": []
     },
     {
-      "xml_element_id": "596822762",
-      "xml_text": "“My God, the Object of my adoration, the Goal of my desire, the All-Bountiful, the Most Compassionate! All life is of Thee, and all power lieth within the grasp of Thine omnipotence. Whosoever Thou exaltest is raised above the angels, and attaineth the station: ‘Verily, We uplifted him to a place on high!’; and whosoever Thou dost abase is made lower than dust, nay, less than nothing. O Divine Providence! Though wicked, sinful, and intemperate, we still seek from Thee a ‘seat of truth,’ and long to behold the countenance of the Omnipotent King. It is Thine to command, and all sovereignty belongeth to Thee, and the realm of might boweth before Thy behest. Everything Thou doest is pure justice, nay, the very essence of grace. One gleam from the splendors of Thy Name, the All-Merciful, sufficeth to banish and blot out every trace of sinfulness from the world, and a single breath from the breezes of the Day of Thy Revelation is enough to adorn all mankind with a fresh attire. Vouchsafe Thy strength, O Almighty One, unto Thy weak creatures, and quicken them who are as dead, that haply they may find Thee, and may be led unto the ocean of Thy guidance, and may remain steadfast in Thy Cause. Should the fragrance of Thy praise be shed abroad by any of the divers tongues of the world, out of the East or out of the West, it would, verily, be prized and greatly cherished. If such tongues, however, be deprived of that fragrance, they assuredly would be unworthy of any mention, in word or yet in thought. We beg of Thee, O Providence, to show Thy way unto all men, and to guide them aright. Thou art, verily, the Almighty, the Most Powerful, the All-Knowing, the All-Seeing.”",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.01604278,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.010050251,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        }
-      ]
+      "xml_element_id": "536804237",
+      "xml_text": "Part One",
+      "top_matches": []
     },
     {
-      "xml_element_id": "716630056",
-      "xml_text": "We beseech God to aid thee to be just and fair-minded, and to acquaint thee with the things that were hidden from the eyes of men. He, in truth, is the Mighty, the Unconstrained. We ask thee to reflect upon that which hath been revealed, and to be fair and just in thy speech, that perchance the splendors of the daystar of truthfulness and sincerity may shine forth, and may deliver thee from the darkness of ignorance, and illumine the world with the light of knowledge. This Wronged One hath frequented no school, neither hath He attended the controversies of the learned. By My life! Not of Mine own volition have I revealed Myself, but God, of His own choosing, hath manifested Me. In the Tablet, addressed to His Majesty the Sháh—may God, blessed and glorified be He, assist him—these words have streamed from the tongue of this Wronged One:",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.02970297,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Text/7",
-          "similarity": 0.017857144,
-          "pdf_text": "M ÍRZÁ R I Æ Á - Q ULÍ : Uno de los hermanos de Bahá\"u\"lláh que no reconoció Su posición."
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.017699115,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        }
-      ]
+      "xml_element_id": "167487181",
+      "xml_text": "From the Arabic",
+      "top_matches": []
     },
     {
-      "xml_element_id": "524023635",
-      "xml_text": "“O King! I was but a man like others, asleep upon My couch, when lo, the breezes of the All-Glorious were wafted over Me, and taught Me the knowledge of all that hath been. This thing is not from Me, but from One Who is Almighty and All-Knowing. And He bade Me lift up My voice between earth and heaven, and for this there befell Me what hath caused the tears of every man of understanding to flow. The learning current amongst men I studied not; their schools I entered not. Ask of the city wherein I dwelt, that thou mayest be well assured that I am not of them who speak falsely. This is but a leaf which the winds of the will of thy Lord, the Almighty, the All-Praised, have stirred. Can it be still when the tempestuous winds are blowing? Nay, by Him Who is the Lord of all Names and Attributes! They move it as they list. The evanescent is as nothing before Him Who is the Ever-Abiding. His all-compelling summons hath reached Me, and caused Me to speak His praise amidst all people. I was indeed as one dead when His behest was uttered. The hand of the will of thy Lord, the Compassionate, the Merciful, transformed Me.”",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.021428572,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.013157895,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/34/Text/3",
-          "similarity": 0.012658228,
-          "pdf_text": "En estos días hay algunos que, lejos de ser justos e imparciales, Me han atacado con la espada del odio y la lanza de la enemistad, olvidándose que corresponde a"
-        }
-      ]
+      "xml_element_id": "592851358",
+      "xml_text": "He Is the Glory of Glories",
+      "top_matches": []
     },
     {
-      "xml_element_id": "240131178",
-      "xml_text": "Now is the moment in which to cleanse thyself with the waters of detachment that have flowed out from the Supreme Pen, and to ponder, wholly for the sake of God, those things which, time and again, have been sent down or manifested, and then to strive, as much as lieth in thee, to quench, through the power of wisdom and the force of thy utterance, the fire of enmity and hatred which smouldereth in the hearts of the peoples of the world. The Divine Messengers have been sent down, and their Books were revealed, for the purpose of promoting the knowledge of God, and of furthering unity and fellowship amongst men. But now behold, how they have made the Law of God a cause and pretext for perversity and hatred. How pitiful, how regrettable, that most men are cleaving fast to, and have busied themselves with, the things they possess, and are unaware of, and shut out as by a veil from, the things God possesseth!",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.026785715,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.016129032,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/134/Text/2",
-          "similarity": 0.012987013,
-          "pdf_text": "Asimismo, en el Law ¥ -i-Fu'ád , y en la Tabla al Rey de París (Napoleón III), y en otras Tablas, ha sido revelado aquello que llevará a toda persona imparcial a atestiguar el poder, la majestad y la sabiduría de Dios, exaltada sea Su gloria. Si los hombres observaran con el ojo de la justicia, se darían cuenta del secreto de este bendito"
-        }
-      ]
+      "xml_element_id": "642922139",
+      "xml_text": "This is that which hath descended from the realm of glory, uttered by the tongue of power and might, and revealed unto the Prophets of old. We have taken the inner essence thereof and clothed it in the garment of brevity, as a token of grace unto the righteous, that they may stand faithful unto the Covenant of God, may fulfill in their lives His trust, and in the realm of spirit obtain the gem of divine virtue.",
+      "top_matches": []
     },
     {
-      "xml_element_id": "133814718",
-      "xml_text": "Say: “O God, my God! Attire mine head with the crown of justice, and my temple with the ornament of equity. Thou, verily, art the Possessor of all gifts and bounties.”",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.0625,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.046511628,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        }
-      ]
+      "xml_element_id": "381340052",
+      "xml_text": "1.",
+      "top_matches": []
     },
     {
-      "xml_element_id": "869755347",
-      "xml_text": "Justice and equity are twin Guardians that watch over men. From them are revealed such blessed and perspicuous words as are the cause of the well-being of the world and the protection of the nations.",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.060606062,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.045454547,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        }
-      ]
+      "xml_element_id": "986635113",
+      "xml_text": "1\n                           \n                           O Son of Spirit!\n                           My first counsel is this: Possess a pure, kindly and radiant heart, that thine may be a sovereignty ancient, imperishable and everlasting.",
+      "top_matches": []
     },
     {
-      "xml_element_id": "724599507",
-      "xml_text": "These words have streamed from the pen of this Wronged One in one of His Tablets: “The purpose of the one true God, exalted be His glory, hath been to bring forth the Mystic Gems out of the mine of man—they Who are the Dawning-Places of His Cause and the Repositories of the pearls of His knowledge; for, God Himself, glorified be He, is the Unseen, the One concealed and hidden from the eyes of men. Consider what the Merciful hath revealed in the Qur’án: No vision taketh in Him, but He taketh in all vision, and He is the Subtile, the All-Informed!”",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.04109589,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.023529412,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/2/Text/8",
-          "similarity": 0.013888889,
-          "pdf_text": "Printed in Spain - Impreso en España"
-        }
-      ]
+      "xml_element_id": "805033825",
+      "xml_text": "2.",
+      "top_matches": []
     },
     {
-      "xml_element_id": "288821006",
-      "xml_text": "That the divers communions of the earth, and the manifold systems of religious belief, should never be allowed to foster the feelings of animosity among men, is, in this Day, of the essence of the Faith of God and His Religion. These principles and laws, these firmly-established and mighty systems, have proceeded from one Source, and are rays of one Light. That they differ one from another is to be attributed to the varying requirements of the ages in which they were promulgated.",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.04761905,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.026666667,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/2/Text/8",
-          "similarity": 0.016129032,
-          "pdf_text": "Printed in Spain - Impreso en España"
-        }
-      ]
+      "xml_element_id": "099947277",
+      "xml_text": "2\n                           \n                           O Son of Spirit!\n                           The best beloved of all things in My sight is Justice; turn not away therefrom if thou desirest  Me, and neglect it not that I may confide in thee. By its aid thou shalt see with thine own eyes and not through the eyes of others, and shalt know of thine own knowledge and not through the knowledge of thy neighbor. Ponder this in thy heart; how it behooveth thee to be. Verily justice is My gift to thee and the sign of My loving-kindness. Set it then before thine eyes.",
+      "top_matches": []
     },
     {
-      "xml_element_id": "655576553",
-      "xml_text": "Gird up the loins of your endeavor, O people of Bahá, that haply the tumult of religious dissension and strife that agitateth the peoples of the earth may be stilled, that every trace of it may be completely obliterated. For the love of God, and them that serve Him, arise to aid this sublime and momentous Revelation. Religious fanaticism and hatred are a world-devouring fire, whose violence none can quench. The Hand of Divine power can, alone, deliver mankind from this desolating affliction. Consider the war that hath involved the two Nations, how both sides have renounced their possessions and their lives. How many the villages that were completely wiped out!",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.032967035,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.019417476,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/27/Text/1",
-          "similarity": 0.014285714,
-          "pdf_text": "Te incumbe convocar al pueblo, bajo todas las condiciones, a todo lo que haga de ellos exponentes de características espirituales y buenas acciones, para que sean conscientes de lo que es la causa de la elevación humana y puedan, con el mayor esfuerzo, dirigirse hacia la más sublime Posición y al Pináculo de la Gloria. El temor de Dios ha sido siempre el factor primordial en la educación de Sus criaturas. ¡Bienaventurados quienes lo hayan alcanzado!"
-        }
-      ]
+      "xml_element_id": "253286237",
+      "xml_text": "3.",
+      "top_matches": []
     },
     {
-      "xml_element_id": "867043958",
-      "xml_text": "The utterance of God is a lamp, whose light is these words: Ye are the fruits of one tree, and the leaves of one branch. Deal ye one with another with the utmost love and harmony, with friendliness and fellowship. He Who is the Daystar of Truth beareth Me witness! So powerful is the light of unity that it can illuminate the whole earth. The One true God, He Who knoweth all things, Himself testifieth to the truth of these words.",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.04761905,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.026666667,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/34/Text/3",
-          "similarity": 0.024691358,
-          "pdf_text": "En estos días hay algunos que, lejos de ser justos e imparciales, Me han atacado con la espada del odio y la lanza de la enemistad, olvidándose que corresponde a"
-        }
-      ]
+      "xml_element_id": "246296008",
+      "xml_text": "3\n                           \n                           O Son of Man!\n                           Veiled in My immemorial being and in the ancient eternity of My essence, I knew My love for thee; therefore I created thee, have engraved on thee Mine image and revealed to thee My beauty.",
+      "top_matches": []
     },
     {
-      "xml_element_id": "943085671",
-      "xml_text": "Exert yourselves that ye may attain this transcendent and most sublime station, the station that can insure the protection and security of all mankind. This goal excelleth every other goal, and this aspiration is the monarch of all aspirations. So long, however, as the thick clouds of oppression, which obscure the daystar of justice, remain undispelled, it would be difficult for the glory of this station to be unveiled to men’s eyes. These thick clouds are the exponents of idle fancies and vain imaginings, who are none other but the divines of Persia. At one time We spoke in the language of the lawgiver; at another in that of the truth-seeker and the mystic, and yet Our supreme purpose and highest wish hath always been to disclose the glory and sublimity of this station. God, verily, is a sufficient witness!",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.029411765,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.01754386,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/15/Text/3",
-          "similarity": 0.017441861,
-          "pdf_text": "Esforzaos para que podáis alcanzar esta trascendente y muy sublime posición, la posición que puede asegurar la protección y seguridad de toda la humanidad. Esta meta supera a todas las demás metas y esta aspiración es la reina de todas las aspiraciones. Sin embargo, mientras las espesas nubes de la opresión que oscurecen el sol de la justicia no sean disipadas, será difícil que la gloria de esta posición sea develada a los ojos de los hombres. Estas nubes espesas son los exponentes de las ociosas fantasías y las vanas imaginaciones que no son otras que los teólogos de Persia. En un tiempo hablamos en el lenguaje del legislador; en otro, en el del buscador de la verdad y el místico, y aun así Nuestro propósito supremo y"
-        }
-      ]
+      "xml_element_id": "153410116",
+      "xml_text": "4.",
+      "top_matches": []
     },
     {
-      "xml_element_id": "594036330",
-      "xml_text": "Consort with all men, O people of Bahá, in a spirit of friendliness and fellowship. If ye be aware of a certain truth, if ye possess a jewel, of which others are deprived, share it with them in a language of utmost kindliness and goodwill. If it be accepted, if it fulfill its purpose, your object is attained. If anyone should refuse it, leave him unto himself, and beseech God to guide him. Beware lest ye deal unkindly with him. A kindly tongue is the lodestone of the hearts of men. It is the bread of the spirit, it clotheth the words with meaning, it is the fountain of the light of wisdom and understanding.",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.036144577,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.021052632,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/70/Text/2",
-          "similarity": 0.018518519,
-          "pdf_text": "Reflexiona sobre la penetrante influencia de la Palabra de Dios. A cada una de estas almas se le ordenó primero blasfemar y renegar de su Fe y, sin embargo, no se encontró a ninguno que prefiriera su propia voluntad a la Voluntad de Dios."
-        }
-      ]
+      "xml_element_id": "486363123",
+      "xml_text": "4\n                           \n                           O Son of Man!\n                           I loved thy creation, hence I created thee. Wherefore, do thou love Me, that I may name thy name and fill thy soul with the spirit of life.",
+      "top_matches": []
     },
     {
-      "xml_element_id": "974584685",
-      "xml_text": "By “divines” in the passage cited above is meant those men who outwardly attire themselves with the raiment of knowledge, but who inwardly are deprived therefrom. In this connection, We quote from the Tablet addressed to His Majesty the Sháh, certain passages from the “Hidden Words” which were revealed by the Abhá Pen under the name of the “Book of Fátimih,” the blessings of God be upon her!",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.048387095,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.027027028,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/2/Text/8",
-          "similarity": 0.016393442,
-          "pdf_text": "Printed in Spain - Impreso en España"
-        }
-      ]
+      "xml_element_id": "120064492",
+      "xml_text": "5.",
+      "top_matches": []
     },
     {
-      "xml_element_id": "671219851",
-      "xml_text": "“O ye that are foolish, yet have a name to be wise! Wherefore do ye wear the guise of the shepherd, when inwardly ye have become wolves, intent upon My flock? Ye are even as the star, which riseth ere the dawn, and which, though it seem radiant and luminous, leadeth the wayfarers of My city astray into the paths of perdition.”",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.05357143,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.029411765,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/90/Text/1",
-          "similarity": 0.01724138,
-          "pdf_text": "Libros, para que anuncien a Sus criaturas el Recto Sendero."
-        }
-      ]
+      "xml_element_id": "590841570",
+      "xml_text": "5\n                           \n                           O Son of Being!\n                           Love Me, that I may love thee. If thou lovest Me not, My love can in no wise reach thee. Know this, O servant.",
+      "top_matches": []
     },
     {
-      "xml_element_id": "248543746",
-      "xml_text": "And likewise He saith: “O ye seeming fair yet inwardly foul! Ye are like clear but bitter water, which to outward seeming is crystal pure but of which, when tested by the Divine Assayer, not a drop is accepted. Yea, the sunbeam falls alike upon the dust and the mirror, yet differ they in reflection even as doth the star from the earth: nay, immeasurable is the difference!”",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.046875,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.02631579,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/2/Text/8",
-          "similarity": 0.015873017,
-          "pdf_text": "Printed in Spain - Impreso en España"
-        }
-      ]
+      "xml_element_id": "345108478",
+      "xml_text": "6.",
+      "top_matches": []
     },
     {
-      "xml_element_id": "269610770",
-      "xml_text": "And also He saith: “O essence of desire! At many a dawn have I turned from the realms of the Placeless unto thine abode, and found thee on the bed of ease busied with others than Myself. Thereupon, even as the flash of the spirit, I returned to the realms of celestial glory, and breathed it not in My retreats above unto the hosts of holiness.”",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.05172414,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.028571429,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/17/Text/2",
-          "similarity": 0.02020202,
-          "pdf_text": "Y además Él dice: \"¡Oh esencia del deseo! Muchas madrugadas he venido a tu morada desde los reinos del Irrestringido y te he encontrado en el lecho de la comodidad ocupado con otros fuera de Mí. Por eso, como el rayo del espíritu, volví a los reinos de gloria celestial y no lo mencioné a las huestes de santidad en Mis retiros de lo alto.\""
-        }
-      ]
+      "xml_element_id": "312164372",
+      "xml_text": "6\n                           \n                           O Son of Being!\n                           Thy Paradise is My love; thy heavenly home, reunion with Me. Enter therein and tarry not. This is that which hath been destined for thee in Our kingdom above and Our exalted dominion.",
+      "top_matches": []
     },
     {
-      "xml_element_id": "027199009",
-      "xml_text": "And again He saith: “O bond slave of the world! Many a dawn hath the breeze of My loving-kindness wafted over thee and found thee upon the bed of heedlessness fast asleep. Bewailing then thy plight it returned whence it came.”",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.046511628,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.037037037,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/90/Text/1",
-          "similarity": 0.022727273,
-          "pdf_text": "Libros, para que anuncien a Sus criaturas el Recto Sendero."
-        }
-      ]
+      "xml_element_id": "297593985",
+      "xml_text": "7.",
+      "top_matches": []
     },
     {
-      "xml_element_id": "007836588",
-      "xml_text": "Those divines, however, who are truly adorned with the ornament of knowledge and of a goodly character are, verily, as a head to the body of the world, and as eyes to the nations. The guidance of men hath, at all times, been, and is, dependent upon such blessed souls. We beseech God to graciously aid them to do His will and pleasure. He, in truth, is the Lord of all men, the Lord of this world and of the next.",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.046153847,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.025974026,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/2/Text/8",
-          "similarity": 0.015625,
-          "pdf_text": "Printed in Spain - Impreso en España"
-        }
-      ]
+      "xml_element_id": "118657418",
+      "xml_text": "7\n                           \n                           O Son of Man!\n                           If thou lovest Me, turn away from thyself; and if thou seekest My pleasure, regard not thine own; that thou mayest die in Me and I may eternally live in thee.",
+      "top_matches": []
     },
     {
-      "xml_element_id": "978124911",
-      "xml_text": "O Shaykh! We have learned that thou hast turned away from Us, and protested against Us, in such wise that thou hast bidden the people to curse Me, and decreed that the blood of the servants of God be shed. God requite him who said: “Willingly will I obey the judge who hath so strangely decreed that my blood be spilt at Hill and at Ḥaram!” Verily I say: Whatever befalleth in the path of God is the beloved of the soul and the desire of the heart. Deadly poison in His path is pure honey, and every tribulation a draught of crystal water. In the Tablet to His Majesty the Sháh it is written: “By Him Who is the Truth! I fear no tribulation in His path, nor any affliction in My love for Him. Verily God hath made adversity as a morning dew upon His green pasture, and a wick for His lamp which lighteth earth and heaven.”",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.027272727,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/110/Text/4",
-          "similarity": 0.021582734,
-          "pdf_text": "¡Oh Shaykh! Hemos afirmado repetidas veces que durante varios años hemos extendido Nuestra ayuda a su Majestad el Sháh. Por años no ha ocurrido ningún fatal incidente en Persia. Las riendas de los agitadores de sedición de las diferentes sectas estaban firmemente"
-        },
-        {
-          "pdf_block_id": "/page/123/Text/3",
-          "similarity": 0.020833334,
-          "pdf_text": "¡Oh Shaykh! Incumbe a los teólogos unirse a su Majestad el Sháh -quiera Dios asistirle- y adherirse día y noche a lo que exaltará la posición tanto del gobierno como de la nación. Esta gente está asiduamente ocupada en la iluminación de las almas de los hombres y en la rehabilitación de su condición. Esto lo atestigua lo que ha"
-        }
-      ]
+      "xml_element_id": "603336429",
+      "xml_text": "8.",
+      "top_matches": []
     },
     {
-      "xml_element_id": "894978220",
-      "xml_text": "Set thine heart towards Him Who is the Kaaba of God, the Help in Peril, the Self-Subsisting, and raise thou thine hands with such firm conviction as shall cause the hands of all created things to be lifted up towards the heaven of the grace of God, the Lord of all worlds. Turn, then, thy face towards Him in such wise that the faces of all beings will turn in the direction of His shining and luminous Horizon, and say: “Thou seest me, O my Lord, with my face turned towards the heaven of Thy bounty and the ocean of Thy favor, withdrawn from all else beside Thee. I ask of Thee, by the splendors of the Sun of Thy revelation on Sinai, and the effulgences of the Orb of Thy grace which shineth from the horizon of Thy Name, the Ever-Forgiving, to grant me Thy pardon and to have mercy upon me. Write down, then, for me with Thy pen of glory that which will exalt me through Thy Name in the world of creation. Aid me, O my Lord, to set myself towards Thee, and to hearken unto the voice of Thy loved ones, whom the powers of the earth have failed to weaken, and the dominion of the nations has been powerless to withhold from Thee, and who, advancing towards Thee, have said: ‘God is our Lord, the Lord of all who are in heaven and all who are on earth!’”",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.022058824,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.013513514,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/18/Text/2",
-          "similarity": 0.012295082,
-          "pdf_text": "Dirige tu corazón hacia Aquel que es la Kaaba de Dios, el que Ayuda en el Peligro, Quien subsiste por Sí Mismo, y eleva tus manos con tan firme convicción que haga que las manos de todas las cosas creadas se eleven hacia el cielo de la gracia de Dios, el Señor de todos los mundos. Vuelve, entonces, tu rostro hacia Él, de tal modo que los rostros de todos los seres se vuelvan en la d irección de Su brillante y luminoso Horizonte, y di: \"Tú me ves, oh mi Señor, con el rostro vuelto hacia el cielo de Tu munificencia y el océano de Tu favor, separado de todo excepto de Ti. Te pido, por los resplandores del sol de Tu revelación en el Sinaí y por los fulgores del astro de Tu gracia que brilla desde el horizonte de Tu Nombre, el que Siempre Perdona, que me otorgues Tu perdón y tengas compasión de mí. Decreta entonces para mí, con Tu pluma de gloria, aquello que me exalte por medio de Tu Nombre en el mundo de la creación. Ayúdame, oh mi Señor, a dirigirme hacia Ti y a escuchar la voz de Tus amados, a quienes los poderes de la tierra no han podido"
-        }
-      ]
+      "xml_element_id": "102524683",
+      "xml_text": "8\n                           \n                           O Son of Spirit!\n                           There is no peace for thee save by renouncing thyself and turning unto Me; for it behooveth thee to glory in My name, not in thine own; to put thy trust in Me and not in thyself, since I desire to be loved alone and above all that is.",
+      "top_matches": []
     },
     {
-      "xml_element_id": "158845818",
-      "xml_text": "O Shaykh! Verily I say, the seal of the Choice Wine hath, in the name of Him Who is the Self-Subsisting, been broken; withhold not thyself therefrom. This Wronged One speaketh wholly for the sake of God; thou too shouldst, likewise, for the sake of God, meditate upon those things that have been sent down and manifested, that haply thou mayest, on this blessed Day, take thy portion of the liberal effusions of Him Who is truly the All-Bountiful, and mayest not remain deprived thereof. This indeed would not be hard for God. Dust-made Adam was raised up, through the Word of God, to the heavenly throne, and a mere fisherman was made the repository of Divine wisdom, and Abú-Dhar, the shepherd, became a prince of the nations!",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.030927835,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.018348623,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/19/Text/2",
-          "similarity": 0.016759777,
-          "pdf_text": "¡Oh Shaykh! En verdad digo, el sello del Vino Escogido ha sido roto en el nombre de Aquel que Subsiste por Sí Mismo; no te prives de él. Este Agraviado habla enteramente por amor a Dios; asimismo, tú también deberías meditar, por amor a Dios, sobre las cosas que han sido enviadas y manifestadas, que quizá puedas tomar, en este bendito Día, tu porción de las generosas efusiones de Aquel que es realmente el Todogeneroso, y no quedar privado de ellas. Esto, en verdad, no sería difícil para Dios. ¡Adán, hecho del polvo por medio de la Palabra de Dios, fue elevado al trono celestial, y un mero pescador fue convertido en repositorio de la sabiduría Divina, y Abú-Dhar, el pastor, llegó a ser un príncipe de naciones!"
-        }
-      ]
+      "xml_element_id": "213580496",
+      "xml_text": "9.",
+      "top_matches": []
     },
     {
-      "xml_element_id": "325311309",
-      "xml_text": "This Day, O Shaykh, hath never been, nor is it now, the Day whereon man-made arts and sciences can be regarded as a true standard for men, since it hath been recognized that He Who was wholly unversed in any of them hath ascended the throne of purest gold, and occupied the seat of honor in the council of knowledge, whilst the acknowledged exponent and repository of these arts and sciences remained utterly deprived. By “arts and sciences” is meant those which begin with words and end with words. Such arts and sciences, however, as are productive of good results, and bring forth their fruit, and are conducive to the well-being and tranquility of men have been, and will remain, acceptable before God. Wert thou to give ear to My voice, thou wouldst cast away all thy possessions, and wouldst set thy face towards the Spot wherein the ocean of wisdom and of utterance hath surged, and the sweet savors of the loving-kindness of thy Lord, the Compassionate, have wafted.",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.024193548,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.014705882,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/26/Text/3",
-          "similarity": 0.010471204,
-          "pdf_text": "En el tercer Tajallí (efulgencia) del Libro de Tajallíyát (Libro de Efulgencias), hemos mencionado: \"Las artes, los oficios y las ciencias elevan al mundo del ser y conducen a su exaltación. El conocimiento es como alas para la vida del hombre y una escalera para su ascenso. Su adquisición incumbe a todos. Sin embargo, debe adquirirse el conocimiento de aquellas ciencias que beneficien a los pueblos de la tierra y no de aquellas que comienzan con palabras y terminan con palabras. Grande es, en verdad, el honor de los científicos y artífices ante los pueblos del mundo. De ello da testimonio el Libro Madre en esta destacada posición\"."
-        }
-      ]
+      "xml_element_id": "204970481",
+      "xml_text": "9\n                           \n                           O Son of Being!\n                           My love is My stronghold; he that entereth therein is safe and secure, and he that turneth away shall surely stray and perish.",
+      "top_matches": []
     },
     {
-      "xml_element_id": "433308565",
-      "xml_text": "We deem it advisable, in this connection, to recount briefly some past events, that perchance they may be the means of vindicating the cause of equity and justice. At the time when His Majesty the Sháh, may God, his Lord, the Most Merciful, aid him through His strengthening grace, was planning a journey to Iṣfahán, this Wronged One, having obtained his permission, visited the holy and luminous resting-places of the Imáms, may the blessings of God be upon them! Upon Our return, We proceeded to Lavásán on account of the excessive heat prevailing in the capital. Following Our departure, there occurred the attempt upon the life of His Majesty, may God, exalted and glorified be He, assist him. Those days were troublous days, and the fires of hatred burned high. Many were arrested, among them this Wronged One. By the righteousness of God! We were in no wise connected with that evil deed, and Our innocence was indisputably established by the tribunals. Nevertheless, they apprehended Us, and from Níyávarán, which was then the residence of His Majesty, conducted Us, on foot and in chains, with bared head and bare feet, to the dungeon of Ṭihrán. A brutal man, accompanying Us on horseback, snatched off Our hat, whilst We were being hurried along by a troop of executioners and officials. We were consigned for four months to a place foul beyond comparison. As to the dungeon in which this Wronged One and others similarly wronged were confined, a dark and narrow pit were preferable. Upon Our arrival We were first conducted along a pitch-black corridor, from whence We descended three steep flights of stairs to the place of confinement assigned to Us. The dungeon was wrapped in thick darkness, and Our fellow prisoners numbered nearly a hundred and fifty souls: thieves, assassins and highwaymen. Though crowded, it had no other outlet than the passage by which We entered. No pen can depict that place, nor any tongue describe its loathsome smell. Most of these men had neither clothes nor bedding to lie on. God alone knoweth what befell Us in that most foul-smelling and gloomy place!",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/20/Text/2",
-          "similarity": 0.016172506,
-          "pdf_text": "Estimamos aconsejable, en relación con esto, recordar brevemente algunos acontecimientos pasados, que tal vez puedan ser el medio de vindicar la causa de la equidad y la justicia. En la época en que Su Majestad el Sháh, quiera Dios, su Señor, el Más Misericordioso, ayudarle mediante Su gracia fortalecedora, estaba planeando un viaje a IÐfahán, este Agraviado, habiendo obtenido su permiso, visitó los santos y luminosos sepulcros de los imames, ¡que las bendiciones de Dios sean con ellos! A Nuestro regreso, debido al excesivo calor reinante en la capital, viajamos a Lavásán. Después de Nuestra partida, sucedió el atentado contra la vida de Su Majestad, quiera Dios, exaltado y glorificado sea Él, asistirle. Esos días fueron días de conmoción y los fuegos del odio ardieron violentamente. Muchos fueron arrestados, entre ellos este Agraviado. ¡Por la rectitud de Dios! De ninguna forma estábamos vinculados a ese hecho infausto y Nuestra inocencia fue indiscutiblemente establecida por los tribunales. No obstante, Nos aprehendieron y desde Níyávarán, que por ese entonces era la residencia de Su Majestad, Nos condujeron a pie y encadenado, con la cabeza descubierta y descalzo, a la mazmorra de Teherán. Un hombre brutal que Nos acompañaba a caballo Nos arrebató el sombrero, mientras éramos conducido a toda prisa por una tropa de verdugos y oficiales. Fuimos"
-        },
-        {
-          "pdf_block_id": "/page/139/Text/2",
-          "similarity": 0.014534884,
-          "pdf_text": "Y asimismo Él dice: \"No os permitáis estar apartados de Dios como por un velo, después de que Él Se ha revelado a Sí Mismo. Pues todo lo que ha sido exaltado en el Bayán no es más que un anillo en Mi mano y Yo Mismo, verdaderamente, no soy sino un anillo en la mano de Aquel a Quien Dios hará manifiesto, ¡glorificada sea Su mención! Él lo hace girar como a Él Le place, por cualquier cosa que a Él Le place y por medio de lo que a Él Le place. Él, verdaderamente, es el que Ayuda en el Peligro, el Altísimo\". Y asimismo Él dice: \"Si Él hiciera de cada uno en la tierra un Profeta, todos serían, en la más pura verdad, considerados como Profetas ante la vista de Dios\". Y asimismo Él dice: \"En el día de la revelación de Aquel a Quien Dios hará manifiesto, todos los que moran en la tierra serán iguales en Su apreciación. A quienquiera Él haya ordenado ser un Profeta, él, verdaderamente, ha sido un Profeta desde el principio que no tiene principio y así permanecerá hasta el fin que no tiene fin, por cuanto esto es una obra de Dios. Y a quienquiera Él haya hecho un Vicerregente, será un Vicerregente en todos los mundos, ya que esto es una obra de Dios. Pues la voluntad de Dios no puede ser revelada de manera alguna salvo mediante Su voluntad; ni Su deseo puede"
-        },
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.012931035,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        }
-      ]
+      "xml_element_id": "551964733",
+      "xml_text": "10.",
+      "top_matches": []
     },
     {
-      "xml_element_id": "211612767",
-      "xml_text": "Day and night, while confined in that dungeon, We meditated upon the deeds, the condition, and the conduct of the Bábís, wondering what could have led a people so high-minded, so noble, and of such intelligence, to perpetrate such an audacious and outrageous act against the person of His Majesty. This Wronged One, thereupon, decided to arise, after His release from prison, and undertake, with the utmost vigor, the task of regenerating this people.",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.046875,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.02631579,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/21/Text/2",
-          "similarity": 0.017699115,
-          "pdf_text": "Día y noche, mientras estuvimos confinados en aquel calabozo, meditábamos sobre los hechos, la condición y la conducta de los bábís, preguntándonos qué fue lo que indujo a gente tan magnánima, tan noble y tan inteligente, a perpetrar un acto tan audaz y ultrajante contra la persona de Su Majestad. Este Agraviado, por consiguiente, después de ser puesto en libertad decidió levantarse y emprender, con el mayor vigor, la tarea de regenerar a esta gente."
-        }
-      ]
+      "xml_element_id": "249830108",
+      "xml_text": "10\n                           \n                           O Son of Utterance!\n                           Thou art My stronghold; enter therein that thou mayest abide in safety. My love is in thee, know it, that thou mayest find Me near unto thee.",
+      "top_matches": []
     },
     {
-      "xml_element_id": "196729548",
-      "xml_text": "One night, in a dream, these exalted words were heard on every side: “Verily, We shall render Thee victorious by Thyself and by Thy Pen. Grieve Thou not for that which hath befallen Thee, neither be Thou afraid, for Thou art in safety. Erelong will God raise up the treasures of the earth—men who will aid Thee through Thyself and through Thy Name, wherewith God hath revived the hearts of such as have recognized Him.”",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.029850746,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.025641026,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/2/Text/8",
-          "similarity": 0.015384615,
-          "pdf_text": "Printed in Spain - Impreso en España"
-        }
-      ]
+      "xml_element_id": "589134522",
+      "xml_text": "11.",
+      "top_matches": []
     },
     {
-      "xml_element_id": "520603799",
-      "xml_text": "And when this Wronged One went forth out of His prison, We journeyed, in pursuance of the order of His Majesty the Sháh—may God, exalted be He, protect him—to ‘Iráq, escorted by officers in the service of the esteemed and honored governments of Persia and Russia. After Our arrival, We revealed, as a copious rain, by the aid of God and His Divine Grace and mercy, Our verses, and sent them to various parts of the world. We exhorted all men, and particularly this people, through Our wise counsels and loving admonitions, and forbade them to engage in sedition, quarrels, disputes and conflict. As a result of this, and by the grace of God, waywardness and folly were changed into piety and understanding, and weapons converted into instruments of peace.",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.031914894,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.018867925,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/98/Text/3",
-          "similarity": 0.014184397,
-          "pdf_text": "Con respecto a esto es necesario mencionar el siguiente suceso, que quizá los hombres se aferren firmemente a la cuerda de la justicia y la veracidad. Æájí Shaykh Mu¥ammad-\"Alí -la gloria de Dios, el Sempiterno, sea con él- era un comerciante de elevada reputación y bien conocido por la mayoría de los habitantes de la Gran Ciudad (Constantinopla). No hace mucho, cuando la Embajada de Persia en Constantinopla estaba empeñada"
-        }
-      ]
+      "xml_element_id": "360291284",
+      "xml_text": "11\n                           \n                           O Son of Being!\n                           Thou art My lamp and My light is in thee. Get thou from it thy radiance and seek none other than Me. For I have created thee rich and have bountifully shed My favor upon thee.",
+      "top_matches": []
     },
     {
-      "xml_element_id": "699618220",
-      "xml_text": "During the days I lay in the prison of Ṭihrán, though the galling weight of the chains and the stench-filled air allowed Me but little sleep, still in those infrequent moments of slumber I felt as if something flowed from the crown of My head over My breast, even as a mighty torrent that precipitateth itself upon the earth from the summit of a lofty mountain. Every limb of My body would, as a result, be set afire. At such moments My tongue recited what no man could bear to hear.",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.04,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/29/Text/1",
-          "similarity": 0.024390243,
-          "pdf_text": "Anciano de los días. ¡Por la rectitud de Dios! La espada de una carácter virtuoso y de una conducta recta es más afilada que las hojas de acero. La voz de la verdadera Fe, en este momento, clama en voz alta diciendo: ¡Oh pueblo! Verdaderamente, el Día ha llegado y mi Señor Me ha hecho brillar con una luz cuyo esplendor ha eclipsado a los soles de la expresión. Temed al Misericordioso y no seáis de los descarriados\"."
-        },
-        {
-          "pdf_block_id": "/page/56/Text/1",
-          "similarity": 0.024390243,
-          "pdf_text": "Rogamos a Dios que seas asistido en ello. Y esto, verdaderamente, no sería difícil para Él."
-        }
-      ]
+      "xml_element_id": "435469124",
+      "xml_text": "12.",
+      "top_matches": []
     },
     {
-      "xml_element_id": "483041177",
-      "xml_text": "We shall herewith cite a few passages from Tablets specifically revealed to this people, so that every one may know of a certainty that this Wronged One hath acted in a manner which hath been pleasing and acceptable unto men endued with insight, and unto such as are the exponents of justice and equity:",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.057692308,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.03125,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/2/Text/8",
-          "similarity": 0.019607844,
-          "pdf_text": "Printed in Spain - Impreso en España"
-        }
-      ]
+      "xml_element_id": "724175772",
+      "xml_text": "12\n                           \n                           O Son of Being!\n                           With the hands of power I made thee and with the fingers of strength I created thee; and within thee have I placed the essence of My light. Be thou content with it and seek naught else, for My work is perfect and My command is binding. Question it not, nor have a doubt thereof.",
+      "top_matches": []
     },
     {
-      "xml_element_id": "713687345",
-      "xml_text": "“O ye friends of God in His cities and His loved ones in His lands! This Wronged One enjoineth on you honesty and piety. Blessed the city that shineth by their light. Through them man is exalted, and the door of security is unlocked before the face of all creation. Happy the man that cleaveth fast unto them, and recognizeth their virtue, and woe betide him that denieth their station.”",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.033333335,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.028169014,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/2/Text/8",
-          "similarity": 0.01724138,
-          "pdf_text": "Printed in Spain - Impreso en España"
-        }
-      ]
+      "xml_element_id": "995237181",
+      "xml_text": "13.",
+      "top_matches": []
     },
     {
-      "xml_element_id": "412597224",
-      "xml_text": "And in another connection these words were revealed: “We enjoin the servants of God and His handmaidens to be pure and to fear God, that they may shake off the slumber of their corrupt desires, and turn toward God, the Maker of the heavens and of the earth. Thus have We commanded the faithful when the Daystar of the world shone forth from the horizon of ‘Iráq. My imprisonment doeth Me no harm, neither the tribulations I suffer, nor the things that have befallen Me at the hands of My oppressors. That which harmeth Me is the conduct of those who, though they bear My name, yet commit that which maketh My heart and My pen to lament. They that spread disorder in the land, and lay hands on the property of others, and enter a house without leave of its owner, We, verily, are clear of them, unless they repent and return unto God, the Ever-Forgiving, the Most Merciful.”",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.026086956,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/29/Text/1",
-          "similarity": 0.018404908,
-          "pdf_text": "Anciano de los días. ¡Por la rectitud de Dios! La espada de una carácter virtuoso y de una conducta recta es más afilada que las hojas de acero. La voz de la verdadera Fe, en este momento, clama en voz alta diciendo: ¡Oh pueblo! Verdaderamente, el Día ha llegado y mi Señor Me ha hecho brillar con una luz cuyo esplendor ha eclipsado a los soles de la expresión. Temed al Misericordioso y no seáis de los descarriados\"."
-        },
-        {
-          "pdf_block_id": "/page/25/Text/3",
-          "similarity": 0.018072288,
-          "pdf_text": "Y todavía otra vez, en otra ocasión: \"El Sol de la Divina Expresión nunca puede ponerse, ni su esplendor puede ser extinguido. Estas sublimes palabras se han oído, en este día, desde el Árbol del Loto, más allá del cual no hay paso: 'Yo pertenezco a quien Me ama, el que cumple fielmente Mis mandamientos y ha desech ado las cosas que le fueron prohibidas en Mi Libro'\"."
-        }
-      ]
+      "xml_element_id": "511421653",
+      "xml_text": "13\n                           \n                           O Son of Spirit!\n                           I created thee rich, why dost thou bring thyself down to poverty? Noble I made thee, wherewith  dost thou abase thyself? Out of the essence of knowledge I gave thee being, why seekest thou enlightenment from anyone beside Me? Out of the clay of love I molded thee, how dost thou busy thyself with another? Turn thy sight unto thyself, that thou mayest find Me standing within thee, mighty, powerful and self-subsisting.",
+      "top_matches": []
     },
     {
-      "xml_element_id": "215150301",
-      "xml_text": "And in another connection: “O peoples of the earth! Haste ye to do the pleasure of God, and war ye valiantly, as it behooveth you to war, for the sake of proclaiming His resistless and immovable Cause. We have decreed that war shall be waged in the path of God with the armies of wisdom and utterance, and of a goodly character and praiseworthy deeds. Thus hath it been decided by Him Who is the All-Powerful, the Almighty. There is no glory for him that committeth disorder on the earth after it hath been made so good. Fear God, O people, and be not of them that act unjustly.”",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.035714287,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/56/Text/1",
-          "similarity": 0.021978023,
-          "pdf_text": "Rogamos a Dios que seas asistido en ello. Y esto, verdaderamente, no sería difícil para Él."
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.020833334,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        }
-      ]
+      "xml_element_id": "547414426",
+      "xml_text": "14.",
+      "top_matches": []
     },
     {
-      "xml_element_id": "107948855",
-      "xml_text": "And again in another connection: “Revile ye not one another. We, verily, have come to unite and weld together all that dwell on earth. Unto this beareth witness what the ocean of Mine utterance hath revealed amongst men, and yet most of the people have gone astray. If anyone revile you, or trouble touch you, in the path of God, be patient, and put your trust in Him Who heareth, Who seeth. He, in truth, witnesseth, and perceiveth, and doeth what He pleaseth, through the power of His sovereignty. He, verily, is the Lord of strength, and of might. In the Book of God, the Mighty, the Great, ye have been forbidden to engage in contention and conflict. Lay fast hold on whatever will profit you, and profit the peoples of the world. Thus commandeth you the King of Eternity, Who is manifest in His Most Great Name. He, verily, is the Ordainer, the All-Wise.”",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.027027028,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.016260162,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        }
-      ]
+      "xml_element_id": "708223253",
+      "xml_text": "14\n                           \n                           O Son of Man!\n                           Thou art My dominion and My dominion perisheth not; wherefore fearest thou thy perishing? Thou art My light and My light shall never be extinguished; why dost thou dread extinction? Thou art My glory and My glory fadeth not; thou art My robe and My robe shall never be outworn. Abide then in thy love for Me, that thou mayest find Me in the realm of glory.",
+      "top_matches": []
     },
     {
-      "xml_element_id": "273528500",
-      "xml_text": "And yet again in another connection: “Beware lest ye shed the blood of any one. Unsheathe the sword of your tongue from the scabbard of utterance, for therewith ye can conquer the citadels of men’s hearts. We have abolished the law to wage holy war against each other. God’s mercy hath, verily, encompassed all created things, if ye do but understand.”",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.050847456,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.028169014,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/2/Text/8",
-          "similarity": 0.01724138,
-          "pdf_text": "Printed in Spain - Impreso en España"
-        }
-      ]
+      "xml_element_id": "268276430",
+      "xml_text": "15.",
+      "top_matches": []
     },
     {
-      "xml_element_id": "999588038",
-      "xml_text": "And yet again in another connection: “O people! Spread not disorder in the land, and shed not the blood of any one, and consume not the substance of others wrongfully, neither follow every accursed prattler.”",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.055555556,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.04255319,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/2/Text/8",
-          "similarity": 0.029411765,
-          "pdf_text": "Printed in Spain - Impreso en España"
-        }
-      ]
+      "xml_element_id": "084945209",
+      "xml_text": "15\n                           \n                           O Son of Utterance!\n                           Turn thy face unto Mine and renounce all save Me; for My sovereignty endureth and My dominion perisheth not. If thou seekest another than Me, yea, if thou searchest the universe forevermore, thy quest will be in vain.",
+      "top_matches": []
     },
     {
-      "xml_element_id": "376442005",
-      "xml_text": "And still again in another connection: “The Sun of Divine Utterance can never set, neither can its radiance be extinguished. These sublime words have, in this day, been heard from the Lote-Tree beyond which there is no passing: ‘I belong to him that loveth Me, that holdeth fast My commandments, and casteth away the things forbidden him in My Book.’”",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.05,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.027777778,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/54/Text/1",
-          "similarity": 0.025641026,
-          "pdf_text": "ayuda, por lo cual Dios ha ordenado para ti una posición que no puede comprender el conocimiento de nadie excepto Su conocimiento. Cuídate de no trocar esta sublime posición\"."
-        }
-      ]
+      "xml_element_id": "304783447",
+      "xml_text": "16.",
+      "top_matches": []
     },
     {
-      "xml_element_id": "799152139",
-      "xml_text": "And still again in another connection: “This is the day to make mention of God, to celebrate His praise, and to serve Him; deprive not yourselves thereof. Ye are the letters of the words, and the words of the Book. Ye are the saplings which the hand of Loving-kindness hath planted in the soil of mercy, and which the showers of bounty have made to flourish. He hath protected you from the mighty winds of misbelief, and the tempestuous gales of impiety, and nurtured you with the hands of His loving providence. Now is the time for you to put forth your leaves, and yield your fruit. The fruits of the tree of man have ever been and are goodly deeds and a praiseworthy character. Withhold not these fruits from the heedless. If they be accepted, your end is attained, and the purpose of life achieved. If not, leave them in their pastime of vain disputes. Strive, O people of God, that haply the hearts of the divers kindreds of the earth may, through the waters of your forbearance and loving-kindness, be cleansed and sanctified from animosity and hatred, and be made worthy and befitting recipients of the splendors of the Sun of Truth.”",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.023255814,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.014184397,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        },
-        {
-          "pdf_block_id": "/page/85/Text/1",
-          "similarity": 0.0125,
-          "pdf_text": "hizo suspirar a todas las cosas creadas y, sin embargo, la gente, en su mayor parte, está sumida en man ifiesta ignorancia! Rogamos a Dios que les ayude a volverse hacia Él y a arrepentirse ante la puerta de Su misericordia. Potente es Él sobre todas las cosas."
-        }
-      ]
+      "xml_element_id": "326933756",
+      "xml_text": "16\n                           \n                           O Son of Light!\n                           Forget all save Me and commune with My spirit. This is of the essence of My command, therefore turn unto it.",
+      "top_matches": []
     },
     {
-      "xml_element_id": "352004137",
-      "xml_text": "In the fourth Ishráq (splendor) of the Ishráqát (Tablet of Splendors) We have mentioned: “Every cause needeth a helper. In this Revelation the hosts which can render it victorious are the hosts of praiseworthy deeds and upright character. The leader and commander of these hosts hath ever been the fear of God, a fear that encompasseth all things, and reigneth over all things.”",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/2/Text/0",
-          "similarity": 0.036363635,
-          "pdf_text": "Título original en inglés: Epistle to the Son of the Wolf"
-        },
-        {
-          "pdf_block_id": "/page/26/Text/2",
-          "similarity": 0.031914894,
-          "pdf_text": "En el cuarto Ishráq (esplendor) del Ishráqát (Tabla de Esplendores), hemos mencionado: \"Toda causa necesita quien la ayude. En esta Revelación las huestes que pueden hacerla victoriosa son la huestes de los hechos loables y de un carácter recto. El líder y comandante de estas huestes ha sido siempre el temor de Dios, un temor que abarca a todas las cosas y reina sobre todas las cosas\"."
-        },
-        {
-          "pdf_block_id": "/page/173/Table/6",
-          "similarity": 0.030303031,
-          "pdf_text": "MÍRZÁ (de Naráq). Uno de los seguidores del Báb, MU«R»AFÁ: ejecutado en Tabríz. (Véase Memorials of the Faithful , págs. 148-50)."
-        }
-      ]
+      "xml_element_id": "748105455",
+      "xml_text": "17.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "176729752",
+      "xml_text": "17\n                           \n                           O Son of Man!\n                           Be thou content with Me and seek no other helper. For none but Me can ever suffice thee.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "427306367",
+      "xml_text": "18.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "172973975",
+      "xml_text": "18\n                           \n                           O Son of Spirit!\n                           Ask not of Me that which We desire not for thee, then be content with what We have ordained for thy sake, for this is that which profiteth thee, if therewith thou dost content thyself.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "097224139",
+      "xml_text": "19.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "203478186",
+      "xml_text": "19\n                           \n                           O Son of the Wondrous Vision!\n                           I have breathed within thee a breath of My own Spirit, that thou mayest be My lover. Why hast thou forsaken Me and sought a beloved other than Me?",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "462583978",
+      "xml_text": "20.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "682988442",
+      "xml_text": "20\n                           \n                           O Son of Spirit!\n                           My claim on thee is great, it cannot be forgotten. My grace to thee is plenteous, it cannot be veiled. My love has made in thee its home,  it cannot be concealed. My light is manifest to thee, it cannot be obscured.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "911791736",
+      "xml_text": "21.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "227320942",
+      "xml_text": "21\n                           \n                           O Son of Man!\n                           Upon the tree of effulgent glory I have hung for thee the choicest fruits, wherefore hast thou turned away and contented thyself with that which is less good? Return then unto that which is better for thee in the realm on high.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "201337610",
+      "xml_text": "22.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "536853978",
+      "xml_text": "22\n                           \n                           O Son of Spirit!\n                           Noble have I created thee, yet thou hast abased thyself. Rise then unto that for which thou wast created.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "676107959",
+      "xml_text": "23.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "543131747",
+      "xml_text": "23\n                           \n                           O Son of the Supreme!\n                           To the eternal I call thee, yet thou dost seek that which perisheth. What hath made thee turn away from Our desire and seek thine own?",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "168649421",
+      "xml_text": "24.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "153701502",
+      "xml_text": "24\n                           \n                           O Son of Man!\n                           Transgress not thy limits, nor claim that which beseemeth thee not. Prostrate thyself before the countenance of thy God, the Lord of might and power.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "642633869",
+      "xml_text": "25.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "585415953",
+      "xml_text": "25\n                           \n                           O Son of Spirit!\n                           Vaunt not thyself over the poor, for I lead him on his way and behold thee in thy evil plight and confound thee forevermore.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "967724112",
+      "xml_text": "26.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "568477331",
+      "xml_text": "26\n                           \n                           O Son of Being!\n                           How couldst thou forget thine own faults and busy thyself with the faults of others? Whoso doeth this is accursed of Me.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "930952279",
+      "xml_text": "27.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "605082403",
+      "xml_text": "27\n                           \n                           O Son of Man!\n                           Breathe not the sins of others so long as thou art thyself a sinner. Shouldst thou transgress this command, accursed wouldst thou be, and to this I bear witness.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "468164144",
+      "xml_text": "28.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "470987721",
+      "xml_text": "28\n                           \n                           O Son of Spirit!\n                           Know thou of a truth: He that biddeth men be just and himself committeth iniquity is not of Me, even though he bear My name.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "546458832",
+      "xml_text": "29.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "762019759",
+      "xml_text": "29\n                           \n                           O Son of Being!\n                           Ascribe not to any soul that which thou wouldst not have ascribed to thee, and say not that which thou doest not. This is My command unto thee, do thou observe it.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "169239258",
+      "xml_text": "30.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "172419670",
+      "xml_text": "30\n                           \n                           O Son of Man!\n                           Deny not My servant should he ask anything from thee, for his face is My face; be then abashed before Me.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "632920101",
+      "xml_text": "31.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "048313746",
+      "xml_text": "31\n                           \n                           O Son of Being!\n                           Bring thyself to account each day ere thou art summoned to a reckoning; for death, unheralded, shall come upon thee and thou shalt be called to give account for thy deeds.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "727494266",
+      "xml_text": "32.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "674148173",
+      "xml_text": "32\n                           \n                           O Son of the Supreme!\n                           I have made death a messenger of joy to thee. Wherefore dost thou grieve? I made the light to shed on thee its splendor. Why dost thou veil thyself therefrom?",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "939776518",
+      "xml_text": "33.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "687429569",
+      "xml_text": "33\n                           \n                           O Son of Spirit!\n                           With the joyful tidings of light I hail thee: rejoice! To the court of holiness I summon thee; abide therein that thou mayest live in peace forevermore.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "645701268",
+      "xml_text": "34.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "955217479",
+      "xml_text": "34\n                           \n                           O Son of Spirit!\n                           The spirit of holiness beareth unto thee the joyful tidings of reunion; wherefore dost thou  grieve? The spirit of power confirmeth thee in His cause; why dost thou veil thyself? The light of His countenance doth lead thee; how canst thou go astray?",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "180003919",
+      "xml_text": "35.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "695756189",
+      "xml_text": "35\n                           \n                           O Son of Man!\n                           Sorrow not save that thou art far from Us. Rejoice not save that thou art drawing near and returning unto Us.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "824670404",
+      "xml_text": "36.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "745110864",
+      "xml_text": "36\n                           \n                           O Son of Man!\n                           Rejoice in the gladness of thine heart, that thou mayest be worthy to meet Me and to mirror forth My beauty.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "952239953",
+      "xml_text": "37.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "457228072",
+      "xml_text": "37\n                           \n                           O Son of Man!\n                           Divest not thyself of My beauteous robe, and forfeit not thy portion from My wondrous fountain, lest thou shouldst thirst forevermore.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "322310060",
+      "xml_text": "38.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "348139945",
+      "xml_text": "38\n                           \n                           O Son of Being!\n                           Walk in My statutes for love of Me and deny thyself that which thou desirest if thou seekest My pleasure.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "117927313",
+      "xml_text": "39.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "231198685",
+      "xml_text": "39\n                           \n                           O Son of Man!\n                           Neglect not My commandments if thou lovest My beauty, and forget not My counsels if thou wouldst attain My good pleasure.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "815776633",
+      "xml_text": "40.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "815268217",
+      "xml_text": "40\n                           \n                           O Son of Man!\n                           Wert thou to speed through the immensity of space and traverse the expanse of heaven, yet thou wouldst find no rest save in submission to Our command and humbleness before Our Face.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "100070876",
+      "xml_text": "41.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "847002213",
+      "xml_text": "41\n                           \n                           O Son of Man!\n                           Magnify My cause that I may reveal unto thee the mysteries of My greatness and shine upon thee with the light of eternity.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "343025324",
+      "xml_text": "42.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "588699010",
+      "xml_text": "42\n                           \n                           O Son of Man!\n                           Humble thyself before Me, that I may graciously visit thee. Arise for the triumph of My cause, that while yet on earth thou mayest obtain the victory.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "077566570",
+      "xml_text": "43.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "483970230",
+      "xml_text": "43\n                           \n                           O Son of Being!\n                           Make mention of Me on My earth, that in My heaven I may remember thee, thus shall Mine eyes and thine be solaced.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "060005752",
+      "xml_text": "44.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "856926883",
+      "xml_text": "44\n                           \n                           O Son of the Throne!\n                           Thy hearing is My hearing, hear thou therewith. Thy sight is My sight, do thou see therewith, that in thine inmost soul thou mayest testify unto My exalted sanctity, and I within Myself may bear witness unto an exalted station for thee.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "899987814",
+      "xml_text": "45.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "900928409",
+      "xml_text": "45\n                           \n                           O Son of Being!\n                           Seek a martyr’s death in My path, content with My pleasure and thankful for that which I ordain, that thou mayest repose with Me beneath the canopy of majesty behind the tabernacle of glory.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "767803484",
+      "xml_text": "46.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "950471653",
+      "xml_text": "46\n                           \n                           O Son of Man!\n                           Ponder and reflect. Is it thy wish to die upon thy bed, or to shed thy lifeblood on the dust, a martyr in My path, and so become the manifestation of My command and the revealer of My light in the highest paradise? Judge thou aright, O servant!",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "861412389",
+      "xml_text": "47.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "147382821",
+      "xml_text": "47\n                           \n                           O Son of Man!\n                           By My beauty! To tinge thy hair with thy blood is greater in My sight than the creation of the  universe and the light of both worlds. Strive then to attain this, O servant!",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "705092088",
+      "xml_text": "48.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "200697020",
+      "xml_text": "48\n                           \n                           O Son of Man!\n                           For everything there is a sign. The sign of love is fortitude under My decree and patience under My trials.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "435234774",
+      "xml_text": "49.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "930638360",
+      "xml_text": "49\n                           \n                           O Son of Man!\n                           The true lover yearneth for tribulation even as doth the rebel for forgiveness and the sinful for mercy.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "707527628",
+      "xml_text": "50.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "472999964",
+      "xml_text": "50\n                           \n                           O Son of Man!\n                           If adversity befall thee not in My path, how canst thou walk in the ways of them that are content with My pleasure? If trials afflict thee not in thy longing to meet Me, how wilt thou attain the light in thy love for My beauty?",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "110701501",
+      "xml_text": "51.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "746355706",
+      "xml_text": "51\n                           \n                           O Son of Man!\n                           My calamity is My providence, outwardly it is fire and vengeance, but inwardly it is light and mercy. Hasten thereunto that thou mayest become an eternal light and an immortal spirit. This is My command unto thee, do thou observe it.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "894150102",
+      "xml_text": "52.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "118018611",
+      "xml_text": "52\n                           \n                           O Son of Man!\n                           Should prosperity befall thee, rejoice not, and should abasement come upon thee, grieve not, for both shall pass away and be no more.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "730644493",
+      "xml_text": "53.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "956386997",
+      "xml_text": "53\n                           \n                           O Son of Being!\n                           If poverty overtake thee, be not sad; for in time the Lord of wealth shall visit thee. Fear not abasement, for glory shall one day rest on thee.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "848882294",
+      "xml_text": "54.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "562190408",
+      "xml_text": "54\n                           \n                           O Son of Being!\n                           If thine heart be set upon this eternal, imperishable dominion, and this ancient, everlasting life, forsake this mortal and fleeting sovereignty.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "187136136",
+      "xml_text": "55.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "561352140",
+      "xml_text": "55\n                           \n                           O Son of Being!\n                           Busy not thyself with this world, for with fire We test the gold, and with gold We test Our servants.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "292994017",
+      "xml_text": "56.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "748392247",
+      "xml_text": "56\n                           \n                           O Son of Man!\n                           Thou dost wish for gold and I desire thy freedom from it. Thou thinkest thyself rich in its possession, and I recognize thy wealth in thy sanctity  therefrom. By My life! This is My knowledge, and that is thy fancy; how can My way accord with thine?",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "337833374",
+      "xml_text": "57.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "636691280",
+      "xml_text": "57\n                           \n                           O Son of Man!\n                           Bestow My wealth upon My poor, that in heaven thou mayest draw from stores of unfading splendor and treasures of imperishable glory. But by My life! To offer up thy soul is a more glorious thing couldst thou but see with Mine eye.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "721387443",
+      "xml_text": "58.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "543261789",
+      "xml_text": "58\n                           \n                           O Son of Man!\n                           The temple of being is My throne; cleanse it of all things, that there I may be established and there I may abide.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "816306122",
+      "xml_text": "59.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "804011987",
+      "xml_text": "59\n                           \n                           O Son of Being!\n                           Thy heart is My home; sanctify it for My descent. Thy spirit is My place of revelation; cleanse it for My manifestation.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "016045803",
+      "xml_text": "60.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "287468342",
+      "xml_text": "60\n                           \n                           O Son of Man!\n                           Put thy hand into My bosom, that I may rise above thee, radiant and resplendent.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "069018208",
+      "xml_text": "61.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "755666283",
+      "xml_text": "61\n                           \n                           O Son of Man!\n                           Ascend unto My heaven, that thou mayest obtain the joy of reunion, and from the chalice of imperishable glory quaff the peerless wine.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "577197389",
+      "xml_text": "62.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "677243732",
+      "xml_text": "62\n                           \n                           O Son of Man!\n                           Many a day hath passed over thee whilst thou hast busied thyself with thy fancies and idle imaginings. How long art thou to slumber on thy bed? Lift up thy head from slumber, for the Sun hath risen to the zenith, haply it may shine upon thee with the light of beauty.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "577171534",
+      "xml_text": "63.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "244905205",
+      "xml_text": "63\n                           \n                           O Son of Man!\n                           The light hath shone on thee from the horizon of the sacred Mount and the spirit of enlightenment hath breathed in the Sinai of thy heart. Wherefore, free thyself from the veils of idle fancies and enter into My court, that thou mayest be fit for everlasting life and worthy to meet Me. Thus may death not come upon thee, neither weariness nor trouble.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "798355773",
+      "xml_text": "64.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "101409766",
+      "xml_text": "64\n                           \n                           O Son of Man!\n                           My eternity is My creation, I have created it for thee. Make it the garment of thy temple. My unity  is My handiwork; I have wrought it for thee; clothe thyself therewith, that thou mayest be to all eternity the revelation of My everlasting being.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "015441658",
+      "xml_text": "65.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "439014978",
+      "xml_text": "65\n                           \n                           O Son of Man!\n                           My majesty is My gift to thee, and My grandeur the token of My mercy unto thee. That which beseemeth Me none shall understand, nor can anyone recount. Verily, I have preserved it in My hidden storehouses and in the treasuries of My command, as a sign of My loving-kindness unto My servants and My mercy unto My people.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "571328632",
+      "xml_text": "66.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "716805208",
+      "xml_text": "66\n                           \n                           O Children of the Divine and Invisible Essence!\n                           Ye shall be hindered from loving Me and souls shall be perturbed as they make mention of Me. For minds cannot grasp Me nor hearts contain Me.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "911401648",
+      "xml_text": "67.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "044427246",
+      "xml_text": "67\n                           \n                           O Son of Beauty!\n                           By My spirit and by My favor! By My mercy and by My beauty! All that I have revealed unto thee with the tongue of power, and have written for  thee with the pen of might, hath been in accordance with thy capacity and understanding, not with My state and the melody of My voice.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "432246672",
+      "xml_text": "68.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "685666862",
+      "xml_text": "68\n                           \n                           O Children of Men!\n                           Know ye not why We created you all from the same dust? That no one should exalt himself over the other. Ponder at all times in your hearts how ye were created. Since We have created you all from one same substance it is incumbent on you to be even as one soul, to walk with the same feet, eat with the same mouth and dwell in the same land, that from your inmost being, by your deeds and actions, the signs of oneness and the essence of detachment may be made manifest. Such is My counsel to you, O concourse of light! Heed ye this counsel that ye may obtain the fruit of holiness from the tree of wondrous glory.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "523105482",
+      "xml_text": "69.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "414744315",
+      "xml_text": "69\n                           \n                           O Ye Sons of Spirit!\n                           Ye are My treasury, for in you I have treasured the pearls of My mysteries and the gems of My knowledge. Guard them from the strangers amidst My servants and from the ungodly amongst My people.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "842221881",
+      "xml_text": "70.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "186817587",
+      "xml_text": "70\n                           \n                           O Son of Him that Stood by His Own Entity in the Kingdom of His Self!\n                           Know thou, that I have wafted unto thee all the fragrances of holiness, have fully revealed to thee My word, have perfected through thee My bounty and have desired for thee that which I have desired for My Self. Be then content with My pleasure and thankful unto Me.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "963857632",
+      "xml_text": "71.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "296667998",
+      "xml_text": "71\n                           \n                           \n                           O Son of Man!\n                           Write all that We have revealed unto thee with the ink of light upon the tablet of thy spirit. Should this not be in thy power, then make thine ink of the essence of thy heart. If this thou canst not do, then write with that crimson ink that hath been shed in My path. Sweeter indeed is this to Me than all else, that its light may endure forever.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "305986377",
+      "xml_text": "Part Two",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "643519412",
+      "xml_text": "From the Persian",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "897394995",
+      "xml_text": "In the Name of the Lord of Utterance, the Mighty.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "088219879",
+      "xml_text": "1.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "099391514",
+      "xml_text": "1\n                           \n                           O Ye People that Have Minds to Know and Ears to Hear!\n                           The first call of the Beloved is this: O mystic nightingale! Abide not but in the rose garden of the spirit. O messenger of the Solomon of love! Seek thou no shelter except in the Sheba of the well-beloved, and O immortal phoenix! dwell not save on the mount of faithfulness. Therein is thy habitation, if on the wings of thy soul thou soarest to the realm of the infinite and seekest to attain thy goal.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "743250366",
+      "xml_text": "2.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "775010913",
+      "xml_text": "2\n                           \n                           O Son of Spirit!\n                           The bird seeketh its nest; the nightingale the charm of the rose; whilst those birds, the hearts of men, content with transient dust, have  strayed far from their eternal nest, and with eyes turned towards the slough of heedlessness are bereft of the glory of the divine presence. Alas! How strange and pitiful; for a mere cupful, they have turned away from the billowing seas of the Most High, and remained far from the most effulgent horizon.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "734578583",
+      "xml_text": "3.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "607855955",
+      "xml_text": "3\n                           \n                           O Friend!\n                           In the garden of thy heart plant naught but the rose of love, and from the nightingale of affection and desire loosen not thy hold. Treasure the companionship of the righteous and eschew all fellowship with the ungodly.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "607231626",
+      "xml_text": "4.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "445619358",
+      "xml_text": "4\n                           \n                           O Son of Justice!\n                           Whither can a lover go but to the land of his beloved? and what seeker findeth rest away from his heart’s desire? To the true lover reunion is life, and separation is death. His breast is void of patience and his heart hath no peace. A myriad lives he would forsake to hasten to the abode of his beloved.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "980198545",
+      "xml_text": "5.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "646280975",
+      "xml_text": "5\n                           \n                           O Son of Dust!\n                           Verily I say unto thee: Of all men the most negligent is he that disputeth idly and seeketh  to advance himself over his brother. Say: O brethren! Let deeds, not words, be your adorning.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "251865239",
+      "xml_text": "6.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "909712031",
+      "xml_text": "6\n                           \n                           O Son of Earth!\n                           Know, verily, the heart wherein the least remnant of envy yet lingers, shall never attain My everlasting dominion, nor inhale the sweet savors of holiness breathing from My kingdom of sanctity.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "491824404",
+      "xml_text": "7.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "866203931",
+      "xml_text": "7\n                           \n                           O Son of Love!\n                           Thou art but one step away from the glorious heights above and from the celestial tree of love. Take thou one pace and with the next advance into the immortal realm and enter the pavilion of eternity. Give ear then to that which hath been revealed by the Pen of Glory.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "669331991",
+      "xml_text": "8.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "105970176",
+      "xml_text": "8\n                           \n                           O Son of Glory!\n                           Be swift in the path of holiness, and enter the heaven of communion with Me. Cleanse thy heart with the burnish of the spirit, and hasten to the court of the Most High.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "672968461",
+      "xml_text": "9.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "484615704",
+      "xml_text": "9\n                           \n                           O Fleeting Shadow!\n                           Pass beyond the baser stages of doubt and rise to the exalted heights of certainty. Open the eye of truth, that thou mayest behold the veilless Beauty and exclaim: Hallowed be the Lord, the most excellent of all creators!",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "688624582",
+      "xml_text": "10.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "915407365",
+      "xml_text": "10\n                           \n                           O Son of Desire!\n                           Give ear unto this: Never shall mortal eye recognize the everlasting Beauty, nor the lifeless heart delight in aught but in the withered bloom. For like seeketh like, and taketh pleasure in the company of its kind.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "833565046",
+      "xml_text": "11.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "756281961",
+      "xml_text": "11\n                           \n                           O Son of Dust!\n                           Blind thine eyes, that thou mayest behold My beauty; stop thine ears, that thou mayest hearken unto the sweet melody of My voice; empty thyself of all learning, that thou mayest partake of My knowledge; and sanctify thyself from riches, that thou mayest obtain a lasting share from the ocean of My eternal wealth. Blind thine eyes, that is, to all save My beauty; stop thine ears to all save My word; empty thyself of all learning save the knowledge of Me; that with a clear vision, a pure heart and an attentive ear thou mayest enter the court of My holiness.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "667279695",
+      "xml_text": "12.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "775762706",
+      "xml_text": "12\n                           \n                           O Man of Two Visions!\n                           Close one eye and open the other. Close one to the world and all that is therein, and open the other to the hallowed beauty of the Beloved.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "915127053",
+      "xml_text": "13.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "944463388",
+      "xml_text": "13\n                           \n                           O My Children!\n                           I fear lest, bereft of the melody of the dove of heaven, ye will sink back to the shades of utter loss, and, never having gazed upon the beauty of the rose, return to water and clay.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "603821566",
+      "xml_text": "14.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "909085672",
+      "xml_text": "14\n                           \n                           O Friends!\n                           Abandon not the everlasting beauty for a beauty that must die, and set not your affections on this mortal world of dust.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "507604405",
+      "xml_text": "15.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "411149860",
+      "xml_text": "15\n                           \n                           O Son of Spirit!\n                           The time cometh, when the nightingale of holiness will no longer unfold the inner mysteries and ye will all be bereft of the celestial melody and of the voice from on high.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "166509933",
+      "xml_text": "16.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "748143718",
+      "xml_text": "16\n                           \n                           O Essence of Negligence!\n                           Myriads of mystic tongues find utterance in one speech, and myriads of hidden mysteries are revealed  in a single melody; yet, alas, there is no ear to hear, nor heart to understand.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "170896910",
+      "xml_text": "17.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "304654598",
+      "xml_text": "17\n                           \n                           O Comrades!\n                           The gates that open on the Placeless stand wide and the habitation of the loved one is adorned with the lovers’ blood, yet all but a few remain bereft of this celestial city, and even of these few, none but the smallest handful hath been found with a pure heart and sanctified spirit.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "783133567",
+      "xml_text": "18.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "915681675",
+      "xml_text": "18\n                           \n                           O Ye Dwellers in the Highest Paradise!\n                           Proclaim unto the children of assurance that within the realms of holiness, nigh unto the celestial paradise, a new garden hath appeared, round which circle the denizens of the realm on high and the immortal dwellers of the exalted paradise. Strive, then, that ye may attain that station, that ye may unravel the mysteries of love from its windflowers and learn the secret of divine and consummate wisdom from its eternal fruits. Solaced are the eyes of them that enter and abide therein!",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "822335281",
+      "xml_text": "19.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "069414826",
+      "xml_text": "19\n                           \n                           O My Friends!\n                           Have ye forgotten that true and radiant morn, when in those hallowed and blessed surroundings  ye were all gathered in My presence beneath the shade of the tree of life, which is planted in the all-glorious paradise? Awestruck ye listened as I gave utterance to these three most holy words: O friends! Prefer not your will to Mine, never desire that which I have not desired for you, and approach Me not with lifeless hearts, defiled with worldly desires and cravings. Would ye but sanctify your souls, ye would at this present hour recall that place and those surroundings, and the truth of My utterance should be made evident unto all of you.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "408241389",
+      "xml_text": "In the eighth of the most holy lines, in the fifth Tablet of Paradise, He saith:",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "095486133",
+      "xml_text": "20.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "824146051",
+      "xml_text": "20\n                           \n                           O Ye That Are Lying as Dead on the Couch of Heedlessness!\n                           Ages have passed and your precious lives are well-nigh ended, yet not a single breath of purity hath reached Our court of holiness from you. Though immersed in the ocean of misbelief, yet with your lips ye profess the one true faith of God. Him whom I abhor ye have loved, and of My foe ye have made a friend. Notwithstanding, ye walk on My earth complacent and self-satisfied, heedless that My earth is weary of you and everything  within it shunneth you. Were ye but to open your eyes, ye would, in truth, prefer a myriad griefs unto this joy, and would count death itself better than this life.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "818654164",
+      "xml_text": "21.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "492712156",
+      "xml_text": "21\n                           \n                           O Moving Form of Dust!\n                           I desire communion with thee, but thou wouldst put no trust in Me. The sword of thy rebellion hath felled the tree of thy hope. At all times I am near unto thee, but thou art ever far from Me. Imperishable glory I have chosen for thee, yet boundless shame thou hast chosen for thyself. While there is yet time, return, and lose not thy chance.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "398928711",
+      "xml_text": "22.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "475255532",
+      "xml_text": "22\n                           \n                           O Son of Desire!\n                           The learned and the wise have for long years striven and failed to attain the presence of the All-Glorious; they have spent their lives in search of Him, yet did not behold the beauty of His countenance. Thou without the least effort didst attain thy goal, and without search hast obtained the object of thy quest. Yet, notwithstanding, thou didst remain so wrapt in the veil of self, that thine eyes beheld not the beauty of the Beloved, nor did thy hand touch the hem of His robe. Ye that have eyes, behold and wonder.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "872687750",
+      "xml_text": "23.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "927133713",
+      "xml_text": "23\n                           \n                           O Dwellers in the City of Love!\n                           Mortal blasts have beset the everlasting candle, and the beauty of the celestial Youth is veiled in the darkness of dust. The chief of the monarchs of love is wronged by the people of tyranny and the dove of holiness lies prisoned in the talons of owls. The dwellers in the pavilion of glory and the celestial concourse bewail and lament, while ye repose in the realm of negligence, and esteem yourselves as of the true friends. How vain are your imaginings!",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "671026962",
+      "xml_text": "24.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "904750204",
+      "xml_text": "24\n                           \n                           O Ye That Are Foolish, Yet Have a Name to Be Wise!\n                           Wherefore do ye wear the guise of shepherds, when inwardly ye have become wolves, intent upon My flock? Ye are even as the star, which riseth ere the dawn, and which, though it seem radiant and luminous, leadeth the wayfarers of My city astray into the paths of perdition.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "073300678",
+      "xml_text": "25.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "947541230",
+      "xml_text": "25\n                           \n                           O Ye Seeming Fair Yet Inwardly Foul!\n                           Ye are like clear but bitter water, which to outward seeming is crystal pure but of which, when tested by the divine Assayer, not a drop is accepted. Yea,  the sunbeam falls alike upon the dust and the mirror, yet differ they in reflection even as doth the star from the earth: nay, immeasurable is the difference!",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "649386845",
+      "xml_text": "26.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "676488956",
+      "xml_text": "26\n                           \n                           O My Friend in Word!\n                           Ponder awhile. Hast thou ever heard that friend and foe should abide in one heart? Cast out then the stranger, that the Friend may enter His home.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "016834179",
+      "xml_text": "27.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "326525665",
+      "xml_text": "27\n                           \n                           O Son of Dust!\n                           All that is in heaven and earth I have ordained for thee, except the human heart, which I have made the habitation of My beauty and glory; yet thou didst give My home and dwelling to another than Me; and whenever the manifestation of My holiness sought His own abode, a stranger found He there, and, homeless, hastened unto the sanctuary of the Beloved. Notwithstanding I have concealed thy secret and desired not thy shame.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "746566330",
+      "xml_text": "28.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "642676691",
+      "xml_text": "28\n                           \n                           O Essence of Desire!\n                           At many a dawn have I turned from the realms of the Placeless unto thine abode, and found thee on  the bed of ease busied with others than Myself. Thereupon, even as the flash of the spirit, I returned to the realms of celestial glory and breathed it not in My retreats above unto the hosts of holiness.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "885116391",
+      "xml_text": "29.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "567841905",
+      "xml_text": "29\n                           \n                           O Son of Bounty!\n                           Out of the wastes of nothingness, with the clay of My command I made thee to appear, and have ordained for thy training every atom in existence and the essence of all created things. Thus, ere thou didst issue from thy mother’s womb, I destined for thee two founts of gleaming milk, eyes to watch over thee, and hearts to love thee. Out of My loving-kindness, ’neath the shade of My mercy I nurtured thee, and guarded thee by the essence of My grace and favor. And My purpose in all this was that thou mightest attain My everlasting dominion and become worthy of My invisible bestowals. And yet heedless thou didst remain, and when fully grown, thou didst neglect all My bounties and occupied thyself with thine idle imaginings, in such wise that thou didst become wholly forgetful, and, turning away from the portals of the Friend didst abide within the courts of My enemy.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "994362066",
+      "xml_text": "30.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "931320080",
+      "xml_text": "30\n                           \n                           O Bondslave of the World!\n                           Many a dawn hath the breeze of My loving-kindness wafted over thee and found thee upon the bed of heedlessness fast asleep. Bewailing then thy plight it returned whence it came.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "074106776",
+      "xml_text": "31.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "809848791",
+      "xml_text": "31\n                           \n                           O Son of Earth!\n                           Wouldst thou have Me, seek none other than Me; and wouldst thou gaze upon My beauty, close thine eyes to the world and all that is therein; for My will and the will of another than Me, even as fire and water, cannot dwell together in one heart.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "179365406",
+      "xml_text": "32.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "889172469",
+      "xml_text": "32\n                           \n                           O Befriended Stranger!\n                           The candle of thine heart is lighted by the hand of My power, quench it not with the contrary winds of self and passion. The healer of all thine ills is remembrance of Me, forget it not. Make My love thy treasure and cherish it even as thy very sight and life.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "220003056",
+      "xml_text": "33.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "725404749",
+      "xml_text": "33\n                           \n                           O My Brother!\n                           Hearken to the delightsome words of My honeyed tongue, and quaff the stream of mystic holiness from My sugar-shedding lips. Sow the seeds of My  divine wisdom in the pure soil of thy heart, and water them with the water of certitude, that the hyacinths of My knowledge and wisdom may spring up fresh and green in the sacred city of thy heart.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "127765187",
+      "xml_text": "34.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "478336069",
+      "xml_text": "34\n                           \n                           O Dwellers of My Paradise!\n                           With the hands of loving-kindness I have planted in the holy garden of paradise the young tree of your love and friendship, and have watered it with the goodly showers of My tender grace; now that the hour of its fruiting is come, strive that it may be protected, and be not consumed with the flame of desire and passion.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "839613822",
+      "xml_text": "35.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "839248912",
+      "xml_text": "35\n                           \n                           O My Friends!\n                           Quench ye the lamp of error, and kindle within your hearts the everlasting torch of divine guidance. For ere long the assayers of mankind shall, in the holy presence of the Adored, accept naught but purest virtue and deeds of stainless holiness.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "534268478",
+      "xml_text": "36.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "447289253",
+      "xml_text": "36\n                           \n                           O Son of Dust!\n                           The wise are they that speak not unless they obtain a hearing, even as the cup-bearer, who  proffereth not his cup till he findeth a seeker, and the lover who crieth not out from the depths of his heart until he gazeth upon the beauty of his beloved. Wherefore sow the seeds of wisdom and knowledge in the pure soil of the heart, and keep them hidden, till the hyacinths of divine wisdom spring from the heart and not from mire and clay.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "333426610",
+      "xml_text": "In the first line of the Tablet it is recorded and written, and within the sanctuary of the tabernacle of God is hidden:",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "621807105",
+      "xml_text": "37.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "998408191",
+      "xml_text": "37\n                           \n                           O My Servant!\n                           Abandon not for that which perisheth an everlasting dominion, and cast not away celestial sovereignty for a worldly desire. This is the river of everlasting life that hath flowed from the wellspring of the pen of the merciful; well is it with them that drink!",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "935276349",
+      "xml_text": "38.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "988131543",
+      "xml_text": "38\n                           \n                           O Son of Spirit!\n                           Burst thy cage asunder, and even as the phoenix of love soar into the firmament of holiness. Renounce thyself and, filled with the spirit of mercy, abide in the realm of celestial sanctity.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "280904743",
+      "xml_text": "39.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "921804077",
+      "xml_text": "39\n                           \n                           O Offspring of Dust!\n                           Be not content with the ease of a passing day, and deprive not thyself of everlasting rest. Barter not the garden of eternal delight for the dust-heap of a mortal world. Up from thy prison ascend unto the glorious meads above, and from thy mortal cage wing thy flight unto the paradise of the Placeless.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "345503424",
+      "xml_text": "40.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "178899283",
+      "xml_text": "40\n                           \n                           O My Servant!\n                           Free thyself from the fetters of this world, and loose thy soul from the prison of self. Seize thy chance, for it will come to thee no more.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "683471285",
+      "xml_text": "41.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "228576295",
+      "xml_text": "41\n                           \n                           O Son of My Handmaid!\n                           Didst thou behold immortal sovereignty, thou wouldst strive to pass from this fleeting world. But to conceal the one from thee and to reveal the other is a mystery which none but the pure in heart can comprehend.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "173988545",
+      "xml_text": "42.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "006213096",
+      "xml_text": "42\n                           \n                           O My Servant!\n                           Purge thy heart from malice and, innocent of envy, enter the divine court of holiness.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "080530847",
+      "xml_text": "43.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "452186269",
+      "xml_text": "43\n                           \n                           O My Friends!\n                           Walk ye in the ways of the good pleasure of the Friend, and know that His pleasure is in the pleasure of His creatures. That is: no man should enter the house of his friend save at his friend’s pleasure, nor lay hands upon his treasures nor prefer his own will to his friend’s, and in no wise seek an advantage over him. Ponder this, ye that have insight!",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "427562184",
+      "xml_text": "44.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "697759113",
+      "xml_text": "44\n                           \n                           O Companion of My Throne!\n                           Hear no evil, and see no evil, abase not thyself, neither sigh and weep. Speak no evil, that thou mayest not hear it spoken unto thee, and magnify not the faults of others that thine own faults may not appear great; and wish not the abasement of anyone, that thine own abasement be not exposed. Live then the days of thy life, that are less than a fleeting moment, with thy mind stainless, thy heart unsullied, thy thoughts pure, and thy nature sanctified, so that, free and content, thou mayest put away this mortal frame, and repair unto the mystic paradise and abide in the eternal kingdom forevermore.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "674265467",
+      "xml_text": "45.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "577977380",
+      "xml_text": "45\n                           \n                           Alas! Alas! O Lovers of Worldly Desire!\n                           Even as the swiftness of lightning ye have passed by the Beloved One, and have set your hearts on satanic fancies. Ye bow the knee before your vain imagining, and call it truth. Ye turn your eyes towards the thorn, and name it a flower. Not a pure breath have ye breathed, nor hath the breeze of detachment been wafted from the meadows of your hearts. Ye have cast to the winds the loving counsels of the Beloved and have effaced them utterly from the tablet of your hearts, and even as the beasts of the field, ye move and have your being within the pastures of desire and passion.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "558565315",
+      "xml_text": "46.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "076998102",
+      "xml_text": "46\n                           \n                           O Brethren in the Path!\n                           Wherefore have ye neglected the mention of the Loved One, and kept remote from His holy presence? The essence of beauty is within the peerless pavilion, set upon the throne of glory, whilst ye busy yourselves with idle contentions. The sweet savors of holiness are breathing and the breath of bounty is wafted, yet ye are all sorely afflicted and deprived thereof. Alas for you and for them that walk in your ways and follow in your footsteps!",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "570148914",
+      "xml_text": "47.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "630765205",
+      "xml_text": "47\n                           \n                           O Children of Desire!\n                           Put away the garment of vainglory, and divest yourselves of the attire of haughtiness.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "866100693",
+      "xml_text": "In the third of the most holy lines writ and recorded in the Ruby Tablet by the pen of the unseen this is revealed:",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "315256502",
+      "xml_text": "48.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "410608045",
+      "xml_text": "48\n                           \n                           O Brethren!\n                           Be forbearing one with another and set not your affections on things below. Pride not yourselves in your glory, and be not ashamed of abasement. By My beauty! I have created all things from dust, and to dust will I return them again.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "925645838",
+      "xml_text": "49.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "886046055",
+      "xml_text": "49\n                           \n                           O Children of Dust!\n                           Tell the rich of the midnight sighing of the poor, lest heedlessness lead them into the path of destruction, and deprive them of the Tree of Wealth. To give and to be generous are attributes of Mine; well is it with him that adorneth himself with My virtues.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "769661891",
+      "xml_text": "50.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "089879189",
+      "xml_text": "50\n                           \n                           O Quintessence of Passion!\n                           Put away all covetousness and seek contentment; for the covetous hath ever been deprived, and the contented hath ever been loved and praised.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "597333215",
+      "xml_text": "51.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "937503023",
+      "xml_text": "51\n                           \n                           O Son of My Handmaid!\n                           Be not troubled in poverty nor confident in riches, for poverty is followed by riches, and riches are followed by poverty. Yet to be poor in all save God is a wondrous gift, belittle not the value thereof, for in the end it will make thee rich in God, and thus thou shalt know the meaning of the utterance, “In truth ye are the poor,” and the holy words, “God is the all-possessing,” shall even as the true morn break forth gloriously resplendent upon the horizon of the lover’s heart, and abide secure on the throne of wealth.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "613792283",
+      "xml_text": "52.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "564055916",
+      "xml_text": "52\n                           \n                           O Children of Negligence and Passion!\n                           Ye have suffered My enemy to enter My house and have cast out My friend, for ye have enshrined the love of another than Me in your hearts. Give ear to the sayings of the Friend and turn towards His paradise. Worldly friends, seeking their own good, appear to love one the other, whereas the true Friend hath loved and doth love you for your own sakes; indeed He hath suffered for your guidance countless afflictions. Be not disloyal to such a Friend, nay rather hasten unto Him. Such is the daystar of the word of truth and faithfulness, that hath dawned above the horizon  of the pen of the Lord of all names. Open your ears that ye may hearken unto the word of God, the Help in peril, the Self-Existent.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "906653510",
+      "xml_text": "53.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "305325189",
+      "xml_text": "53\n                           \n                           O Ye that Pride Yourselves on Mortal Riches!\n                           Know ye in truth that wealth is a mighty barrier between the seeker and his desire, the lover and his beloved. The rich, but for a few, shall in no wise attain the court of His presence nor enter the city of content and resignation. Well is it then with him, who, being rich, is not hindered by his riches from the eternal kingdom, nor deprived by them of imperishable dominion. By the Most Great Name! The splendor of such a wealthy man shall illuminate the dwellers of heaven even as the sun enlightens the people of the earth!",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "204020218",
+      "xml_text": "54.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "278984163",
+      "xml_text": "54\n                           \n                           O Ye Rich Ones on Earth!\n                           The poor in your midst are My trust; guard ye My trust, and be not intent only on your own ease.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "915681601",
+      "xml_text": "55.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "801572056",
+      "xml_text": "55\n                           \n                           O Son of Passion!\n                           Cleanse thyself from the defilement of riches and in perfect peace advance into the realm  of poverty; that from the wellspring of detachment thou mayest quaff the wine of immortal life.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "893898793",
+      "xml_text": "56.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "289429069",
+      "xml_text": "56\n                           \n                           O My Son!\n                           The company of the ungodly increaseth sorrow, whilst fellowship with the righteous cleanseth the rust from off the heart. He that seeketh to commune with God, let him betake himself to the companionship of His loved ones; and he that desireth to hearken unto the word of God, let him give ear to the words of His chosen ones.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "520729015",
+      "xml_text": "57.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "801831638",
+      "xml_text": "57\n                           \n                           O Son of Dust!\n                           Beware! Walk not with the ungodly and seek not fellowship with him, for such companionship turneth the radiance of the heart into infernal fire.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "512144604",
+      "xml_text": "58.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "628305516",
+      "xml_text": "58\n                           \n                           O Son of My Handmaid!\n                           Wouldst thou seek the grace of the Holy Spirit, enter into fellowship with the righteous, for he hath drunk the cup of eternal life at the hands of the immortal Cupbearer and even as the true morn doth quicken and illumine the hearts of the dead.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "651261106",
+      "xml_text": "59.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "605312464",
+      "xml_text": "59\n                           \n                           O Heedless Ones!\n                           Think not the secrets of hearts are hidden, nay, know ye of a certainty that in clear characters they are engraved and are openly manifest in the holy Presence.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "796511166",
+      "xml_text": "60.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "640297357",
+      "xml_text": "60\n                           \n                           O Friends!\n                           Verily I say, whatsoever ye have concealed within your hearts is to Us open and manifest as the day; but that it is hidden is of Our grace and favor, and not of your deserving.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "529958069",
+      "xml_text": "61.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "814768124",
+      "xml_text": "61\n                           \n                           O Son of Man!\n                           A dewdrop out of the fathomless ocean of My mercy I have shed upon the peoples of the world, yet found none turn thereunto, inasmuch as everyone hath turned away from the celestial wine of unity unto the foul dregs of impurity, and, content with mortal cup, hath put away the chalice of immortal beauty. Vile is that wherewith he is contented.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "644670983",
+      "xml_text": "62.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "718768059",
+      "xml_text": "62\n                           \n                           O Son of Dust!\n                           Turn not away thine eyes from the matchless wine of the immortal Beloved, and open them not to foul and mortal dregs. Take from the hands of the  divine Cupbearer the chalice of immortal life, that all wisdom may be thine, and that thou mayest hearken unto the mystic voice calling from the realm of the invisible. Cry aloud, ye that are of low aim! Wherefore have ye turned away from My holy and immortal wine unto evanescent water?",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "920351374",
+      "xml_text": "63.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "626369506",
+      "xml_text": "63\n                           \n                           O Ye Peoples of the World!\n                           Know, verily, that an unforeseen calamity followeth you, and grievous retribution awaiteth you. Think not that which ye have committed hath been effaced in My sight. By My beauty! All your doings hath My pen graven with open characters upon tablets of chrysolite.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "490481438",
+      "xml_text": "64.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "213141042",
+      "xml_text": "64\n                           \n                           O Oppressors on Earth!\n                           Withdraw your hands from tyranny, for I have pledged Myself not to forgive any man’s injustice. This is My covenant which I have irrevocably decreed in the preserved tablet and sealed with My seal of glory.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "851533657",
+      "xml_text": "65.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "028529394",
+      "xml_text": "65\n                           \n                           O Rebellious Ones!\n                           My forbearance hath emboldened you and My long-suffering hath made you negligent, in such wise that ye have spurred on the fiery charger of  passion into perilous ways that lead unto destruction. Have ye thought Me heedless or that I was unaware?",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "007870288",
+      "xml_text": "66.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "062883030",
+      "xml_text": "66\n                           \n                           O Emigrants!\n                           The tongue I have designed for the mention of Me, defile it not with detraction. If the fire of self overcome you, remember your own faults and not the faults of My creatures, inasmuch as every one of you knoweth his own self better than he knoweth others.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "374293973",
+      "xml_text": "67.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "807401042",
+      "xml_text": "67\n                           \n                           O Children of Fancy!\n                           Know, verily, that while the radiant dawn breaketh above the horizon of eternal holiness, the satanic secrets and deeds done in the gloom of night shall be laid bare and manifest before the peoples of the world.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "161434245",
+      "xml_text": "68.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "737972628",
+      "xml_text": "68\n                           \n                           O Weed that Springeth Out of Dust!\n                           Wherefore have not these soiled hands of thine touched first thine own garment, and why with thine heart defiled with desire and passion dost thou seek to commune with Me and to enter My sacred realm? Far, far are ye from that which ye desire.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "495604731",
+      "xml_text": "69.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "810818726",
+      "xml_text": "69\n                           \n                           O Children of Adam!\n                           Holy words and pure and goodly deeds ascend unto the heaven of celestial glory. Strive that your deeds may be cleansed from the dust of self and hypocrisy and find favor at the court of glory; for ere long the assayers of mankind shall, in the holy presence of the Adored One, accept naught but absolute virtue and deeds of stainless purity. This is the daystar of wisdom and of divine mystery that hath shone above the horizon of the divine will. Blessed are they that turn thereunto.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "666397642",
+      "xml_text": "70.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "400714616",
+      "xml_text": "70\n                           \n                           O Son of Worldliness!\n                           Pleasant is the realm of being, wert thou to attain thereto; glorious is the domain of eternity, shouldst thou pass beyond the world of mortality; sweet is the holy ecstasy if thou drinkest of the mystic chalice from the hands of the celestial Youth. Shouldst thou attain this station, thou wouldst be freed from destruction and death, from toil and sin.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "745716363",
+      "xml_text": "71.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "750932930",
+      "xml_text": "71\n                           \n                           O My Friends!\n                           Call ye to mind that covenant ye have entered into with Me upon Mount Párán, situate within the hallowed precincts of Zamán. I have taken  to witness the concourse on high and the dwellers in the city of eternity, yet now none do I find faithful unto the covenant. Of a certainty pride and rebellion have effaced it from the hearts, in such wise that no trace thereof remaineth. Yet knowing this, I waited and disclosed it not.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "206747846",
+      "xml_text": "72.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "261142065",
+      "xml_text": "72\n                           \n                           O My Servant!\n                           Thou art even as a finely tempered sword concealed in the darkness of its sheath and its value hidden from the artificer’s knowledge. Wherefore come forth from the sheath of self and desire that thy worth may be made resplendent and manifest unto all the world.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "334550140",
+      "xml_text": "73.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "369559272",
+      "xml_text": "73\n                           \n                           O My Friend!\n                           Thou art the daystar of the heavens of My holiness, let not the defilement of the world eclipse thy splendor. Rend asunder the veil of heedlessness, that from behind the clouds thou mayest emerge resplendent and array all things with the apparel of life.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "370393010",
+      "xml_text": "74.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "077330259",
+      "xml_text": "74\n                           \n                           O Children of Vainglory!\n                           For a fleeting sovereignty ye have abandoned My imperishable dominion, and have adorned yourselves  with the gay livery of the world and made of it your boast. By My beauty! All will I gather beneath the one-colored covering of the dust and efface all these diverse colors save them that choose My own, and that is purging from every color.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "067831045",
+      "xml_text": "75.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "783843342",
+      "xml_text": "75\n                           \n                           O Children of Negligence!\n                           Set not your affections on mortal sovereignty and rejoice not therein. Ye are even as the unwary bird that with full confidence warbleth upon the bough; till of a sudden the fowler Death throws it upon the dust, and the melody, the form and the color are gone, leaving not a trace. Wherefore take heed, O bondslaves of desire!",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "212261697",
+      "xml_text": "76.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "358991785",
+      "xml_text": "76\n                           \n                           O Son of My Handmaid!\n                           Guidance hath ever been given by words, and now it is given by deeds. Everyone must show forth deeds that are pure and holy, for words are the property of all alike, whereas such deeds as these belong only to Our loved ones. Strive then with heart and soul to distinguish yourselves by your  deeds. In this wise We counsel you in this holy and resplendent tablet.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "302685121",
+      "xml_text": "77.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "815379093",
+      "xml_text": "77\n                           \n                           O Son of Justice!\n                           In the night-season the beauty of the immortal Being hath repaired from the emerald height of fidelity unto the Sadratu’l-Muntahá, and wept with such a weeping that the concourse on high and the dwellers of the realms above wailed at His lamenting. Whereupon there was asked, Why the wailing and weeping? He made reply: As bidden I waited expectant upon the hill of faithfulness, yet inhaled not from them that dwell on earth the fragrance of fidelity. Then summoned to return I beheld, and lo! certain doves of holiness were sore tried within the claws of the dogs of earth. Thereupon the Maid of heaven hastened forth unveiled and resplendent from Her mystic mansion, and asked of their names, and all were told but one. And when urged, the first letter thereof was uttered, whereupon the dwellers of the celestial chambers rushed forth out of their habitation of glory. And whilst the second letter was pronounced they fell down, one and all, upon the dust. At that moment a voice was heard from the inmost shrine: “Thus far and no farther.” Verily We bear witness  to that which they have done and now are doing.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "175931320",
+      "xml_text": "78.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "733813371",
+      "xml_text": "78\n                           \n                           O Son of My Handmaid!\n                           Quaff from the tongue of the merciful the stream of divine mystery, and behold from the dayspring of divine utterance the unveiled splendor of the daystar of wisdom. Sow the seeds of My divine wisdom in the pure soil of the heart, and water them with the waters of certitude, that the hyacinths of knowledge and wisdom may spring up fresh and green from the holy city of the heart.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "483980507",
+      "xml_text": "79.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "492899806",
+      "xml_text": "79\n                           \n                           O Son of Desire!\n                           How long wilt thou soar in the realms of desire? Wings have I bestowed upon thee, that thou mayest fly to the realms of mystic holiness and not the regions of satanic fancy. The comb, too, have I given thee that thou mayest dress My raven locks, and not lacerate My throat.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "944440429",
+      "xml_text": "80.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "119659976",
+      "xml_text": "80\n                           \n                           O My Servants!\n                           Ye are the trees of My garden; ye must give forth goodly and wondrous fruits, that ye yourselves  and others may profit therefrom. Thus it is incumbent on every one to engage in crafts and professions, for therein lies the secret of wealth, O men of understanding! For results depend upon means, and the grace of God shall be all-sufficient unto you. Trees that yield no fruit have been and will ever be for the fire.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "550966351",
+      "xml_text": "81.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "468470133",
+      "xml_text": "81\n                           \n                           O My Servant!\n                           The basest of men are they that yield no fruit on earth. Such men are verily counted as among the dead, nay better are the dead in the sight of God than those idle and worthless souls.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "711638540",
+      "xml_text": "82.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "002944255",
+      "xml_text": "82\n                           \n                           O My Servant!\n                           The best of men are they that earn a livelihood by their calling and spend upon themselves and upon their kindred for the love of God, the Lord of all worlds.",
+      "top_matches": []
+    },
+    {
+      "xml_element_id": "576315659",
+      "xml_text": "The mystic and wondrous Bride, hidden ere this beneath the veiling of utterance, hath now, by the grace of God and His divine favor, been made manifest even as the resplendent light shed by the beauty of the Beloved. I bear witness, O friends! that the favor is complete, the argument fulfilled, the proof  manifest and the evidence established. Let it now be seen what your endeavors in the path of detachment will reveal. In this wise hath the divine favor been fully vouchsafed unto you and unto them that are in heaven and on earth. All praise to God, the Lord of all Worlds.",
+      "top_matches": []
     }
   ],
   "statistics": {
-    "total_xml_documents": 27,
-    "total_xml_elements": 273,
+    "total_xml_documents": 1,
+    "total_xml_elements": 322,
     "total_pdf_blocks": 466,
-    "matched_elements": 48,
-    "unmatched_elements": 2,
-    "match_threshold": 0.01,
+    "matched_elements": 0,
+    "unmatched_elements": 322,
+    "match_threshold": 0.7,
     "top_k_matches": 3
   }
 }

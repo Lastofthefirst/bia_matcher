@@ -7,15 +7,7 @@ pub enum MatchingError {
     
     #[error("JSON parsing error: {0}")]
     Json(#[from] serde_json::Error),
-    
-    #[error("Model loading error: {0}")]
-    ModelLoading(String),
-    
-    #[error("Embedding generation error: {0}")]
-    EmbeddingGeneration(String),
-    
-    #[error("FAISS error: {0}")]
-    Faiss(String),
+
     
     #[error("No XML documents found")]
     NoXmlDocuments,
