@@ -1,10 +1,3 @@
-/target
-
-nomic-embed*
-
-*cache*
-
-output/old/xml_embeddings_cache.json
 
 flatten/
 flatten_processed/
@@ -19,3 +12,4 @@ qdrant_storage/
 target/
 test_qdrant.rs
 xml_embeddings_cache.json
+xml_json_inputs/

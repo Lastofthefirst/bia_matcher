@@ -1,0 +1,88 @@
+=== Document Matching Process Overview ===
+
+1. PDF Document Sampling:
+------------------------
+Taking first 10 text blocks from each PDF document:
+
+Sample PDF file: pdf_source_inputs/la-sabiduria-de-abdul-baha_processed.json
+First 10 text blocks:
+{"id":"/page/0/SectionHeader/0","text":"LA SABIDURÍA DE 'ABDU'L-BAHÁ"}
+{"id":"/page/0/Text/1","text":"Conferencias de París - 1911"}
+{"id":"/page/1/SectionHeader/0","text":"LA SABIDURÍA DE 'ABDU'L-BAHÁ"}
+{"id":"/page/1/SectionHeader/1","text":"Conferencias de París - 1911"}
+{"id":"/page/1/Text/2","text":"'ABDU'L-BAHÁ"}
+{"id":"/page/1/Text/3","text":"EDITORIAL BAHÁ'Í DE ESPAÑA"}
+{"id":"/page/2/Text/0","text":"Título original en inglés: Paris Talks Addresses Given by 'Abdu'l-Bahá in 1911"}
+{"id":"/page/2/Text/1","text":"© Asamblea Espiritual Nacional de los Bahá'ís de España"}
+{"id":"/page/2/Text/2","text":"Editorial Bahá'í de España Bonaventura Castellet, 17"}
+{"id":"/page/2/Text/3","text":"08222 TERRASSA (Barcelona)"}
+
+2. XML Document Sampling:
+------------------------
+Taking first 10 elements from each XML document:
+
+Sample XML file: xml_json_inputs/ref_xml-json/abdul-baha/tablet-august-forel.json
+First 10 elements:
+{"id":"690115704","text":"‘Abdu’l‑Bahá’s Tablet to Dr. Forel"}
+{"id":"002117998","text":"Original Persian text first published Cairo 1922. This translation taken from The Bahá’í World, Vol. XV, pp. 37–43."}
+{"id":"782989840","text":"O revered personage, lover of truth! Thy letter dated 28 July 1921 hath been received. The contents thereof were most pleasing and indicated that, praised be the Lord, thou art as yet young, and searchest after truth, that thy power of thought is strong and the discoveries of thy mind manifest."}
+{"id":"918014968","text":"Numerous copies of the epistle I had written to Dr. Fisher\n                        1\n                      are spread far and wide and every one knoweth that it hath been revealed in the year 1910. Apart from this, numerous epistles have been written before the war upon the same theme, and reference, too, hath been made to these questions in the Journal of the San Francisco University, the date whereof is known beyond any doubt.\n                        2\n                      In like manner have the philosophers of broad vision praised highly the discourse eloquently delivered  in the above-named University.\n                        3\n                      A copy of that paper is thus enclosed and forwarded. Thy works are no doubt of great benefit, and if published, send us a copy of each."}
+{"id":"742032986","text":"By materialists, whose belief with regard to Divinity hath been explained, is not meant philosophers in general, but rather that group of materialists of narrow vision who worship that which is sensed, who depend upon the five senses only, and whose criterion of knowledge is limited to that which can be perceived by the senses. All that can be sensed is to them real, whilst whatever falleth not under the power of the senses is either unreal or doubtful. The existence of the Deity they regard as wholly doubtful."}
+{"id":"629210362","text":"It is as thou hast written, not philosophers in general but narrow-minded materialists that are meant. As to deistic philosophers, such as Socrates, Plato and Aristotle, they are indeed worthy of esteem and of the highest praise, for they have rendered distinguished services to mankind. In like manner we regard the materialistic, accomplished, moderate philosophers, who have been of service (to mankind)."}
+{"id":"994962999","text":"We regard knowledge and wisdom as the foundation of the progress of mankind, and extol philosophers who are endowed with broad vision. Peruse carefully the San Francisco University Journal that the truth may be revealed to thee."}
+{"id":"638170569","text":"Now concerning mental faculties, they are in truth of the inherent properties of the soul, even as the radiation of light is the essential property of the sun. The rays of the sun are renewed but the sun itself is ever the same and unchanged. Consider how the human intellect develops and weakens, and may at times come to naught, whereas the soul changeth not. For the mind to manifest itself, the human body must be whole; and a sound mind cannot be but in a sound body, whereas the soul dependeth not upon the body. It is through the power of the soul that the mind comprehendeth, imagineth and exerteth its influence, whilst the soul is a power that is free. The mind comprehendeth the abstract by the aid of the concrete, but the soul hath limitless manifestations of its own. The mind is circumscribed, the soul limitless. It is by the aid of such senses as those of sight, hearing, taste, smell and touch, that the mind comprehendeth, whereas the soul is free from all agencies. The soul as thou observest, whether it be in sleep or waking, is in motion and ever active. Possibly it may, whilst in a dream, unravel an intricate problem, incapable of solution in the waking state. The mind, moreover, understandeth not whilst the senses have ceased to function, and in the embryonic stage and in early infancy the reasoning power is totally absent, whereas the soul is ever endowed with full strength. In short, the proofs are many that go to show that despite the loss of reason, the power of the soul would still continue to exist. The spirit however possesseth various grades and stations."}
+{"id":"723461091","text":"As to the existence of spirit in the mineral: it is indubitable that minerals are endowed with a spirit and life according to the requirements of that stage. This unknown secret, too, hath become known unto the materialists who now maintain that all beings are endowed with life, even as He saith in the Qur’án, ‘All things are living’."}
+{"id":"898477974","text":"In the vegetable world, too, there is the power of growth, and that power of growth is the spirit. In the animal world there is the sense of feeling, but in the human world there is an all-embracing power. In all the preceding stages the power of reason is absent, but the soul existeth and revealeth itself. The sense of feeling understandeth not the soul, whereas the reasoning power of the mind proveth the existence thereof."}
+
+Sample XML file: xml_json_inputs/ref_xml-json/abdul-baha/secret-divine-civilization.json
+First 10 elements:
+{"id":"093729958","text":"The Secret of Divine Civilization"}
+{"id":"077702508","text":"‘Abdu’l‑Bahá"}
+{"id":"580848320","text":"Translated from the Persian by Marzieh Gail in consultation with Ali-Kuli Khan"}
+{"id":"675231526","text":"In the Name of God the Clement, the Merciful"}
+{"id":"215020170","text":"Praise and thanksgiving be unto Providence that out of all the realities in existence He has chosen the reality of man and has honored it with intellect and wisdom, the two most luminous lights in either world. Through the agency of this great endowment, He has in every epoch cast on the mirror of creation new and wonderful configurations. If we look objectively upon the world of being, it will become apparent that from age to age, the temple of existence has continually been embellished with a fresh grace, and distinguished with an ever-varying splendor, deriving from wisdom and the power of thought."}
+{"id":"421986917","text":"This supreme emblem of God stands first in the order of creation and first in rank, taking precedence over all created things. Witness to it is the Holy Tradition, “Before all else, God created the mind.” From the dawn of creation, it was made to be revealed in the temple of man."}
+{"id":"058546447","text":"Sanctified is the Lord, Who with the dazzling rays of this strange, heavenly power has made our world of darkness the envy of the worlds of light: “And the  earth shall shine with the light of her Lord.”\n                        1\n                      and exalted is He, Who has caused the nature of man to be the dayspring of this boundless grace: “The God of mercy hath taught the Qur’án, hath created man, hath taught him articulate speech.”\n                        2"}
+{"id":"187242641","text":"O ye that have minds to know! Raise up your suppliant hands to the heaven of the one God, and humble yourselves and be lowly before Him, and thank Him for this supreme endowment, and implore Him to succor us until, in this present age, godlike impulses may radiate from the conscience of mankind, and this divinely kindled fire which has been entrusted to the human heart may never die away."}
+{"id":"006593911","text":"Consider carefully: all these highly varied phenomena, these concepts, this knowledge, these technical procedures and philosophical systems, these sciences, arts, industries and inventions—all are emanations of the human mind. Whatever people has ventured deeper into this shoreless sea, has come to excel the rest. The happiness and pride of a nation consist in this, that it should shine out like the sun in the high heaven of knowledge. “Shall they who have knowledge and they who have it not, be treated alike?”\n                        3\n                      And the honor and distinction of the individual consist in this, that he among all the world’s multitudes should become a source of social good. Is any larger bounty  conceivable than this, that an individual, looking within himself, should find that by the confirming grace of God he has become the cause of peace and well-being, of happiness and advantage to his fellow men? No, by the one true God, there is no greater bliss, no more complete delight."}
+{"id":"574361742","text":"How long shall we drift on the wings of passion and vain desire; how long shall we spend our days like barbarians in the depths of ignorance and abomination? God has given us eyes, that we may look about us at the world, and lay hold of whatsoever will further civilization and the arts of living. He has given us ears, that we may hear and profit by the wisdom of scholars and philosophers and arise to promote and practice it. Senses and faculties have been bestowed upon us, to be devoted to the service of the general good; so that we, distinguished above all other forms of life for perceptiveness and reason, should labor at all times and along all lines, whether the occasion be great or small, ordinary or extraordinary, until all mankind are safely gathered into the impregnable stronghold of knowledge. We should continually be establishing new bases for human happiness and creating and promoting new instrumentalities toward  this end. How excellent, how honorable is man if he arises to fulfill his responsibilities; how wretched and contemptible, if he shuts his eyes to the welfare of society and wastes his precious life in pursuing his own selfish interests and personal advantages. Supreme happiness is man’s, and he beholds the signs of God in the world and in the human soul, if he urges on the steed of high endeavor in the arena of civilization and justice. “We will surely show them Our signs in the world and within themselves.”\n                        4"}
+
+Sample XML file: xml_json_inputs/ref_xml-json/abdul-baha/light-of-the-world.json
+First 10 elements:
+{"id":"240271747","text":"Light of the World: Selected Tablets of ‘Abdu’l‑Bahá"}
+{"id":"666368720","text":"Preface"}
+{"id":"469612967","text":"On 29 May 1892, after four decades of bountiful radiance, from the first intimation of its rising glory in the Síyáh-Chál and Baghdad to its midday splendour in Adrianople and ‘Akká, the Sun of Bahá—as ‘Abdu’l-Bahá memorably relayed in His telegram informing Sulṭán ‘Abdu’l-Ḥamíd of the ascension of Bahá’u’lláh—had set. Yet the setting of that Sun was not followed by the dark of night but by the reflection of its glory in the Moon of the Covenant, lighting the path ahead, towards the attainment of Bahá’u’lláh’s ultimate purpose: the unification of humanity."}
+{"id":"926118603","text":"As the radiant Centre of that Covenant, ‘Abdu’l-Bahá, Bahá’u’lláh’s eldest son and appointed Successor, would, for the next three decades, lead the Cause and be “the steward of its glory and the diffuser of its light”. His mission would be “to enrich and extend the bounds of the incorruptible patrimony entrusted to His hands by shedding the illumination of His Father’s Faith upon the West, by expounding the fundamental precepts of that Faith and its cardinal principles, by consolidating the activities which had already been initiated for the promotion of its interests, and, finally, by ushering in, through the provisions of His own Will, the Formative Age in its evolution”.1"}
+{"id":"096292975","text":"Over the course of that unique stewardship, ‘Abdu’l-Bahá wrote thousands of Tablets to individuals and communities in the East and the West, comprising an unceasing outpouring of guidance, encouragement, sustenance, edification, and boundless love. The present volume consists of seventy-six newly translated selections chosen from Tablets originally published in Persian in volumes 3 and 4 of Muntakhabátí az Makátíb-i-Ḥaḍrat-i-‘Abdu’l-Bahá. Though the Tablets presented here cover the entire period of ‘Abdu’l-Bahá’s ministry, many were written soon after the “Supreme Affliction” of the passing of Bahá’u’lláh. At that moment, the orphaned community of the Greatest Name, grief-stricken and despondent, turned to ‘Abdu’l-Bahá, recognizing Him to be, “in its hour of desperate need, its Solace, its Guide, its Mainstay and Champion”.2"}
+{"id":"306423612","text":"Whether writing to the friends at that time of bereavement, or in later years when they found themselves suffering persecution and hardship, ‘Abdu’l-Bahá called them to reflect on the life of the Blessed Beauty, Whose “one and only purpose in accepting such trials and tribulations for His blessed Self was to instruct the lovers in the ways of love and to teach the longing souls the art of servitude”. The loved ones of God, ‘Abdu’l-Bahá wrote, must “not be grieved or distressed at these countless afflictions, for in bearing such trials, they share in the sufferings of the Abhá Beauty”."}
+{"id":"961100293","text":"The Tablets in this volume provide a selection, in English translation, chosen from among many written by ‘Abdu’l-Bahá that recount aspects of the life of Bahá’u’lláh and the tribulations He endured, events in His homeland, the purpose and greatness of His Cause, the unparalleled nature and significance of His Covenant—as well as the attempts of its enemies to subvert and destroy it—and some of the Biblical and Quranic allusions and prophecies about the Blessed Beauty. Reflected in many of the Tablets are parallels between Bahá’u’lláh’s sufferings at the hands of His adversaries and the afflictions ‘Abdu’l-Bahá was similarly made to endure."}
+{"id":"857533651","text":"These Tablets are thus doubly precious: Who better to tell us about Bahá’u’lláh, and to impart to us His “lessons of the spirit in the school of insight”, than His most cherished Son, Who shared, as His closest associate, His life of exile, imprisonment, and persecution, and Who, titled by His Father the “Mystery of God”, stood in a unique relationship to the Author of the Revelation as “the image of His perfections”, “the Interpreter of His mind”, “the Focal Point of His unerring guidance”, “the stainless mirror reflecting His light”?3"}
+{"id":"538980789","text":"The lapse of a century since the passing of ‘Abdu’l-Bahá only testifies to His words of assurance that the Sun of Bahá’u’lláh’s Revelation “shall never set, nor shall that Day-Star of the Realm of Glory ever wane.… It remaineth ever shining in its meridian splendour, ever glowing and luminous, at the sublime apex of bounty.”"}
+{"id":"715906390","text":"1"}
+
+Paris Talks XML document:
+First 10 elements:
+{"id":"733601770","text":"Paris Talks"}
+{"id":"073705624","text":"Addresses Given by ‘Abdu’l‑Bahá in 1911"}
+{"id":"746857469","text":"Part One"}
+{"id":"310417127","text":"The Duty of Kindness and Sympathy towards Strangers and Foreigners"}
+{"id":"472313362","text":"The Power and Value of True Thought Depend upon Its Manifestation in Action"}
+{"id":"010907775","text":"God Is the Great Compassionate Physician Who Alone Gives True Healing"}
+{"id":"741248443","text":"The Need for Union between the Peoples of the East and West"}
+{"id":"875410140","text":"God Comprehends All; He Cannot Be Comprehended"}
+{"id":"289996430","text":"The Pitiful Causes of War, and the Duty of Everyone to Strive for Peace"}
+{"id":"621300090","text":"The Sun of Truth"}
+
+3. Embedding Generation:
+-----------------------
+For PDF text blocks: Using 'search_query:' prefix
+For XML elements: Using 'search_document:' prefix
+
+Example prompts sent to embedding model:
+PDF prompt: search_query: [text content]
+XML prompt: search_document: [text content]
+
+4. Similarity Calculation:
+-------------------------
+Computing cosine similarity between each PDF embedding and each XML embedding
+Average of all pairwise similarities = Document similarity score

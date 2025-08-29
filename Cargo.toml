@@ -24,3 +24,7 @@ ndarray = "0.15.4"
 [[example]]
 name = "test_qdrant"
 path = "test_qdrant.rs"
+
+[[example]]
+name = "enhanced_matching_test"
+path = "enhanced_matching_test.rs"
