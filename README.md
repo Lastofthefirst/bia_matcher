@@ -108,3 +108,5 @@ The system generates detailed output that includes:
 ## Algorithm
 
 The current implementation uses a simple Jaccard similarity algorithm based on word overlap between text segments. In a production environment, this would be replaced with more sophisticated embedding-based matching using models like nomic-embed-text-v2-moe.
+
+Praise God
