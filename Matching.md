@@ -212,6 +212,9 @@ struct Config {
 This specification provides a comprehensive guide for implementing a high-performance document matching system in Rust that meets the requirements for matching translated content against authoritative XML documents.
 
 
+
+
+
 marker_single \
   --llm_service marker.services.openai.OpenAIService \
   --openai_base_url https://openrouter.ai/api/v1 \
@@ -221,5 +224,3 @@ marker_single \
   FPATH
 
     
-
-

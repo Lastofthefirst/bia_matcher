@@ -1,0 +1,493 @@
+<!doctype html>
+<html lang="en" class="scroll-smooth">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tie‑Dye Unity – Peaceful Art & Community</title>
+    <meta name="description" content="Tie‑Dye Unity is a local peace‑and‑unity centric tie‑dye studio. Experience vibrant, hand‑crafted art that celebrates community, diversity, and harmony.">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Inter+Tight:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --color-primary: #ff6f61;               /* warm coral */
+            --color-primary-light: rgba(255,111,97,0.05);
+            --color-text-primary: #000000;
+            --color-text-secondary: #4b4b4b;
+            --color-text-tertiary: #555555;
+            --color-background: #ffffff;
+            --color-background-alt: #f8f8f8;
+            --color-border: #e5e5e5;
+            --color-white: #ffffff;
+        }
+        html.dark {
+            --color-primary: #b34a36;
+            --color-primary-light: rgba(179,74,54,0.05);
+            --color-text-primary: #ffffff;
+            --color-text-secondary: #d5d5d5;
+            --color-text-tertiary: #a1a1a1;
+            --color-background: #0a0a0a;
+            --color-background-alt: #121212;
+            --color-border: #2a2a2a;
+        }
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: var(--color-background);
+            color: var(--color-text-primary);
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+        .font-heading {
+            font-family: 'Inter Tight', sans-serif;
+        }
+        .scroll-animate {
+            opacity: 0;
+            transform: translateY(20px);
+            transition: opacity .6s ease-out, transform .6s ease-out;
+        }
+        .scroll-animate-visible {
+            opacity: 1;
+            transform: translateY(0);
+        }
+        .hero-text-reveal span {
+            display: inline-block;
+            opacity: 0;
+            transform: translateY(10px) rotateX(-90deg);
+            transition: opacity .5s, transform .5s;
+        }
+        .service-card-image {
+            transition: transform .5s cubic-bezier(.165,.84,.44,1);
+        }
+        .service-card:hover .service-card-image {
+            transform: scale(1.03);
+        }
+        .gradient-overlay {
+            background: linear-gradient(180deg, rgba(255,255,255,0) 70%, var(--color-border) 100%);
+        }
+        .btn-arrow-group .arrow-default { display: block; }
+        .btn-arrow-group .arrow-hover { display: none; }
+        .btn-arrow-group:hover .arrow-default { display: none; }
+        .btn-arrow-group:hover .arrow-hover { display: block; }
+        .btn-arrow-group .arrow-default, .btn-arrow-group .arrow-hover {
+            transition: opacity .3s ease;
+        }
+    </style>
+</head>
+<body class="transition-colors duration-300">
+
+    <!-- Header -->
+    <header id="main-header" class="fixed top-0 left-0 right-0 z-50 transition-all duration-300 bg-[var(--color-background)] shadow-sm">
+        <div class="container mx-auto px-4 md:px-6 lg:px-8">
+            <div class="flex justify-between items-center h-20 md:h-24">
+                <a href="#hero" class="text-xl font-bold font-heading text-[var(--color-text-primary)]">Tie‑Dye Unity</a>
+                <nav class="hidden md:flex items-center space-x-6 lg:space-x-10">
+                    <a href="#about" class="text-sm text-[var(--color-text-secondary)] hover:text-[var(--color-primary)] transition-colors">About</a>
+                    <a href="#services" class="text-sm text-[var(--color-text-secondary)] hover:text-[var(--color-primary)] transition-colors">Our Work</a>
+                    <a href="#contact" class="text-sm text-[var(--color-text-secondary)] hover:text-[var(--color-primary)] transition-colors">Contact</a>
+                    <button class="btn-arrow-group relative overflow-hidden px-5 py-2.5 text-sm font-medium text-[var(--color-text-primary)] hover:text-[var(--color-primary)]">
+                        <span>Get In Touch</span>
+                        <span class="ml-2 inline-block transform transition-transform duration-300 hover:translate-x-1">→</span>
+                        <span class="ml-2 inline-block absolute transform -translate-x-4 opacity-0 hover:translate-x-0 hover:opacity-100 transition-all duration-300">Contact Us</span>
+                    </button>
+                </nav>
+                <button id="mobile-menu-button" class="md:hidden text-[var(--color-text-primary)]">
+                    <i data-lucide="menu" class="w-6 h-6"></i>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Mobile Menu -->
+    <div id="mobile-menu" class="fixed inset-0 bg-[var(--color-background)] z-40 transform -translate-x-full transition-transform duration-300 ease-in-out md:hidden">
+        <div class="flex flex-col items-center justify-center h-full space-y-8">
+            <a href="#about" class="mobile-nav-link text-2xl font-medium font-heading text-[var(--color-text-secondary)] hover:text-[var(--color-primary)]">About</a>
+            <a href="#services" class="mobile-nav-link text-2xl font-medium font-heading text-[var(--color-text-secondary)] hover:text-[var(--color-primary)]">Our Work</a>
+            <a href="#contact" class="mobile-nav-link text-2xl font-medium font-heading text-[var(--color-text-secondary)] hover:text-[var(--color-primary)]">Contact</a>
+            <a href="#contact" class="mt-8 px-8 py-3 text-lg font-medium text-[var(--color-background)] bg-[var(--color-primary)] rounded-full hover:bg-opacity-90 transition-colors">
+                <span class="btn-arrow-group relative overflow-hidden">
+                    <span>Get In Touch</span>
+                    <span class="ml-2 inline-block transform transition-transform duration-300 hover:translate-x-1">→</span>
+                </span>
+            </a>
+        </div>
+    </div>
+
+    <main>
+        <!-- Hero Section -->
+        <section id="hero" class="min-h-screen flex items-center justify-center pt-20 md:pt-24 pb-16 relative overflow-hidden">
+            <div class="absolute inset-0 z-0">
+                <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-96 h-96 md:w-[600px] md:h-[600px] bg-[var(--color-primary-light)] rounded-full blur-3xl opacity-50"></div>
+                <div class="absolute top-1/3 left-1/4 -translate-x-1/2 -translate-y-1/2 w-72 h-72 md:w-[450px] md:h-[450px] bg-[var(--color-primary-light)] rounded-full blur-3xl opacity-30"></div>
+            </div>
+            <div class="container mx-auto px-4 md:px-6 lg:px-8 relative z-10">
+                <div class="grid md:grid-cols-2 gap-12 items-center">
+                    <div class="scroll-animate">
+                        <div class="inline-flex items-center space-x-2 mb-4">
+                            <div class="w-8 h-0.5 bg-[var(--color-primary)]"></div>
+                            <p class="text-sm font-medium text-[var(--color-text-primary)]">Peaceful Art</p>
+                        </div>
+                        <h1 class="font-heading text-4xl md:text-5xl lg:text-6xl leading-tight text-[var(--color-text-primary)] hero-text-reveal">
+                            <span>Art</span> <span>That</span> <span>Unites</span> <span>Us</span>
+                        </h1>
+                        <div class="mt-8 hidden md:block"></div>
+                    </div>
+                    <div class="scroll-animate">
+                        <p class="text-lg text-[var(--color-text-secondary)] mb-6 hero-text-reveal">
+                            <span>Hand‑crafted</span> <span>tie‑dye</span> <span>pieces</span> <span>that</span> <span>celebrate</span> <span>community,</span> <span>diversity,</span> <span>and</span> <span>harmony.</span>
+                        </p>
+                        <a href="#contact" class="btn-arrow-group relative inline-flex items-center justify-center overflow-hidden px-8 py-3.5 text-base font-medium bg-[var(--color-primary)] text-[var(--color-background)] rounded-full group">
+                            <span>Visit Us</span>
+                            <span class="ml-2.5 transform transition-transform duration-300 group-hover:translate-x-1">→</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- About Section -->
+        <section id="about" class="py-20 md:py-32">
+            <div class="container mx-auto px-4 md:px-6 lg:px-8">
+                <div class="grid md:grid-cols-2 gap-12 lg:gap-24 items-center">
+                    <div class="order-2 md:order-1 space-y-6">
+                        <div class="inline-flex items-center space-x-2 mb-4 scroll-animate">
+                            <div class="w-8 h-0.5 bg-[var(--color-primary)]"></div>
+                            <p class="text-sm font-medium text-[var(--color-text-primary)]">Our Story</p>
+                        </div>
+                        <h2 class="font-heading text-3xl md:text-4xl lg:text-5xl leading-tight text-[var(--color-text-primary)] scroll-animate" style="transition-delay:100ms;">
+                            <span>Tie‑Dye</span> <span>Unity</span> <span>—</span> <span>Peace</span> <span>Through</span> <span>Color</span>
+                        </h2>
+                        <p class="text-base md:text-lg text-[var(--color-text-secondary)] leading-relaxed scroll-animate" style="transition-delay:200ms;">
+                            Founded in 2022, Tie‑Dye Unity began as a neighborhood gathering where friends shared vibrant dye‑dipped art. Today we host workshops, sell hand‑blended textiles, and foster community projects that celebrate cultural diversity and mutual respect.
+                        </p>
+                        <a href="#contact" class="btn-arrow-group relative inline-flex items-center justify-center overflow-hidden px-7 py-3 text-base font-medium text-[var(--color-text-primary)] hover:text-[var(--color-background)] hover:bg-[var(--color-text-primary)] rounded-full group scroll-animate" style="transition-delay:300ms;">
+                            <span>Learn More</span>
+                            <span class="ml-2.5 transform transition-transform duration-300 group-hover:translate-x-1">→</span>
+                        </a>
+                    </div>
+                    <div class="order-1 md:order-2 scroll-animate" style="transition-delay:100ms;">
+                        <div class="aspect-video md:aspect-[4/3] rounded-2xl overflow-hidden gradient-overlay">
+                            <img src="https://images.unsplash.com/photo-1519183071298-a2962b5b5c2a?auto=format&fit=crop&w=2070&q=80" alt="Peaceful tie‑dye art display" class="w-full h-full object-cover">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Services Section (Our Work) -->
+        <section id="services" class="py-20 md:py-32 bg-[var(--color-background-alt)]">
+            <div class="container mx-auto px-4 md:px-6 lg:px-8">
+                <div class="text-center mb-16 md:mb-20">
+                    <div class="inline-flex items-center space-x-2 mb-4 scroll-animate">
+                        <div class="w-8 h-0.5 bg-[var(--color-primary)]"></div>
+                        <p class="text-sm font-medium text-[var(--color-text-primary)]">Our Work</p>
+                    </div>
+                    <h2 class="font-heading text-3xl md:text-4xl lg:text-5xl text-[var(--color-text-primary)] scroll-animate" style="transition-delay:100ms;">Handcrafted Art & Community Projects</h2>
+                </div>
+                <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+                    <!-- Service Card 1 -->
+                    <div class="bg-[var(--color-background)] p-8 md:p-10 rounded-2xl border border-[var(--color-border)] scroll-animate">
+                        <div class="w-10 h-10 bg-[var(--color-primary-light)] rounded-lg mb-6 flex items-center justify-center">
+                            <i data-lucide="palette" class="w-6 h-6 text-[var(--color-primary)]"></i>
+                        </div>
+                        <h3 class="font-heading text-xl font-medium text-[var(--color-text-primary)] mb-3">Tie‑Dye Workshops</h3>
+                        <p class="text-sm text-[var(--color-text-secondary)] leading-relaxed">Hands‑on sessions for all ages, teaching the art of traditional and modern tie‑dye techniques in a peaceful, inclusive environment.</p>
+                    </div>
+                    <!-- Service Card 2 -->
+                    <div class="bg-[var(--color-background)] p-8 md:p-10 rounded-2xl border border-[var(--color-border)] scroll-animate" style="transition-delay:150ms;">
+                        <div class="w-10 h-10 bg-[var(--color-primary-light)] rounded-lg mb-6 flex items-center justify-center">
+                            <i data-lucide="gift" class="w-6 h-6 text-[var(--color-primary)]"></i>
+                        </div>
+                        <h3 class="font-heading text-xl font-medium text-[var(--color-text-primary)] mb-3">Custom Textiles</h3>
+                        <p class="text-sm text-[var(--color-text-secondary)] leading-relaxed">One‑of‑a‑kind apparel, home décor, and accessories, each piece a unique expression of unity and creativity.</p>
+                    </div>
+                    <!-- Service Card 3 -->
+                    <div class="bg-[var(--color-background)] p-8 md:p-10 rounded-2xl border border-[var(--color-border)] scroll-animate" style="transition-delay:300ms;">
+                        <div class="w-10 h-10 bg-[var(--color-primary-light)] rounded-lg mb-6 flex items-center justify-center">
+                            <i data-lucide="users" class="w-6 h-6 text-[var(--color-primary)]"></i>
+                        </div>
+                        <h3 class="font-heading text-xl font-medium text-[var(--color-text-primary)] mb-3">Community Art Projects</h3>
+                        <p class="text-sm text-[var(--color-text-secondary)] leading-relaxed">Collaborative murals, installations, and events that bring neighbors together through art.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Experience Section -->
+        <section id="experience" class="py-20 md:py-32">
+            <div class="container mx-auto px-4 md:px-6 lg:px-8">
+                <div class="flex flex-col lg:flex-row justify-between items-start lg:items-end mb-16 md:mb-24">
+                    <div class="mb-8 lg:mb-0 lg:w-1/2 scroll-animate">
+                        <div class="inline-flex items-center space-x-2 mb-4">
+                            <div class="w-8 h-0.5 bg-[var(--color-primary)]"></div>
+                            <p class="text-sm font-medium text-[var(--color-text-primary)]">Our Journey</p>
+                        </div>
+                        <h2 class="font-heading text-3xl md:text-4xl lg:text-5xl text-[var(--color-text-primary)]">From Community Gathering to Local Art Studio</h2>
+                    </div>
+                    <div class="lg:w-1/2 scroll-animate" style="transition-delay:150ms;">
+                        <div class="inline-flex items-center space-x-2 mb-3">
+                            <div class="w-8 h-0.5 bg-[var(--color-primary)]"></div>
+                            <p class="text-sm font-medium text-[var(--color-text-primary)]">Timeline</p>
+                        </div>
+                        <div class="w-full h-2 bg-[var(--color-border)] rounded-full overflow-hidden">
+                            <div class="progress-bar h-full bg-[var(--color-primary)]" style="width:70%;"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="space-y-6">
+                    <!-- Experience Item 1 -->
+                    <div class="flex flex-col md:flex-row justify-between items-start md:items-center bg-[var(--color-background-alt)] p-4 md:p-6 rounded-xl border border-[var(--color-border)] shadow-sm scroll-animate">
+                        <div class="flex items-center space-x-3.5">
+                            <div class="w-10 h-10 bg-[var(--color-primary-light)] rounded-lg flex-shrink-0">
+                                <i data-lucide="heart" class="w-5 h-5 text-[var(--color-primary)]"></i>
+                            </div>
+                            <div>
+                                <p class="font-medium text-sm text-[var(--color-text-primary)]">2022 – 2023: Community Gatherings</p>
+                                <p class="text-xs text-[var(--color-text-secondary)]">Neighborhood tie‑dye events fostering friendship and creativity.</p>
+                            </div>
+                        </div>
+                        <p class="text-xs md:text-sm font-medium text-right text-[var(--color-text-primary)] md:text-[var(--color-primary)] mt-1 md:mt-0">Jan 2022 – Dec 2023</p>
+                    </div>
+                    <!-- Experience Item 2 -->
+                    <div class="flex flex-col md:flex-row justify-between items-start md:items-center bg-[var(--color-background-alt)] p-4 md:p-6 rounded-xl border border-[var(--color-border)] shadow-sm scroll-animate" style="transition-delay:100ms;">
+                        <div class="flex items-center space-x-3.5">
+                            <div class="w-10 h-10 bg-[var(--color-primary-light)] rounded-lg flex-shrink-0">
+                                <i data-lucide="building" class="w-5 h-5 text-[var(--color-primary)]"></i>
+                            </div>
+                            <div>
+                                <p class="font-medium text-sm text-[var(--color-text-primary)]">2023 – 2024: Studio Launch</p>
+                                <p class="text-xs text-[var(--color-text-secondary)]">Opened our first studio space, hosting workshops and selling custom art.</p>
+                            </div>
+                        </div>
+                        <p class="text-xs md:text-sm font-medium text-right text-[var(--color-text-primary)] md:text-[var(--color-primary)] mt-1 md:mt-0">Jan 2024 – Present</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Testimonials Section -->
+        <section id="testimonials" class="py-20 md:py-32 bg-[var(--color-background-alt)]">
+            <div class="container mx-auto px-4 md:px-6 lg:px-8">
+                <div class="text-center mb-16 md:mb-24">
+                    <div class="inline-flex items-center space-x-2 mb-4 scroll-animate">
+                        <div class="w-8 h-0.5 bg-[var(--color-primary)]"></div>
+                        <p class="text-sm font-medium text-[var(--color-text-primary)]">Testimonials</p>
+                    </div>
+                    <h2 class="font-heading text-3xl md:text-4xl lg:text-5xl text-[var(--color-text-primary)] scroll-animate" style="transition-delay:100ms;">What Our Community Says</h2>
+                </div>
+                <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+                    <!-- Testimonial 1 -->
+                    <div class="bg-[var(--color-background)] p-8 rounded-2xl border border-[var(--color-border)] scroll-animate">
+                        <div class="flex items-center space-x-3 mb-4">
+                            <div class="w-12 h-12 rounded-full bg-[var(--color-primary-light)] flex items-center justify-center">
+                                <i data-lucide="user" class="w-6 h-6 text-[var(--color-primary)]"></i>
+                            </div>
+                        </div>
+                        <blockquote class="text-sm text-[var(--color-text-secondary)] mb-4 leading-relaxed">"The tie‑dye workshop was a magical experience! I made a beautiful dress and met wonderful people from all walks of life."</blockquote>
+                        <p class="font-medium text-sm text-[var(--color-text-primary)]">Maria L., Art Enthusiast</p>
+                    </div>
+                    <!-- Testimonial 2 -->
+                    <div class="bg-[var(--color-background)] p-8 rounded-2xl border border-[var(--color-border)] scroll-animate" style="transition-delay:150ms;">
+                        <div class="flex items-center space-x-3 mb-4">
+                            <div class="w-12 h-12 rounded-full bg-[var(--color-primary-light)] flex items-center justify-center">
+                                <i data-lucide="user" class="w-6 h-6 text-[var(--color-primary)]"></i>
+                            </div>
+                        </div>
+                        <blockquote class="text-sm text-[var(--color-text-secondary)] mb-4 leading-relaxed">"Our community mural was a huge hit! Everyone felt seen and celebrated through color."</blockquote>
+                        <p class="font-medium text-sm text-[var(--color-text-primary)]">Jamal K., Neighborhood Leader</p>
+                    </div>
+                    <!-- Testimonial 3 -->
+                    <div class="bg-[var(--color-background)] p-8 rounded-2xl border border-[var(--color-border)] scroll-animate" style="transition-delay:300ms;">
+                        <div class="flex items-center space-x-3 mb-4">
+                            <div class="w-12 h-12 rounded-full bg-[var(--color-primary-light)] flex items-center justify-center">
+                                <i data-lucide="user" class="w-6 h-6 text-[var(--color-primary)]"></i>
+                            </div>
+                        </div>
+                        <blockquote class="text-sm text-[var(--color-text-secondary)] mb-4 leading-relaxed">"I love the custom textiles! Each piece feels like a little piece of the world."</blockquote>
+                        <p class="font-medium text-sm text-[var(--color-text-primary)]">Sofia R., Designer</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Contact Section -->
+        <section id="contact" class="py-20 md:py-32">
+            <div class="container mx-auto px-4 md:px-6 lg:px-8">
+                <div class="grid lg:grid-cols-2 gap-12 lg:gap-24 items-start">
+                    <div class="scroll-animate">
+                        <div class="inline-flex items-center space-x-2 mb-4">
+                            <div class="w-8 h-0.5 bg-[var(--color-primary)]"></div>
+                            <p class="text-sm font-medium text-[var(--color-text-primary)]">Get In Touch</p>
+                        </div>
+                        <h2 class="font-heading text-3xl md:text-4xl lg:text-5xl leading-tight text-[var(--color-text-primary)] mb-6">We'd love to hear from you</h2>
+                        <p class="text-base text-[var(--color-text-secondary)] mb-8 leading-relaxed">Whether you have a question about a workshop, want to place a custom order, or want to collaborate on a community project, drop us a line.</p>
+                        <a href="mailto:info@tie-dye-unity.com" class="btn-arrow-group relative inline-flex items-center justify-center overflow-hidden px-8 py-3.5 text-base font-medium bg-[var(--color-primary)] text-[var(--color-background)] rounded-full group">
+                            <span>Send Email</span>
+                            <span class="ml-2.5 transform transition-transform duration-300 group-hover:translate-x-1">→</span>
+                        </a>
+                    </div>
+                    <div class="space-y-8 scroll-animate" style="transition-delay:150ms;">
+                        <div class="flex items-center space-x-3.5">
+                            <div class="w-5 h-5 text-[var(--color-primary)]"><i data-lucide="mail"></i></div>
+                            <span class="text-base text-[var(--color-text-primary)]">info@tie-dye-unity.com</span>
+                        </div>
+                        <div class="h-px w-full bg-gradient-to-l from-transparent to-[var(--color-border)]"></div>
+                        <div class="flex items-center space-x-3.5">
+                            <div class="w-5 h-5 text-[var(--color-primary)]"><i data-lucide="phone"></i></div>
+                            <a href="tel:+15551234567" class="text-base text-[var(--color-text-primary)] hover:text-[var(--color-primary)]">+1 (555) 123‑4567</a>
+                        </div>
+                        <div class="h-px w-full bg-gradient-to-l from-transparent to-[var(--color-border)]"></div>
+                        <div class="flex items-center space-x-3.5">
+                            <div class="w-5 h-5 text-[var(--color-primary)]"><i data-lucide="map-pin"></i></div>
+                            <span class="text-base text-[var(--color-text-primary)]">123 Harmony Lane, Peace City, 98765</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Footer -->
+        <footer class="pt-20 md:pt-32 pb-12 md:pb-16">
+            <div class="container mx-auto px-4 md:px-6 lg:px-8">
+                <div class="grid md:grid-cols-3 gap-8 mb-12">
+                    <div>
+                        <a href="#hero" class="text-xl font-bold font-heading text-[var(--color-text-primary)] mb-4 block">Tie‑Dye Unity</a>
+                        <p class="text-sm text-[var(--color-text-secondary)] leading-relaxed">Art that brings people together through color, culture, and community.</p>
+                    </div>
+                    <div class="grid grid-cols-2 gap-8">
+                        <div>
+                            <h4 class="font-semibold text-[var(--color-text-primary)] mb-3">Navigation</h4>
+                            <ul class="space-y-2">
+                                <li><a href="#about" class="text-sm text-[var(--color-text-secondary)] hover:text-[var(--color-primary)]">About</a></li>
+                                <li><a href="#services" class="text-sm text-[var(--color-text-secondary)] hover:text-[var(--color-primary)]">Our Work</a></li>
+                                <li><a href="#experience" class="text-sm text-[var(--color-text-secondary)] hover:text-[var(--color-primary)]">Journey</a></li>
+                                <li><a href="#contact" class="text-sm text-[var(--color-text-secondary)] hover:text-[var(--color-primary)]">Contact</a></li>
+                            </ul>
+                        </div>
+                        <div>
+                            <h4 class="font-semibold text-[var(--color-text-primary)] mb-3">Socials</h4>
+                            <ul class="space-y-2">
+                                <li><a href="https://twitter.com/tiedyeunity" target="_blank" rel="noopener" class="text-sm text-[var(--color-text-secondary)] hover:text-[var(--color-primary)]">Twitter</a></li>
+                                <li><a href="https://instagram.com/tiedyeunity" target="_blank" rel="noopener" class="text-sm text-[var(--color-text-secondary)] hover:text-[var(--color-primary)]">Instagram</a></li>
+                                <li><a href="https://facebook.com/tiedyeunity" target="_blank" rel="noopener" class="text-sm text-[var(--color-text-secondary)] hover:text-[var(--color-primary)]">Facebook</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="md:col-span-1">
+                        <h4 class="font-semibold text-[var(--color-text-primary)] mb-3">Newsletter</h4>
+                        <p class="text-sm text-[var(--color-text-secondary)] mb-3">Stay updated on events, workshops, and new pieces.</p>
+                        <form class="flex">
+                            <input type="email" placeholder="Your email" class="w-full px-3.5 py-2.5 text-sm border border-[var(--color-border)] rounded-l-lg rounded-br-none focus:ring-[var(--color-primary)] focus:border-[var(--color-primary)] outline-none" required>
+                            <button type="submit" class="px-4 py-2.5 text-sm bg-[var(--color-primary)] text-[var(--color-background)] rounded-r-lg hover:bg-opacity-90">→</button>
+                        </form>
+                    </div>
+                </div>
+                <div class="pt-8 border-t border-[var(--color-border)] text-center md:text-left">
+                    <p class="text-xs text-[var(--color-text-tertiary)]">© <span id="current-year"></span> Tie‑Dye Unity. All Rights Reserved. <a href="https://tesslate.com" class="underline hover:text-[var(--color-primary)]">Built with Tesslate</a>.</p>
+                </div>
+            </div>
+        </footer>
+    </main>
+
+    <!-- Lucide Icons Script -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+
+    <!-- Custom JavaScript -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            lucide.createIcons();
+
+            // Header scroll effect
+            const header = document.getElementById('main-header');
+            window.addEventListener('scroll', () => {
+                if (window.scrollY > 50) {
+                    header.classList.add('bg-opacity-90', 'backdrop-blur-sm');
+                } else {
+                    header.classList.remove('bg-opacity-90', 'backdrop-blur-sm');
+                }
+            });
+
+            // Mobile menu toggle
+            const mobileMenuButton = document.getElementById('mobile-menu-button');
+            const mobileMenu = document.getElementById('mobile-menu');
+            const mobileNavLinks = document.querySelectorAll('.mobile-nav-link');
+
+            mobileMenuButton.addEventListener('click', () => {
+                mobileMenu.classList.toggle('-translate-x-full');
+            });
+
+            mobileNavLinks.forEach(link => {
+                link.addEventListener('click', () => {
+                    mobileMenu.classList.add('-translate-x-full');
+                });
+            });
+
+            // Scroll animations
+            const scrollElements = document.querySelectorAll('.scroll-animate');
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.classList.add('scroll-animate-visible');
+                    }
+                });
+            }, { threshold: 0.1 });
+
+            scrollElements.forEach(el => observer.observe(el));
+
+            // Hero text reveal
+            const heroTexts = document.querySelectorAll('.hero-text-reveal');
+            heroTexts.forEach(textContainer => {
+                const words = textContainer.textContent.trim().split(/\s+/);
+                textContainer.innerHTML = '';
+                words.forEach((word, wordIndex) => {
+                    const wordSpan = document.createElement('span');
+                    wordSpan.style.display = 'inline-block';
+                    word.split('').forEach((char, charIndex) => {
+                        const charSpan = document.createElement('span');
+                        charSpan.textContent = char;
+                        charSpan.style.transitionDelay = `${(wordIndex * 0.08 + charIndex * 0.03).toFixed(2)}s`;
+                        wordSpan.appendChild(charSpan);
+                    });
+                    textContainer.appendChild(wordSpan);
+                    if (wordIndex < words.length - 1) textContainer.appendChild(document.createTextNode(' '));
+                });
+                const heroObserver = new IntersectionObserver((entries) => {
+                    if (entries[0].isIntersecting) {
+                        textContainer.querySelectorAll('span > span').forEach(s => {
+                            s.style.opacity = '1';
+                            s.style.transform = 'translateY(0) rotateX(0deg)';
+                        });
+                        heroObserver.unobserve(textContainer);
+                    }
+                }, { threshold: 0.5 });
+                heroObserver.observe(textContainer);
+            });
+
+            // Experience progress bar animation
+            const experienceProgressBar = document.querySelector('.progress-bar');
+            if (experienceProgressBar) {
+                const expObs = new IntersectionObserver((entries, obs) => {
+                    if (entries[0].isIntersecting) {
+                        const { offsetTop, height } = entries[0].target;
+                        const start = offsetTop + height / 2 - window.innerHeight / 2;
+                        const end = offsetTop + height / 2 + window.innerHeight / 2;
+                        let t = 0;
+                        const tick = () => {
+                            t += 0.01;
+                            const prog = Math.max(0, Math.min(1, (t - start) / (end - start)));
+                            experienceProgressBar.style.width = `${prog * 100}%`;
+                            if (prog < 1) requestAnimationFrame(tick);
+                        };
+                        requestAnimationFrame(tick);
+                        obs.unobserve(entries[0].target);
+                    }
+                }, { threshold: [0.5] });
+                if (experienceProgressBar.parentElement) expObs.observe(experienceProgressBar.parentElement);
+            }
+
+            // Current year
+            document.getElementById('current-year').textContent = new Date().getFullYear();
+        });
+    </script>
+</body>
+</html>

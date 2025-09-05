@@ -1452,25 +1452,17 @@ impl DocumentMatcher {
 
         let mut results = Vec::new();
         let mut matched_elements_count = 0;
-        let mut matches_above_01 = 0;
-        let mut matches_above_03 = 0;
+        let mut total_matches = 0;
 
         for xml_element in xml_elements {
             let top_matches = if let Some(matches) = xml_to_pdf_matches.get_mut(&xml_element.id) {
                 matches.sort_by(|a, b| b.0.partial_cmp(&a.0).unwrap_or(std::cmp::Ordering::Equal));
                 matches.truncate(k);
-                // Always count as matched since we're returning top K results regardless of threshold
+                // Always count as matched since we're returning top K results regardless of scores
                 matched_elements_count += 1;
                 
-                // Count matches above thresholds
-                for (similarity, _) in matches.iter() {
-                    if *similarity >= 0.1 {
-                        matches_above_01 += 1;
-                    }
-                    if *similarity >= 0.3 {
-                        matches_above_03 += 1;
-                    }
-                }
+                // Count total matches
+                total_matches += matches.len();
                 
                 matches.iter().map(|(sim, block)| MatchResult {
                     pdf_block_id: block.id.clone(),
@@ -1519,8 +1511,8 @@ impl DocumentMatcher {
             unmatched_elements: xml_elements.len() - matched_elements_count,
             match_threshold: self.config.similarity_threshold,
             top_k_matches: self.config.top_k_matches,
-            matches_above_01,
-            matches_above_03,
+            matches_above_01: 0,
+            matches_above_03: 0,
             top_phrase_matches: vec![], // We'll handle this separately in the DocumentMatch struct
         };
         
@@ -1528,7 +1520,7 @@ impl DocumentMatcher {
         info!("Completed matching in {:?} - Matched {} out of {} elements", 
               duration, matched_elements_count, xml_elements.len());
         info!("Embedding generation: {} successful, {} failed", successful_embeddings, failed_embeddings);
-        info!("Matches above 0.1: {}, Matches above 0.3: {}", matches_above_01, matches_above_03);
+        info!("Total matches: {}", total_matches);
 
         Ok((results, statistics, top_phrase_matches))
     }

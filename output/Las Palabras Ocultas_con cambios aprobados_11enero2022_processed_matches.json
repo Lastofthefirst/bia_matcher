@@ -2147,7 +2147,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/0/SectionHeader/0",
-          "similarity": 0.28020996,
+          "similarity": 0.22077155,
           "pdf_text": "Las Palabras Ocultas1 Bahá'u'lláh Traducido al inglés por Shoghi Effendi con la ayuda de algunos amigos anglófonos"
         }
       ]
@@ -2158,7 +2158,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/0/Text/2",
-          "similarity": 0.1807231,
+          "similarity": 0.36713025,
           "pdf_text": "Parte I: del árabe Parte II: del persa"
         }
       ]
@@ -2169,7 +2169,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/0/Text/2",
-          "similarity": 0.21565147,
+          "similarity": 0.3217438,
           "pdf_text": "Parte I: del árabe Parte II: del persa"
         }
       ]
@@ -2177,13 +2177,7 @@
     {
       "xml_element_id": "536804237",
       "xml_text": "Part One",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/1/SectionHeader/0",
-          "similarity": 0.16040829,
-          "pdf_text": "Parte I"
-        }
-      ]
+      "top_matches": []
     },
     {
       "xml_element_id": "167487181",
@@ -2191,7 +2185,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/1/SectionHeader/1",
-          "similarity": 0.13665822,
+          "similarity": 0.12830521,
           "pdf_text": "Del árabe"
         }
       ]
@@ -2201,22 +2195,21 @@
       "xml_text": "He Is the Glory of Glories",
       "top_matches": [
         {
-          "pdf_block_id": "/page/1/Text/2",
-          "similarity": 0.15829112,
-          "pdf_text": "Él es la Gloria de las Glorias"
+          "pdf_block_id": "/page/14/SectionHeader/4",
+          "similarity": 0.13060115,
+          "pdf_text": "55. ¡OH HIJO DE LA PASIÓN!"
+        },
+        {
+          "pdf_block_id": "/page/6/SectionHeader/20",
+          "similarity": 0.12180731,
+          "pdf_text": "68. ¡OH HIJOS DE LOS HOMBRES!"
         }
       ]
     },
     {
       "xml_element_id": "642922139",
       "xml_text": "This is that which hath descended from the realm of glory, uttered by the tongue of power and might, and revealed unto the Prophets of old. We have taken the inner essence thereof and clothed it in the garment of brevity, as a token of grace unto the righteous, that they may stand faithful unto the Covenant of God, may fulfill in their lives His trust, and in the realm of spirit obtain the gem of divine virtue.",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/1/Text/3",
-          "similarity": 0.36828315,
-          "pdf_text": "Esto es lo que ha descendido del dominio de la gloria, pronunciado por la lengua de la fuerza y el poder, y revelado a los Profetas de antaño. Hemos tomado su esencia más íntima y la hemos revestido con el manto de la brevedad, como muestra de gracia para los justos, a fin de que permanezcan fieles a la Alianza de Dios, lleven a cabo Su encomienda en sus vidas y, en el reino del espíritu, obtengan la joya de la virtud divina."
-        }
-      ]
+      "top_matches": []
     },
     {
       "xml_element_id": "381340052",
@@ -2229,13 +2222,18 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/8/Text/4",
-          "similarity": 0.2247496,
+          "similarity": 0.40507093,
           "pdf_text": "El primer llamamiento del Amado es este: ¡Oh ruiseñor místico! No mores sino en el rosedal del espíritu. ¡Oh mensajera del Salomón del amor! No busques refugio sino en la Saba del bienamado. ¡Oh fénix inmortal! No te aposentes sino en la cumbre de la fidelidad. Esa es tu morada, si con las alas del alma te remontas hacia el reino de lo infinito y procuras alcanzar tu destino."
         },
         {
           "pdf_block_id": "/page/1/Text/6",
-          "similarity": 0.21665859,
+          "similarity": 0.27762678,
           "pdf_text": "Mi primer consejo es este: posee un corazón puro, bondadoso y radiante, para que sea tuya una soberanía antigua, inmortal y sempiterna."
+        },
+        {
+          "pdf_block_id": "/page/1/SectionHeader/0",
+          "similarity": 0.1174512,
+          "pdf_text": "Parte I"
         }
       ]
     },
@@ -2250,7 +2248,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/1/Text/8",
-          "similarity": 0.20614168,
+          "similarity": 0.28052184,
           "pdf_text": "De todo lo que hay ante Mi vista, lo más amado es la Justicia; no te alejes de ella si Me deseas, y no la descuides para que pueda confiar en ti. Con su ayuda, verás con tus propios ojos y no con los ojos de otros, y conocerás mediante tu propio conocimiento y no mediante el conocimiento de tu prójimo. Pondera con el corazón cómo te corresponde ser. En verdad, la justicia es Mi dádiva para ti y la señal de Mi amorosa bondad. Mantenla, pues, ante tu vista."
         }
       ]
@@ -2266,12 +2264,12 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/1/Text/10",
-          "similarity": 0.2829909,
+          "similarity": 0.2759779,
           "pdf_text": "Velado en Mi ser inmemorial y en la antigua eternidad de Mi esencia, supe de Mi amor por ti; por eso te creé, he grabado en ti Mi imagen y te he revelado Mi belleza."
         },
         {
           "pdf_block_id": "/page/6/Text/13",
-          "similarity": 0.24802847,
+          "similarity": 0.24225727,
           "pdf_text": "Mi eternidad es Mi creación; para ti la he creado. Viste tu templo con ella. Mi unidad es obra de Mis manos; para ti la he labrado. Atavíate con ella para que seas por siempre la revelación de Mi ser imperecedero."
         }
       ]
@@ -2284,13 +2282,7 @@
     {
       "xml_element_id": "486363123",
       "xml_text": "4\n                           \n                           O Son of Man!\n                           I loved thy creation, hence I created thee. Wherefore, do thou love Me, that I may name thy name and fill thy soul with the spirit of life.",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/1/Text/12",
-          "similarity": 0.28244147,
-          "pdf_text": "Amé tu creación, y por eso te creé. Ámame, entonces, para que mencione tu nombre y colme tu alma con el espíritu de vida."
-        }
-      ]
+      "top_matches": []
     },
     {
       "xml_element_id": "120064492",
@@ -2303,7 +2295,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/1/Text/14",
-          "similarity": 0.33103427,
+          "similarity": 0.21473147,
           "pdf_text": "Ámame para que Yo te ame. Si tú no Me amas, Mi amor no puede en modo alguno alcanzarte. Sábelo, oh siervo."
         }
       ]
@@ -2319,7 +2311,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/1/Text/16",
-          "similarity": 0.21347982,
+          "similarity": 0.2669215,
           "pdf_text": "Mi amor es tu paraíso, y la reunión conmigo, tu morada celestial. Entra, no te demores. Esto es lo que ha sido destinado para ti en Nuestro reino de lo alto y en Nuestro exaltado dominio."
         }
       ]
@@ -2332,13 +2324,7 @@
     {
       "xml_element_id": "118657418",
       "xml_text": "7\n                           \n                           O Son of Man!\n                           If thou lovest Me, turn away from thyself; and if thou seekest My pleasure, regard not thine own; that thou mayest die in Me and I may eternally live in thee.",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/1/Text/18",
-          "similarity": 0.23330252,
-          "pdf_text": "Si Me amas, renuncia a ti mismo, y si buscas Mi agrado, deja el tuyo a un lado, para que así, tú mueras en Mí y Yo viva en ti eternamente."
-        }
-      ]
+      "top_matches": []
     },
     {
       "xml_element_id": "603336429",
@@ -2348,7 +2334,13 @@
     {
       "xml_element_id": "102524683",
       "xml_text": "8\n                           \n                           O Son of Spirit!\n                           There is no peace for thee save by renouncing thyself and turning unto Me; for it behooveth thee to glory in My name, not in thine own; to put thy trust in Me and not in thyself, since I desire to be loved alone and above all that is.",
-      "top_matches": []
+      "top_matches": [
+        {
+          "pdf_block_id": "/page/1/Text/20",
+          "similarity": 0.45199835,
+          "pdf_text": "Para ti no habrá paz salvo que renuncies a ti mismo y te vuelvas hacia Mí, pues te incumbe gloriarte en Mi nombre, y no en el tuyo, y poner en Mí tu confianza, y no en ti mismo; ya que deseo ser amado solo y por encima de todo cuanto existe."
+        }
+      ]
     },
     {
       "xml_element_id": "213580496",
@@ -2361,7 +2353,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/2/Text/1",
-          "similarity": 0.23715721,
+          "similarity": 0.3819343,
           "pdf_text": "Mi amor es Mi fortaleza; todo aquel que entre en ella estará a salvo y seguro; y todo aquel que de ella se aleje se extraviará y perecerá, sin duda."
         }
       ]
@@ -2377,7 +2369,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/2/Text/3",
-          "similarity": 0.22990656,
+          "similarity": 0.27243748,
           "pdf_text": "Tú eres Mi fortaleza. Entra en ella y permanecerás a salvo y seguro. Mi amor está dentro de ti. Sábelo, y Me encontrarás cerca de ti."
         }
       ]
@@ -2393,7 +2385,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/2/Text/5",
-          "similarity": 0.3873194,
+          "similarity": 0.2126623,
           "pdf_text": "Tú eres Mi lámpara y Mi luz está en ti. Obtén de ella tu esplendor y no busques a nadie sino a Mí, pues te he creado rico y he derramado generosamente Mi favor sobre ti."
         }
       ]
@@ -2409,8 +2401,13 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/2/Text/7",
-          "similarity": 0.23946878,
+          "similarity": 0.482425,
           "pdf_text": "Con las manos del poder te he modelado y con los dedos de la fuerza te he creado, y dentro de ti he depositado la esencia de Mi luz. Conténtate con ello y no busques nada más, pues Mi obra es perfecta, y Mi mandato, ineludible. No lo cuestiones, ni lo pongas en duda."
+        },
+        {
+          "pdf_block_id": "/page/1/SectionHeader/0",
+          "similarity": 0.11591855,
+          "pdf_text": "Parte I"
         }
       ]
     },
@@ -2422,7 +2419,13 @@
     {
       "xml_element_id": "511421653",
       "xml_text": "13\n                           \n                           O Son of Spirit!\n                           I created thee rich, why dost thou bring thyself down to poverty? Noble I made thee, wherewith  dost thou abase thyself? Out of the essence of knowledge I gave thee being, why seekest thou enlightenment from anyone beside Me? Out of the clay of love I molded thee, how dost thou busy thyself with another? Turn thy sight unto thyself, that thou mayest find Me standing within thee, mighty, powerful and self-subsisting.",
-      "top_matches": []
+      "top_matches": [
+        {
+          "pdf_block_id": "/page/2/Text/9",
+          "similarity": 0.46969628,
+          "pdf_text": "Te he creado rico, ¿por qué te rebajas a la pobreza? Noble te hice, ¿por qué te degradas a ti mismo? De la esencia del conocimiento te he dado la existencia, ¿por qué buscas iluminación en alguien que no sea Yo? Con la arcilla del amor te di forma, ¿cómo es que te ocupas con otro? Vuelve la mirada hacia ti mismo y Me hallarás dentro de ti, fuerte, poderoso y autosuficiente."
+        }
+      ]
     },
     {
       "xml_element_id": "547414426",
@@ -2435,7 +2438,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/2/Text/11",
-          "similarity": 0.23551941,
+          "similarity": 0.48181173,
           "pdf_text": "Tú eres Mi dominio y Mi dominio no perece, ¿por qué, pues, temes perecer? Tú eres Mi luz y Mi luz jamás se extingue, ¿por qué temes la extinción? Tú eres Mi gloria y Mi gloria no se desvanece; tú eres Mi manto y Mi manto jamás se desgasta. Por tanto, vive en tu amor por Mí, y Me encontrarás en el dominio de la gloria."
         }
       ]
@@ -2451,13 +2454,8 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/2/Text/13",
-          "similarity": 0.27387834,
+          "similarity": 0.36977655,
           "pdf_text": "Vuelve tu rostro hacia Mi rostro y renuncia a todo salvo a Mí, pues Mi soberanía perdura y Mi dominio no perece. Si buscas a otro que no sea Yo, tu búsqueda será en vano, aunque explores el universo por toda la eternidad."
-        },
-        {
-          "pdf_block_id": "/page/1/Text/18",
-          "similarity": 0.26359338,
-          "pdf_text": "Si Me amas, renuncia a ti mismo, y si buscas Mi agrado, deja el tuyo a un lado, para que así, tú mueras en Mí y Yo viva en ti eternamente."
         }
       ]
     },
@@ -2472,7 +2470,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/2/Text/15",
-          "similarity": 0.21886449,
+          "similarity": 0.20872793,
           "pdf_text": "Olvídate de todo menos de Mí y conversa con Mi espíritu. Esto es de la esencia de Mi mandato; vuélvete a él, por tanto."
         }
       ]
@@ -2487,19 +2485,19 @@
       "xml_text": "17\n                           \n                           O Son of Man!\n                           Be thou content with Me and seek no other helper. For none but Me can ever suffice thee.",
       "top_matches": [
         {
-          "pdf_block_id": "/page/2/SectionHeader/16",
-          "similarity": 0.40915823,
-          "pdf_text": "17. ¡OH HIJO DEL HOMBRE!"
+          "pdf_block_id": "/page/2/Text/19",
+          "similarity": 0.2822403,
+          "pdf_text": "No Me pidas aquello que no deseamos para ti; confórmate, pues, con lo que hemos ordenado por tu bien, ya que esto es lo que te beneficia, si con ello te contentas."
         },
         {
-          "pdf_block_id": "/page/5/SectionHeader/2",
-          "similarity": 0.40568146,
-          "pdf_text": "47. ¡OH HIJO DEL HOMBRE!"
+          "pdf_block_id": "/page/2/Text/17",
+          "similarity": 0.25530976,
+          "pdf_text": "Conténtate conmigo y no busques a otro para ayudarte. Porque nadie, salvo Yo, podrá nunca bastarte."
         },
         {
-          "pdf_block_id": "/page/4/SectionHeader/6",
-          "similarity": 0.4054344,
-          "pdf_text": "37. ¡OH HIJO DEL HOMBRE!"
+          "pdf_block_id": "/page/1/Text/14",
+          "similarity": 0.25487834,
+          "pdf_text": "Ámame para que Yo te ame. Si tú no Me amas, Mi amor no puede en modo alguno alcanzarte. Sábelo, oh siervo."
         }
       ]
     },
@@ -2514,7 +2512,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/2/Text/19",
-          "similarity": 0.25401747,
+          "similarity": 0.20386983,
           "pdf_text": "No Me pidas aquello que no deseamos para ti; confórmate, pues, con lo que hemos ordenado por tu bien, ya que esto es lo que te beneficia, si con ello te contentas."
         }
       ]
@@ -2530,17 +2528,17 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/4/Text/21",
-          "similarity": 0.35597765,
+          "similarity": 0.34925947,
           "pdf_text": "Tu oído es Mi oído; oye, entonces, con él. Tu vista es Mi vista; ve con ella; para que así, en lo más íntimo del alma, tú seas testigo de Mi exaltada santidad y Yo, en Mi propio Ser, dé testimonio de una elevada posición para ti."
         },
         {
           "pdf_block_id": "/page/1/Text/10",
-          "similarity": 0.30057698,
+          "similarity": 0.29558784,
           "pdf_text": "Velado en Mi ser inmemorial y en la antigua eternidad de Mi esencia, supe de Mi amor por ti; por eso te creé, he grabado en ti Mi imagen y te he revelado Mi belleza."
         },
         {
           "pdf_block_id": "/page/2/Text/21",
-          "similarity": 0.27790487,
+          "similarity": 0.27389115,
           "pdf_text": "He insuflado en ti un hálito de Mi propio Espíritu, para que seas Mi amante. ¿Por qué Me has abandonado para buscar otro amado que no sea Yo?"
         }
       ]
@@ -2556,7 +2554,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/2/Text/23",
-          "similarity": 0.28236714,
+          "similarity": 0.20764966,
           "pdf_text": "Lo que reclamo de ti es muy grande; no puede olvidarse. Mi gracia para contigo es abundante; no puede velarse. Mi amor ha hecho en ti su morada; no puede ocultarse. Mi luz te es manifiesta; no puede oscurecerse."
         }
       ]
@@ -2569,7 +2567,13 @@
     {
       "xml_element_id": "227320942",
       "xml_text": "21\n                           \n                           O Son of Man!\n                           Upon the tree of effulgent glory I have hung for thee the choicest fruits, wherefore hast thou turned away and contented thyself with that which is less good? Return then unto that which is better for thee in the realm on high.",
-      "top_matches": []
+      "top_matches": [
+        {
+          "pdf_block_id": "/page/3/Text/1",
+          "similarity": 0.20697711,
+          "pdf_text": "En el árbol de refulgente gloria he dispuesto para ti los frutos más selectos. ¿Por qué razón te has alejado y te has contentado con algo que es menos bueno? Regresa, entonces, a aquello que es mejor para ti en el dominio de lo alto."
+        }
+      ]
     },
     {
       "xml_element_id": "201337610",
@@ -2591,14 +2595,19 @@
       "xml_text": "23\n                           \n                           O Son of the Supreme!\n                           To the eternal I call thee, yet thou dost seek that which perisheth. What hath made thee turn away from Our desire and seek thine own?",
       "top_matches": [
         {
-          "pdf_block_id": "/page/3/SectionHeader/4",
-          "similarity": 0.38705206,
-          "pdf_text": "23. ¡OH HIJO DEL SUPREMO!"
+          "pdf_block_id": "/page/1/Text/18",
+          "similarity": 0.21258722,
+          "pdf_text": "Si Me amas, renuncia a ti mismo, y si buscas Mi agrado, deja el tuyo a un lado, para que así, tú mueras en Mí y Yo viva en ti eternamente."
         },
         {
-          "pdf_block_id": "/page/3/Text/5",
-          "similarity": 0.23343436,
-          "pdf_text": "Yo te convoco a lo eterno, mas tú anhelas lo que perece. ¿Qué ha hecho que sigas tu propio deseo y te alejes del Nuestro?"
+          "pdf_block_id": "/page/14/SectionHeader/4",
+          "similarity": 0.11974724,
+          "pdf_text": "55. ¡OH HIJO DE LA PASIÓN!"
+        },
+        {
+          "pdf_block_id": "/page/6/SectionHeader/20",
+          "similarity": 0.109085545,
+          "pdf_text": "68. ¡OH HIJOS DE LOS HOMBRES!"
         }
       ]
     },
@@ -2610,7 +2619,13 @@
     {
       "xml_element_id": "153701502",
       "xml_text": "24\n                           \n                           O Son of Man!\n                           Transgress not thy limits, nor claim that which beseemeth thee not. Prostrate thyself before the countenance of thy God, the Lord of might and power.",
-      "top_matches": []
+      "top_matches": [
+        {
+          "pdf_block_id": "/page/3/Text/7",
+          "similarity": 0.2774266,
+          "pdf_text": "No traspases tus límites ni reclames aquello que no es digno de ti. Inclínate ante el rostro de tu Dios, el Señor de la fuerza y del poder."
+        }
+      ]
     },
     {
       "xml_element_id": "642633869",
@@ -2623,17 +2638,17 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/7/Text/40",
-          "similarity": 0.22916418,
+          "similarity": 0.28627825,
           "pdf_text": "70. ¡OH HIJO DE QUIEN SE MANTUVO FIEL A SU PROPIO SER EN EL REINO DE SÍ MISMO! Sabe que sobre ti he rociado todas las fragancias de santidad y te he revelado plenamente Mi palabra; mediante ti he perfeccionado Mi generosidad y para ti he deseado lo que he deseado para Mi propio Ser. Conténtate, pues, con Mi agrado, y sé agradecido conmigo."
         },
         {
           "pdf_block_id": "/page/3/Text/9",
-          "similarity": 0.19228658,
+          "similarity": 0.21670608,
           "pdf_text": "No te envanezcas por encima del pobre, pues a él lo guío en su camino, y a ti te veo en tu perversa condición y te confundo para siempre."
         },
         {
           "pdf_block_id": "/page/14/SectionHeader/0",
-          "similarity": 0.12908609,
+          "similarity": 0.13787201,
           "pdf_text": "53. ¡OH VOSOTROS QUE OS ENVANECÉIS CON RIQUEZAS MORTALES!"
         }
       ]
@@ -2646,13 +2661,7 @@
     {
       "xml_element_id": "568477331",
       "xml_text": "26\n                           \n                           O Son of Being!\n                           How couldst thou forget thine own faults and busy thyself with the faults of others? Whoso doeth this is accursed of Me.",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/3/Text/11",
-          "similarity": 0.21368827,
-          "pdf_text": "¿Cómo puedes olvidar tus propias faltas y ocuparte con las faltas de otros? Detestado por Mí es quien así procede."
-        }
-      ]
+      "top_matches": []
     },
     {
       "xml_element_id": "930952279",
@@ -2662,7 +2671,13 @@
     {
       "xml_element_id": "605082403",
       "xml_text": "27\n                           \n                           O Son of Man!\n                           Breathe not the sins of others so long as thou art thyself a sinner. Shouldst thou transgress this command, accursed wouldst thou be, and to this I bear witness.",
-      "top_matches": []
+      "top_matches": [
+        {
+          "pdf_block_id": "/page/16/Text/13",
+          "similarity": 0.37522817,
+          "pdf_text": "¿Hasta cuándo has de volar por los espacios del deseo? Te he dado alas para que vueles a los dominios de la santidad mística, y no a las regiones de fantasías malignas. Un peine te he dado también para que arregles Mis mechones azabaches, y no para que laceres Mi garganta."
+        }
+      ]
     },
     {
       "xml_element_id": "468164144",
@@ -2675,7 +2690,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/3/Text/15",
-          "similarity": 0.2791929,
+          "similarity": 0.28165314,
           "pdf_text": "Has de saber que, en verdad, aquel que ordena a otros ser justos y él mismo comete iniquidad no es de los Míos, aunque lleve Mi nombre."
         }
       ]
@@ -2701,7 +2716,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/3/Text/19",
-          "similarity": 0.24852473,
+          "similarity": 0.23336993,
           "pdf_text": "No le niegues a Mi siervo nada que te pidiere, pues su rostro es Mi rostro; avergüénzate, pues, ante Mí."
         }
       ]
@@ -2714,7 +2729,13 @@
     {
       "xml_element_id": "048313746",
       "xml_text": "31\n                           \n                           O Son of Being!\n                           Bring thyself to account each day ere thou art summoned to a reckoning; for death, unheralded, shall come upon thee and thou shalt be called to give account for thy deeds.",
-      "top_matches": []
+      "top_matches": [
+        {
+          "pdf_block_id": "/page/3/Text/21",
+          "similarity": 0.19918038,
+          "pdf_text": "Pídete cuentas todos los días, antes de que seas citado a rendirlas; porque, imprevista, te llegará la muerte y serás llamado a responder por tus acciones."
+        }
+      ]
     },
     {
       "xml_element_id": "727494266",
@@ -2727,12 +2748,12 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/3/Text/23",
-          "similarity": 0.23595186,
+          "similarity": 0.28074712,
           "pdf_text": "He hecho de la muerte una mensajera de alegría para ti. ¿Por qué te afliges? He creado la luz para que vierta sobre ti su esplendor. ¿Por qué te ocultas tras un velo?"
         },
         {
           "pdf_block_id": "/page/3/SectionHeader/22",
-          "similarity": 0.15189433,
+          "similarity": 0.1586622,
           "pdf_text": "32. ¡OH HIJO DEL SUPREMO!"
         }
       ]
@@ -2747,18 +2768,18 @@
       "xml_text": "33\n                           \n                           O Son of Spirit!\n                           With the joyful tidings of light I hail thee: rejoice! To the court of holiness I summon thee; abide therein that thou mayest live in peace forevermore.",
       "top_matches": [
         {
-          "pdf_block_id": "/page/11/SectionHeader/12",
-          "similarity": 0.3641101,
-          "pdf_text": "33. ¡OH HERMANO MÍO!"
+          "pdf_block_id": "/page/2/SectionHeader/18",
+          "similarity": 0.16797037,
+          "pdf_text": "18. ¡OH HIJO DEL ESPÍRITU!"
         },
         {
           "pdf_block_id": "/page/1/SectionHeader/5",
-          "similarity": 0.34773797,
+          "similarity": 0.16783474,
           "pdf_text": "1. ¡OH HIJO DEL ESPÍRITU!"
         },
         {
           "pdf_block_id": "/page/1/SectionHeader/7",
-          "similarity": 0.34760398,
+          "similarity": 0.16770075,
           "pdf_text": "2. ¡OH HIJO DEL ESPÍRITU!"
         }
       ]
@@ -2773,13 +2794,8 @@
       "xml_text": "34\n                           \n                           O Son of Spirit!\n                           The spirit of holiness beareth unto thee the joyful tidings of reunion; wherefore dost thou  grieve? The spirit of power confirmeth thee in His cause; why dost thou veil thyself? The light of His countenance doth lead thee; how canst thou go astray?",
       "top_matches": [
         {
-          "pdf_block_id": "/page/4/SectionHeader/0",
-          "similarity": 0.39881453,
-          "pdf_text": "34. ¡OH HIJO DEL ESPÍRITU!"
-        },
-        {
           "pdf_block_id": "/page/4/Text/1",
-          "similarity": 0.22484937,
+          "similarity": 0.21194662,
           "pdf_text": "El espíritu de santidad te trae las buenas nuevas del encuentro; ¿por qué te afliges? El espíritu del poder te confirma en Su causa; ¿por qué te ocultas tras un velo? La luz de Su semblante te guía en el camino; ¿cómo puedes extraviarte?"
         }
       ]
@@ -2795,7 +2811,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/4/Text/3",
-          "similarity": 0.23365645,
+          "similarity": 0.22313222,
           "pdf_text": "No te entristezcas a menos que estés lejos de Nos. No te regocijes a menos que estés regresando y acercándote a Nos."
         }
       ]
@@ -2808,7 +2824,13 @@
     {
       "xml_element_id": "745110864",
       "xml_text": "36\n                           \n                           O Son of Man!\n                           Rejoice in the gladness of thine heart, that thou mayest be worthy to meet Me and to mirror forth My beauty.",
-      "top_matches": []
+      "top_matches": [
+        {
+          "pdf_block_id": "/page/4/Text/5",
+          "similarity": 0.2534548,
+          "pdf_text": "Regocíjate con alegría en tu corazón, para que seas digno de encontrarte conmigo y reflejar Mi belleza."
+        }
+      ]
     },
     {
       "xml_element_id": "952239953",
@@ -2821,7 +2843,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/4/Text/7",
-          "similarity": 0.21111986,
+          "similarity": 0.22689235,
           "pdf_text": "No te despojes de Mi precioso manto, ni renuncies a tu parte de Mi maravillosa fuente, no sea que sufras sed eternamente."
         }
       ]
@@ -2847,12 +2869,12 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/4/Text/11",
-          "similarity": 0.20893353,
+          "similarity": 0.26277068,
           "pdf_text": "No descuides Mis mandatos si amas Mi belleza, y no olvides Mis consejos si buscas Mi complacencia."
         },
         {
           "pdf_block_id": "/page/13/SectionHeader/15",
-          "similarity": 0.14450885,
+          "similarity": 0.17082153,
           "pdf_text": "52. ¡OH HIJOS DE LA NEGLIGENCIA Y LA PASIÓN!"
         }
       ]
@@ -2865,13 +2887,7 @@
     {
       "xml_element_id": "815268217",
       "xml_text": "40\n                           \n                           O Son of Man!\n                           Wert thou to speed through the immensity of space and traverse the expanse of heaven, yet thou wouldst find no rest save in submission to Our command and humbleness before Our Face.",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/4/Text/13",
-          "similarity": 0.26568893,
-          "pdf_text": "Aunque recorrieras veloz la inmensidad del espacio y atravesaras la infinitud del cielo, no hallarías reposo más que en la obediencia a Nuestro mandato y en la humildad ante Nuestro Rostro."
-        }
-      ]
+      "top_matches": []
     },
     {
       "xml_element_id": "100070876",
@@ -2884,7 +2900,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/4/Text/15",
-          "similarity": 0.24279127,
+          "similarity": 0.25497302,
           "pdf_text": "Magnifica Mi causa, y te descubriré los misterios de Mi grandeza y te alumbraré con la luz de la eternidad."
         }
       ]
@@ -2897,13 +2913,7 @@
     {
       "xml_element_id": "588699010",
       "xml_text": "42\n                           \n                           O Son of Man!\n                           Humble thyself before Me, that I may graciously visit thee. Arise for the triumph of My cause, that while yet on earth thou mayest obtain the victory.",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/4/Text/17",
-          "similarity": 0.22142191,
-          "pdf_text": "Sé humilde ante Mí, para que te haga la merced de visitarte. Levántate para el triunfo de Mi causa, para que estando aún en la tierra obtengas la victoria."
-        }
-      ]
+      "top_matches": []
     },
     {
       "xml_element_id": "077566570",
@@ -2916,7 +2926,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/4/Text/19",
-          "similarity": 0.22111312,
+          "similarity": 0.2357569,
           "pdf_text": "Haz mención de Mí en Mi tierra, para que Yo te recuerde en Mi cielo; así hallarán solaz tus ojos y los Míos."
         }
       ]
@@ -2931,13 +2941,8 @@
       "xml_text": "44\n                           \n                           O Son of the Throne!\n                           Thy hearing is My hearing, hear thou therewith. Thy sight is My sight, do thou see therewith, that in thine inmost soul thou mayest testify unto My exalted sanctity, and I within Myself may bear witness unto an exalted station for thee.",
       "top_matches": [
         {
-          "pdf_block_id": "/page/4/SectionHeader/20",
-          "similarity": 0.27095935,
-          "pdf_text": "44. ¡OH HIJO DEL TRONO!"
-        },
-        {
           "pdf_block_id": "/page/4/Text/21",
-          "similarity": 0.21760887,
+          "similarity": 0.4652457,
           "pdf_text": "Tu oído es Mi oído; oye, entonces, con él. Tu vista es Mi vista; ve con ella; para que así, en lo más íntimo del alma, tú seas testigo de Mi exaltada santidad y Yo, en Mi propio Ser, dé testimonio de una elevada posición para ti."
         }
       ]
@@ -2953,7 +2958,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/4/Text/23",
-          "similarity": 0.3086563,
+          "similarity": 0.23598824,
           "pdf_text": "Anhela la muerte de un mártir en Mi sendero, contento con Mi agrado y agradecido por lo que Yo ordeno, para que así reposes junto a Mí bajo el dosel de la majestad, tras el tabernáculo de la gloria."
         }
       ]
@@ -2969,7 +2974,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/5/Text/1",
-          "similarity": 0.4098578,
+          "similarity": 0.29848808,
           "pdf_text": "Pondera y medita. ¿Deseas morir en tu lecho, o bien derramar en el polvo tu sangre, mártir en Mi sendero, y convertirte así en la encarnación de Mi mandato y el revelador de Mi luz en el altísimo paraíso? Juzga como es debido, oh siervo."
         }
       ]
@@ -2985,7 +2990,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/5/Text/3",
-          "similarity": 0.24614029,
+          "similarity": 0.26821476,
           "pdf_text": "¡Por Mi belleza! Que con tu sangre se tiña tu cabello es a Mi vista más grande que la creación del universo y la luz de ambos mundos. Esfuérzate, pues, por lograrlo, oh siervo."
         }
       ]
@@ -3021,17 +3026,17 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/5/Text/9",
-          "similarity": 0.48988187,
+          "similarity": 0.23705606,
           "pdf_text": "Si en tu andar por Mi sendero no encuentras adversidades, ¿cómo puedes seguir el camino de quienes están contentos con Mi agrado? Si en tu anhelo por encontrarte conmigo no te afligen las desdichas, ¿cómo habrás de alcanzar la luz, en tu amor por Mi belleza?"
         },
         {
           "pdf_block_id": "/page/4/Text/1",
-          "similarity": 0.4529441,
+          "similarity": 0.2053559,
           "pdf_text": "El espíritu de santidad te trae las buenas nuevas del encuentro; ¿por qué te afliges? El espíritu del poder te confirma en Su causa; ¿por qué te ocultas tras un velo? La luz de Su semblante te guía en el camino; ¿cómo puedes extraviarte?"
         },
         {
           "pdf_block_id": "/page/12/Text/16",
-          "similarity": 0.40573823,
+          "similarity": 0.19634977,
           "pdf_text": "Transitad por los senderos del agrado del Amigo y sabed que Su agrado está en el agrado de Sus criaturas. Es decir: nadie debe entrar en la casa de su amigo sin su beneplácito, ni poner las manos sobre sus bienes, ni preferir su propia voluntad a la de su amigo; y en ningún caso debe intentar aventajarle. Meditad sobre esto, oh gentes dotadas de percepción."
         }
       ]
@@ -3047,7 +3052,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/5/Text/11",
-          "similarity": 0.45199758,
+          "similarity": 0.30835542,
           "pdf_text": "Mi calamidad es Mi providencia: fuego y venganza, por fuera; luz y misericordia, por dentro. Apresúrate a recibirla, para que llegues a ser una luz eterna y un espíritu imperecedero. Este es Mi decreto para ti; acátalo."
         }
       ]
@@ -3060,7 +3065,13 @@
     {
       "xml_element_id": "118018611",
       "xml_text": "52\n                           \n                           O Son of Man!\n                           Should prosperity befall thee, rejoice not, and should abasement come upon thee, grieve not, for both shall pass away and be no more.",
-      "top_matches": []
+      "top_matches": [
+        {
+          "pdf_block_id": "/page/5/Text/13",
+          "similarity": 0.21136256,
+          "pdf_text": "Si te llegara la prosperidad, no te regocijes; y si viniera sobre ti la humillación, no te aflijas. Pues ambas pasarán y dejarán de ser."
+        }
+      ]
     },
     {
       "xml_element_id": "730644493",
@@ -3073,12 +3084,12 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/5/Text/15",
-          "similarity": 0.26191032,
+          "similarity": 0.46906263,
           "pdf_text": "Si te sobreviene la pobreza, no te entristezcas, pues en su momento te visitará el Señor de la riqueza. No temas la humillación, pues algún día descansará sobre ti la gloria."
         },
         {
           "pdf_block_id": "/page/14/SectionHeader/2",
-          "similarity": 0.13283592,
+          "similarity": 0.1690709,
           "pdf_text": "54. ¡OH RICOS DE LA TIERRA!"
         }
       ]
@@ -3114,7 +3125,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/5/Text/22",
-          "similarity": 0.20153107,
+          "similarity": 0.35765433,
           "pdf_text": "Tú ansías el oro y Yo deseo que te liberes de él. Tú te crees rico al poseerlo y Yo reconozco tu riqueza cuando te desapegas de él. ¡Por Mi vida! Esto es Mi sabiduría, y aquello, tu fantasía; ¿cómo puede Mi parecer concordar con el tuyo?"
         }
       ]
@@ -3130,7 +3141,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/5/Text/24",
-          "similarity": 0.34548658,
+          "similarity": 0.27447549,
           "pdf_text": "Reparte Mi riqueza entre Mis pobres, para que en el cielo accedas a reservas de esplendor inagotable y a tesoros de gloria perdurable. Mas, por Mi vida, ofrendar tu alma es algo aún más glorioso, si con Mis ojos vieras."
         }
       ]
@@ -3165,9 +3176,19 @@
       "xml_text": "60\n                           \n                           O Son of Man!\n                           Put thy hand into My bosom, that I may rise above thee, radiant and resplendent.",
       "top_matches": [
         {
-          "pdf_block_id": "/page/6/Text/5",
-          "similarity": 0.24814214,
-          "pdf_text": "Pon tu mano en Mi pecho para que, radiante y luminoso, Me eleve sobre ti."
+          "pdf_block_id": "/page/3/SectionHeader/0",
+          "similarity": 0.14556377,
+          "pdf_text": "21. ¡OH HIJO DEL HOMBRE!"
+        },
+        {
+          "pdf_block_id": "/page/6/SectionHeader/20",
+          "similarity": 0.14389867,
+          "pdf_text": "68. ¡OH HIJOS DE LOS HOMBRES!"
+        },
+        {
+          "pdf_block_id": "/page/14/SectionHeader/4",
+          "similarity": 0.13778612,
+          "pdf_text": "55. ¡OH HIJO DE LA PASIÓN!"
         }
       ]
     },
@@ -3182,7 +3203,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/6/Text/7",
-          "similarity": 0.21184123,
+          "similarity": 0.25329596,
           "pdf_text": "Elévate hacia Mi cielo, para alcanzar la alegría del encuentro y libar el vino más selecto del cáliz de gloria perdurable."
         }
       ]
@@ -3198,7 +3219,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/6/Text/9",
-          "similarity": 0.29281542,
+          "similarity": 0.20114407,
           "pdf_text": "Muchos días han pasado sobre ti, ocupado en tus quimeras y vanas imaginaciones. ¿Hasta cuándo seguirás en tu lecho, adormecido? Despierta del letargo, pues el Sol ha llegado a su cénit y, tal vez, resplandezca sobre ti con la luz de la belleza."
         }
       ]
@@ -3214,17 +3235,17 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/6/SectionHeader/14",
-          "similarity": 0.32815376,
+          "similarity": 0.27815378,
           "pdf_text": "65. ¡OH HIJO DEL HOMBRE!"
         },
         {
           "pdf_block_id": "/page/6/SectionHeader/8",
-          "similarity": 0.32661378,
+          "similarity": 0.2766138,
           "pdf_text": "62. ¡OH HIJO DEL HOMBRE!"
         },
         {
           "pdf_block_id": "/page/6/SectionHeader/10",
-          "similarity": 0.32639176,
+          "similarity": 0.27639174,
           "pdf_text": "63. ¡OH HIJO DEL HOMBRE!"
         }
       ]
@@ -3240,7 +3261,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/6/Text/13",
-          "similarity": 0.23476596,
+          "similarity": 0.22124827,
           "pdf_text": "Mi eternidad es Mi creación; para ti la he creado. Viste tu templo con ella. Mi unidad es obra de Mis manos; para ti la he labrado. Atavíate con ella para que seas por siempre la revelación de Mi ser imperecedero."
         }
       ]
@@ -3256,7 +3277,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/6/Text/15",
-          "similarity": 0.25989613,
+          "similarity": 0.26827368,
           "pdf_text": "Mi majestad es Mi regalo para ti, y Mi grandeza, la muestra de Mi favor para contigo. Aquello que es digno de Mí, nadie podrá comprenderlo, ni persona alguna exponerlo. Ciertamente, en Mis depósitos ocultos y en los tesoros de Mi mandato lo he guardado, en señal de Mi amorosa bondad hacia Mis siervos y Mi misericordia hacia Mi pueblo."
         }
       ]
@@ -3272,8 +3293,13 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/6/Text/17",
-          "similarity": 0.27664578,
+          "similarity": 0.23920853,
           "pdf_text": "Se os hará difícil amarme y las almas se sentirán inquietas al hacer mención de Mí. Porque las mentes no pueden comprenderme, ni los corazones, contenerme."
+        },
+        {
+          "pdf_block_id": "/page/6/SectionHeader/16",
+          "similarity": 0.17609292,
+          "pdf_text": "66. ¡OH HIJOS DE LA ESENCIA DIVINA E INVISIBLE!"
         }
       ]
     },
@@ -3287,14 +3313,14 @@
       "xml_text": "67\n                           \n                           O Son of Beauty!\n                           By My spirit and by My favor! By My mercy and by My beauty! All that I have revealed unto thee with the tongue of power, and have written for  thee with the pen of might, hath been in accordance with thy capacity and understanding, not with My state and the melody of My voice.",
       "top_matches": [
         {
-          "pdf_block_id": "/page/6/SectionHeader/18",
-          "similarity": 0.31433645,
-          "pdf_text": "67. ¡OH HIJO DE LA BELLEZA!"
+          "pdf_block_id": "/page/6/Text/19",
+          "similarity": 0.33395436,
+          "pdf_text": "¡Por Mi espíritu y Mi favor! ¡Por Mi merced y Mi belleza! Todo lo que te he revelado con la lengua del poder y te he escrito con la pluma de la fuerza ha sido conforme a tu capacidad y entendimiento, no conforme a Mi rango, ni a la melodía de Mi voz."
         },
         {
-          "pdf_block_id": "/page/6/Text/19",
-          "similarity": 0.22203025,
-          "pdf_text": "¡Por Mi espíritu y Mi favor! ¡Por Mi merced y Mi belleza! Todo lo que te he revelado con la lengua del poder y te he escrito con la pluma de la fuerza ha sido conforme a tu capacidad y entendimiento, no conforme a Mi rango, ni a la melodía de Mi voz."
+          "pdf_block_id": "/page/6/SectionHeader/18",
+          "similarity": 0.17036323,
+          "pdf_text": "67. ¡OH HIJO DE LA BELLEZA!"
         }
       ]
     },
@@ -3309,7 +3335,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/6/Text/21",
-          "similarity": 0.21680743,
+          "similarity": 0.32591966,
           "pdf_text": "¿Acaso no sabéis por qué os hemos creado a todos de la misma arcilla? Para que nadie se ensalce a sí mismo por encima de otro. Meditad siempre con el corazón sobre cómo fuisteis creados. Ya que os hemos creado a todos de una sola substancia, os corresponde ser como una sola alma, caminar con los mismos pies, comer con la misma boca y habitar en la misma tierra, para que de lo más íntimo de vuestro ser, mediante vuestros hechos y acciones, se pongan de manifiesto las señales de la unicidad y la esencia del desprendimiento. Este es Mi consejo para vosotros, oh concurso de luz. Prestadle atención, y alcanzaréis el fruto de la santidad que proviene del árbol de maravillosa gloria."
         }
       ]
@@ -3324,8 +3350,13 @@
       "xml_text": "69\n                           \n                           O Ye Sons of Spirit!\n                           Ye are My treasury, for in you I have treasured the pearls of My mysteries and the gems of My knowledge. Guard them from the strangers amidst My servants and from the ungodly amongst My people.",
       "top_matches": [
         {
+          "pdf_block_id": "/page/6/Text/15",
+          "similarity": 0.29794744,
+          "pdf_text": "Mi majestad es Mi regalo para ti, y Mi grandeza, la muestra de Mi favor para contigo. Aquello que es digno de Mí, nadie podrá comprenderlo, ni persona alguna exponerlo. Ciertamente, en Mis depósitos ocultos y en los tesoros de Mi mandato lo he guardado, en señal de Mi amorosa bondad hacia Mis siervos y Mi misericordia hacia Mi pueblo."
+        },
+        {
           "pdf_block_id": "/page/7/Text/1",
-          "similarity": 0.27052256,
+          "similarity": 0.28081012,
           "pdf_text": "Vosotros sois Mi tesoro, pues en vosotros he depositado las perlas de Mis misterios y las gemas de Mi saber. Protegedlas de los extraños de entre Mis siervos y los impíos de entre Mi pueblo."
         }
       ]
@@ -3341,7 +3372,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/7/Text/40",
-          "similarity": 0.3731535,
+          "similarity": 0.49163303,
           "pdf_text": "70. ¡OH HIJO DE QUIEN SE MANTUVO FIEL A SU PROPIO SER EN EL REINO DE SÍ MISMO! Sabe que sobre ti he rociado todas las fragancias de santidad y te he revelado plenamente Mi palabra; mediante ti he perfeccionado Mi generosidad y para ti he deseado lo que he deseado para Mi propio Ser. Conténtate, pues, con Mi agrado, y sé agradecido conmigo."
         }
       ]
@@ -3354,24 +3385,12 @@
     {
       "xml_element_id": "296667998",
       "xml_text": "71\n                           \n                           \n                           O Son of Man!\n                           Write all that We have revealed unto thee with the ink of light upon the tablet of thy spirit. Should this not be in thy power, then make thine ink of the essence of thy heart. If this thou canst not do, then write with that crimson ink that hath been shed in My path. Sweeter indeed is this to Me than all else, that its light may endure forever.",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/7/Text/4",
-          "similarity": 0.39669985,
-          "pdf_text": "En la tabla de tu espíritu, escribe con tinta de luz todo aquello que te hemos revelado. Si no te fuera posible, haz tu tinta con la esencia de tu corazón. Si tampoco pudieras hacerlo, escribe entonces con esa tinta carmesí que ha sido derramada en Mi sendero. Para Mí, eso es mucho más dulce que cualquier otra cosa; así, su luz perdure para siempre."
-        }
-      ]
+      "top_matches": []
     },
     {
       "xml_element_id": "305986377",
       "xml_text": "Part Two",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/8/SectionHeader/0",
-          "similarity": 0.15095599,
-          "pdf_text": "Parte II"
-        }
-      ]
+      "top_matches": []
     },
     {
       "xml_element_id": "643519412",
@@ -3414,7 +3433,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/8/Text/8",
-          "similarity": 0.28585276,
+          "similarity": 0.3116563,
           "pdf_text": "En el jardín de tu corazón no plantes sino la rosa del amor, y no dejes escapar al ruiseñor del afecto y del anhelo. Atesora la compañía de los justos y rehúye todo trato con los impíos."
         }
       ]
@@ -3430,7 +3449,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/8/Text/10",
-          "similarity": 0.25319007,
+          "similarity": 0.23590808,
           "pdf_text": "¿Adónde puede ir un amante sino a la tierra de su amada? ¿Y qué buscador encuentra descanso lejos del deseo de su corazón? Para el verdadero amante, la reunión es vida, y la separación, muerte. Vacío de paciencia está su pecho, y su corazón no encuentra sosiego. Miríadas de vidas daría por ir presuroso a la morada de su amada."
         }
       ]
@@ -3443,13 +3462,7 @@
     {
       "xml_element_id": "646280975",
       "xml_text": "5\n                           \n                           O Son of Dust!\n                           Verily I say unto thee: Of all men the most negligent is he that disputeth idly and seeketh  to advance himself over his brother. Say: O brethren! Let deeds, not words, be your adorning.",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/8/Text/12",
-          "similarity": 0.26758498,
-          "pdf_text": "En verdad te digo: de todos los seres, el más negligente es aquel que discute inútilmente y aspira a aventajar a su hermano. Di: ¡Oh compañeros! Que las acciones, y no las palabras, sean vuestro ornamento."
-        }
-      ]
+      "top_matches": []
     },
     {
       "xml_element_id": "251865239",
@@ -3459,13 +3472,7 @@
     {
       "xml_element_id": "909712031",
       "xml_text": "6\n                           \n                           O Son of Earth!\n                           Know, verily, the heart wherein the least remnant of envy yet lingers, shall never attain My everlasting dominion, nor inhale the sweet savors of holiness breathing from My kingdom of sanctity.",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/5/Text/17",
-          "similarity": 0.19452088,
-          "pdf_text": "Si tu corazón anhela ese dominio eterno e imperecedero, esa vida antigua y sempiterna, renuncia a este poderío efímero y mortal."
-        }
-      ]
+      "top_matches": []
     },
     {
       "xml_element_id": "491824404",
@@ -3478,7 +3485,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/8/Text/16",
-          "similarity": 0.20384549,
+          "similarity": 0.29615858,
           "pdf_text": "Estás a tan solo un paso de las sublimes cúspides de la cercanía y del árbol celestial del amor. Da el primer paso y, con el siguiente, avanza hacia el dominio imperecedero y entra en el pabellón de la eternidad. Presta oído, entonces, a lo que ha revelado la Pluma de Gloria."
         }
       ]
@@ -3494,12 +3501,12 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/8/Text/18",
-          "similarity": 0.30583006,
+          "similarity": 0.21906579,
           "pdf_text": "Camina presuroso por el sendero de la santidad y entra en el cielo de la comunión conmigo. Limpia tu corazón con el pulimento del espíritu y dirígete a la corte del Altísimo."
         },
         {
           "pdf_block_id": "/page/12/Text/14",
-          "similarity": 0.22914253,
+          "similarity": 0.20830527,
           "pdf_text": "Purifica tu corazón de toda malicia y, libre de envidia, entra en la divina corte de la santidad."
         }
       ]
@@ -3515,7 +3522,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/8/Text/20",
-          "similarity": 0.3128773,
+          "similarity": 0.33813876,
           "pdf_text": "Deja atrás las etapas inferiores de la duda y asciende a las sublimes alturas de la certeza. Abre el ojo de la realidad para que puedas contemplar la Belleza desvelada y exclamar: ¡Santificado sea el Señor, el más excelente de los creadores!"
         }
       ]
@@ -3531,7 +3538,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/9/Text/1",
-          "similarity": 0.33790845,
+          "similarity": 0.27520496,
           "pdf_text": "Presta oído atento: jamás ojos mortales reconocerán la Belleza sempiterna, ni el corazón sin vida se deleitará en otra cosa que no sea la flor marchita, pues cada cual busca su igual y goza de la compañía de sus semejantes."
         }
       ]
@@ -3547,7 +3554,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/9/Text/3",
-          "similarity": 0.27380478,
+          "similarity": 0.40884885,
           "pdf_text": "Ciega los ojos para contemplar Mi belleza; cierra los oídos para escuchar la dulce melodía de Mi voz; vacíate de todo saber para participar de Mi conocimiento; y purifícate de riquezas para obtener una parte perdurable del océano de Mi eterna abundancia. Ciega los ojos, es decir, a todo, salvo a Mi belleza; cierra los oídos a todo, excepto a Mi palabra; y vacíate de todo saber, salvo del conocimiento de Mí, para que, con visión clara, corazón puro y oído atento, puedas entrar en la corte de Mi santidad"
         }
       ]
@@ -3572,14 +3579,14 @@
       "xml_text": "13\n                           \n                           O My Children!\n                           I fear lest, bereft of the melody of the dove of heaven, ye will sink back to the shades of utter loss, and, never having gazed upon the beauty of the rose, return to water and clay.",
       "top_matches": [
         {
-          "pdf_block_id": "/page/9/Text/7",
-          "similarity": 0.26342985,
-          "pdf_text": "Temo que, privados de la melodía de la paloma celestial, os hundáis nuevamente en las sombras de la perdición absoluta y, sin haber presenciado nunca la belleza de la rosa, al agua y a la arcilla retornéis."
+          "pdf_block_id": "/page/14/Text/17",
+          "similarity": 0.41527134,
+          "pdf_text": "Del insondable océano de Mi misericordia, he salpicado una gota de rocío sobre los pueblos del mundo, mas a nadie he encontrado que se vuelva hacia ella; pues todos han trocado el vino celestial de la unidad por las fétidas escorias de la impureza y, contentos con una copa mortal, han renunciado al cáliz de la inmortal belleza. Infame es aquello con lo que se contentan."
         },
         {
-          "pdf_block_id": "/page/14/Text/17",
-          "similarity": 0.2237024,
-          "pdf_text": "Del insondable océano de Mi misericordia, he salpicado una gota de rocío sobre los pueblos del mundo, mas a nadie he encontrado que se vuelva hacia ella; pues todos han trocado el vino celestial de la unidad por las fétidas escorias de la impureza y, contentos con una copa mortal, han renunciado al cáliz de la inmortal belleza. Infame es aquello con lo que se contentan."
+          "pdf_block_id": "/page/9/Text/7",
+          "similarity": 0.41079053,
+          "pdf_text": "Temo que, privados de la melodía de la paloma celestial, os hundáis nuevamente en las sombras de la perdición absoluta y, sin haber presenciado nunca la belleza de la rosa, al agua y a la arcilla retornéis."
         }
       ]
     },
@@ -3594,12 +3601,12 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/9/Text/1",
-          "similarity": 0.30655485,
+          "similarity": 0.22762963,
           "pdf_text": "Presta oído atento: jamás ojos mortales reconocerán la Belleza sempiterna, ni el corazón sin vida se deleitará en otra cosa que no sea la flor marchita, pues cada cual busca su igual y goza de la compañía de sus semejantes."
         },
         {
           "pdf_block_id": "/page/9/Text/9",
-          "similarity": 0.2686615,
+          "similarity": 0.22315224,
           "pdf_text": "No renunciéis a la belleza sempiterna por una belleza que ha de morir, ni pongáis vuestros afectos en este mundo mortal de polvo."
         }
       ]
@@ -3612,7 +3619,13 @@
     {
       "xml_element_id": "411149860",
       "xml_text": "15\n                           \n                           O Son of Spirit!\n                           The time cometh, when the nightingale of holiness will no longer unfold the inner mysteries and ye will all be bereft of the celestial melody and of the voice from on high.",
-      "top_matches": []
+      "top_matches": [
+        {
+          "pdf_block_id": "/page/9/Text/11",
+          "similarity": 0.22808097,
+          "pdf_text": "Llegará el tiempo en que el ruiseñor de la santidad ya no revele los misterios íntimos, y estaréis todos privados de la melodía celestial y de la voz que proviene de lo alto."
+        }
+      ]
     },
     {
       "xml_element_id": "166509933",
@@ -3625,7 +3638,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/9/Text/13",
-          "similarity": 0.31679446,
+          "similarity": 0.30910254,
           "pdf_text": "Miríadas de lenguas místicas se expresan en una sola voz, y miríadas de misterios ocultos se revelan en una sola melodía; pero, ¡ay! no se encuentra oído que oiga, ni corazón que comprenda."
         }
       ]
@@ -3641,12 +3654,12 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/9/Text/15",
-          "similarity": 0.4862932,
+          "similarity": 0.20783475,
           "pdf_text": "Abiertas de par en par están las puertas que llevan a Aquel que no ocupa lugar, y la estancia del amado está adornada con la sangre de los amantes; mas, salvo unos pocos, todos siguen apartados de esta ciudad celestial; y aun entre esos pocos, solo se ha encontrado un número ínfimo con corazón puro y espíritu santificado."
         },
         {
           "pdf_block_id": "/page/10/SectionHeader/7",
-          "similarity": 0.15483315,
+          "similarity": 0.20698532,
           "pdf_text": "23. ¡OH HABITANTES DE LA CIUDAD DEL AMOR!"
         }
       ]
@@ -3661,19 +3674,19 @@
       "xml_text": "18\n                           \n                           O Ye Dwellers in the Highest Paradise!\n                           Proclaim unto the children of assurance that within the realms of holiness, nigh unto the celestial paradise, a new garden hath appeared, round which circle the denizens of the realm on high and the immortal dwellers of the exalted paradise. Strive, then, that ye may attain that station, that ye may unravel the mysteries of love from its windflowers and learn the secret of divine and consummate wisdom from its eternal fruits. Solaced are the eyes of them that enter and abide therein!",
       "top_matches": [
         {
-          "pdf_block_id": "/page/9/SectionHeader/16",
-          "similarity": 0.35918772,
-          "pdf_text": "18. ¡OH MORADORES DEL ALTÍSIMO PARAÍSO!"
-        },
-        {
-          "pdf_block_id": "/page/11/SectionHeader/14",
-          "similarity": 0.3446594,
-          "pdf_text": "34. ¡OH MORADORES DE MI PARAÍSO!"
-        },
-        {
           "pdf_block_id": "/page/9/Text/17",
-          "similarity": 0.2269965,
+          "similarity": 0.40702397,
           "pdf_text": "Proclamad a los hijos de la certeza que, en los dominios de la santidad, cerca del paraíso celestial, ha aparecido un nuevo jardín, en torno al cual giran los habitantes del dominio de lo alto y los moradores inmortales del exaltado paraíso. Esforzaos, entonces, por alcanzar esa posición, para que de sus anémonas desentrañéis los misterios del amor, y de sus eternos frutos aprendáis el secreto de la divina y consumada sabiduría. ¡Solazados los ojos de quienes allí entran y permanecen!"
+        },
+        {
+          "pdf_block_id": "/page/8/Text/16",
+          "similarity": 0.28044948,
+          "pdf_text": "Estás a tan solo un paso de las sublimes cúspides de la cercanía y del árbol celestial del amor. Da el primer paso y, con el siguiente, avanza hacia el dominio imperecedero y entra en el pabellón de la eternidad. Presta oído, entonces, a lo que ha revelado la Pluma de Gloria."
+        },
+        {
+          "pdf_block_id": "/page/1/Text/16",
+          "similarity": 0.26292843,
+          "pdf_text": "Mi amor es tu paraíso, y la reunión conmigo, tu morada celestial. Entra, no te demores. Esto es lo que ha sido destinado para ti en Nuestro reino de lo alto y en Nuestro exaltado dominio."
         }
       ]
     },
@@ -3687,19 +3700,19 @@
       "xml_text": "19\n                           \n                           O My Friends!\n                           Have ye forgotten that true and radiant morn, when in those hallowed and blessed surroundings  ye were all gathered in My presence beneath the shade of the tree of life, which is planted in the all-glorious paradise? Awestruck ye listened as I gave utterance to these three most holy words: O friends! Prefer not your will to Mine, never desire that which I have not desired for you, and approach Me not with lifeless hearts, defiled with worldly desires and cravings. Would ye but sanctify your souls, ye would at this present hour recall that place and those surroundings, and the truth of My utterance should be made evident unto all of you.",
       "top_matches": [
         {
+          "pdf_block_id": "/page/9/Text/19",
+          "similarity": 0.417678,
+          "pdf_text": "¿Habéis olvidado aquella verdadera y radiante mañana en la que os hallabais todos reunidos en Mi presencia, en aquellos santos y benditos parajes, a la sombra del árbol de la vida que está plantado en el paraíso todoglorioso? Me escuchabais sobrecogidos mientras pronunciaba estas tres santísimas palabras: ¡Oh amigos! No prefiráis vuestra voluntad a la Mía; jamás deseéis aquello que Yo no he deseado para vosotros, y no os acerquéis a Mí con corazones sin vida,"
+        },
+        {
+          "pdf_block_id": "/page/11/SectionHeader/14",
+          "similarity": 0.15418828,
+          "pdf_text": "34. ¡OH MORADORES DE MI PARAÍSO!"
+        },
+        {
           "pdf_block_id": "/page/12/SectionHeader/15",
-          "similarity": 0.18189576,
+          "similarity": 0.14611655,
           "pdf_text": "43. ¡OH MIS AMIGOS!"
-        },
-        {
-          "pdf_block_id": "/page/9/SectionHeader/18",
-          "similarity": 0.17906821,
-          "pdf_text": "19. ¡OH AMIGOS MÍOS!"
-        },
-        {
-          "pdf_block_id": "/page/9/SectionHeader/8",
-          "similarity": 0.1789155,
-          "pdf_text": "14. ¡OH AMIGOS!"
         }
       ]
     },
@@ -3709,7 +3722,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/10/SectionHeader/1",
-          "similarity": 0.24458627,
+          "similarity": 0.25545636,
           "pdf_text": "En la octava de las santísimas líneas de la quinta Tabla del Paraíso, Él dice:"
         }
       ]
@@ -3725,7 +3738,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/10/Text/163",
-          "similarity": 0.36424887,
+          "similarity": 0.42532247,
           "pdf_text": "20. ¡OH VOSOTROS QUE YACÉIS COMO MUERTOS EN EL LECHO DE LA NEGLIGENCIA! Han transcurrido siglos, y vuestras preciosas vidas están llegando a su fin; sin embargo, ni un solo hálito de pureza ha ascendido de vosotros a Nuestra corte de santidad. Aunque inmersos en el océano de la falsedad, vuestros labios profesan la única y verdadera fe de Dios. Habéis amado a quien Yo detesto y habéis hecho un amigo de Mi enemigo. Y, aun así, camináis por Mi tierra, complacidos y contentos, sin reparar en que Mi tierra está aborrecida de vosotros y que os rehúye todo cuanto hay en ella. Si tan solo abrierais los ojos, sin duda preferiríais cien mil aflicciones a esta alegría y estimaríais la muerte más que esta vida."
         }
       ]
@@ -3741,7 +3754,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/10/Text/4",
-          "similarity": 0.19624329,
+          "similarity": 0.2556765,
           "pdf_text": "Yo anhelo la comunión contigo, pero tú no confías en Mí. La espada de la rebelión ha derribado el árbol de tu esperanza. Yo, en todo momento, estoy cerca de ti, pero tú siempre estás lejos de Mí. Gloria imperecedera he elegido para ti, pero vergüenza ilimitada has elegido para ti mismo. Mientras aún haya tiempo, regresa y no pierdas la oportunidad."
         }
       ]
@@ -3767,7 +3780,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/10/SectionHeader/7",
-          "similarity": 0.13244541,
+          "similarity": 0.13109967,
           "pdf_text": "23. ¡OH HABITANTES DE LA CIUDAD DEL AMOR!"
         }
       ]
@@ -3780,13 +3793,7 @@
     {
       "xml_element_id": "904750204",
       "xml_text": "24\n                           \n                           O Ye That Are Foolish, Yet Have a Name to Be Wise!\n                           Wherefore do ye wear the guise of shepherds, when inwardly ye have become wolves, intent upon My flock? Ye are even as the star, which riseth ere the dawn, and which, though it seem radiant and luminous, leadeth the wayfarers of My city astray into the paths of perdition.",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/10/Text/10",
-          "similarity": 0.34815538,
-          "pdf_text": "¿Por qué os disfrazáis de pastores, cuando por dentro os habéis convertido en lobos al acecho de Mi rebaño? Sois como la estrella que asoma antes del alba y que, si bien parece radiante y luminosa, desvía a los caminantes de Mi ciudad hacia los senderos de la perdición."
-        }
-      ]
+      "top_matches": []
     },
     {
       "xml_element_id": "073300678",
@@ -3799,7 +3806,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/10/Text/12",
-          "similarity": 0.19393222,
+          "similarity": 0.2973449,
           "pdf_text": "Sois como agua clara pero amarga, de apariencia pura y cristalina, que cuando la prueba el Catador divino no acepta de ella ni una gota siquiera. Es cierto, el rayo del sol cae por igual sobre el polvo y el espejo, pero la diferencia en su reflejo es como la de la estrella y la tierra. Más aún, ¡inmensurable es la diferencia!"
         }
       ]
@@ -3814,14 +3821,19 @@
       "xml_text": "26\n                           \n                           O My Friend in Word!\n                           Ponder awhile. Hast thou ever heard that friend and foe should abide in one heart? Cast out then the stranger, that the Friend may enter His home.",
       "top_matches": [
         {
-          "pdf_block_id": "/page/10/Text/14",
-          "similarity": 0.24659684,
-          "pdf_text": "Reflexiona un momento. ¿Has oído alguna vez que amigo y enemigo habiten en un mismo corazón? Expulsa, entonces, al extraño para que el Amigo entre en Su morada."
+          "pdf_block_id": "/page/14/SectionHeader/14",
+          "similarity": 0.36839804,
+          "pdf_text": "60. ¡OH AMIGOS!"
         },
         {
-          "pdf_block_id": "/page/14/SectionHeader/14",
-          "similarity": 0.13378277,
-          "pdf_text": "60. ¡OH AMIGOS!"
+          "pdf_block_id": "/page/9/SectionHeader/8",
+          "similarity": 0.35944158,
+          "pdf_text": "14. ¡OH AMIGOS!"
+        },
+        {
+          "pdf_block_id": "/page/16/SectionHeader/0",
+          "similarity": 0.31313854,
+          "pdf_text": "73. ¡OH MI AMIGO!"
         }
       ]
     },
@@ -3836,7 +3848,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/11/Text/1",
-          "similarity": 0.38618845,
+          "similarity": 0.43395108,
           "pdf_text": "Todo cuanto hay en el cielo y en la tierra lo he dispuesto para ti, salvo el corazón humano, que he destinado como aposento de Mi belleza y de Mi gloria; pero tú entregaste Mi hogar y Mi morada a otro que no era Yo; y, cuandoquiera que la manifestación de Mi santidad acudía a Su propia morada, hallaba allí a un extraño y, sin hogar, tornaba presurosa al santuario del Bienamado. No obstante, he ocultado tu secreto y no he deseado tu vergüenza."
         }
       ]
@@ -3851,14 +3863,14 @@
       "xml_text": "28\n                           \n                           O Essence of Desire!\n                           At many a dawn have I turned from the realms of the Placeless unto thine abode, and found thee on  the bed of ease busied with others than Myself. Thereupon, even as the flash of the spirit, I returned to the realms of celestial glory and breathed it not in My retreats above unto the hosts of holiness.",
       "top_matches": [
         {
-          "pdf_block_id": "/page/11/Text/3",
-          "similarity": 0.39490813,
-          "pdf_text": "Muchos días, al amanecer, he bajado a tu morada desde los dominios de Quien no ocupa lugar, y te he hallado en el lecho de la holganza, ocupado con otros en lugar de conmigo. En seguida, cual relámpago del espíritu, regresé a los dominios de gloria celestial y, en Mis retiros de lo alto, no se lo mencioné a las huestes de la santidad."
+          "pdf_block_id": "/page/11/SectionHeader/2",
+          "similarity": 0.2664919,
+          "pdf_text": "28. ¡OH ESENCIA DEL DESEO!"
         },
         {
-          "pdf_block_id": "/page/11/SectionHeader/2",
-          "similarity": 0.13430686,
-          "pdf_text": "28. ¡OH ESENCIA DEL DESEO!"
+          "pdf_block_id": "/page/11/Text/3",
+          "similarity": 0.20699467,
+          "pdf_text": "Muchos días, al amanecer, he bajado a tu morada desde los dominios de Quien no ocupa lugar, y te he hallado en el lecho de la holganza, ocupado con otros en lugar de conmigo. En seguida, cual relámpago del espíritu, regresé a los dominios de gloria celestial y, en Mis retiros de lo alto, no se lo mencioné a las huestes de la santidad."
         }
       ]
     },
@@ -3873,7 +3885,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/11/Text/5",
-          "similarity": 0.19924822,
+          "similarity": 0.30690175,
           "pdf_text": "De los desiertos de la nada, con la arcilla de Mi mandato, te hice aparecer y dispuse para tu educación cada átomo existente y la esencia de todo lo creado. Así, antes de que salieras del vientre de tu madre, destiné para ti dos manantiales de leche reluciente, ojos que velasen por ti y corazones que te amasen. En virtud de Mi tierna bondad, a la sombra de Mi misericordia te crie, y por la esencia de Mi gracia y Mi favor cuidé de ti. Y Mi propósito en todo esto era que alcanzaras Mi dominio sempiterno y llegaras a ser digno de Mis dádivas invisibles. Y, sin embargo, permaneciste desatento y, cuando hubiste crecido, olvidaste todos Mis favores y te entregaste a tus ociosas imaginaciones, de tal modo que te volviste totalmente olvidadizo y, alejándote de la puerta del Amigo, te alojaste en los recintos de Mi enemigo."
         }
       ]
@@ -3899,7 +3911,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/11/Text/9",
-          "similarity": 0.35431063,
+          "similarity": 0.2324321,
           "pdf_text": "Si Me deseas, no busques a nadie más que a Mí; y si quieres contemplar Mi belleza, cierra los ojos al mundo y a todo cuanto hay en él; pues Mi voluntad y la voluntad de otro que no sea Yo, al igual que el fuego y el agua, no pueden habitar en un mismo corazón."
         }
       ]
@@ -3924,19 +3936,14 @@
       "xml_text": "33\n                           \n                           O My Brother!\n                           Hearken to the delightsome words of My honeyed tongue, and quaff the stream of mystic holiness from My sugar-shedding lips. Sow the seeds of My  divine wisdom in the pure soil of thy heart, and water them with the water of certitude, that the hyacinths of My knowledge and wisdom may spring up fresh and green in the sacred city of thy heart.",
       "top_matches": [
         {
-          "pdf_block_id": "/page/16/Text/11",
-          "similarity": 0.37763265,
-          "pdf_text": "Bebe de la boca del misericordioso la corriente de misterio divino, y contempla el esplendor manifiesto del sol de la sabiduría en la aurora de la expresión divina. Siembra las semillas de Mi sabiduría divina en la tierra pura del corazón y riégalas con las aguas de la certeza, para que broten verdes y lozanos los jacintos del conocimiento y la sabiduría en la ciudad sagrada del corazón."
-        },
-        {
           "pdf_block_id": "/page/11/Text/13",
-          "similarity": 0.373139,
+          "similarity": 0.47969413,
           "pdf_text": "Escucha las deliciosas palabras de Mi lengua almibarada y bebe del arroyo de mística santidad que fluye de Mis labios azucarados. Siembra las semillas de Mi sabiduría divina en la tierra pura de tu corazón y riégalas con el agua de la certeza, para que los jacintos de Mi conocimiento y sabiduría broten verdes y lozanos en la sagrada ciudad de tu corazón."
         },
         {
-          "pdf_block_id": "/page/13/SectionHeader/7",
-          "similarity": 0.14746639,
-          "pdf_text": "48. ¡OH HERMANOS!"
+          "pdf_block_id": "/page/16/Text/11",
+          "similarity": 0.44793528,
+          "pdf_text": "Bebe de la boca del misericordioso la corriente de misterio divino, y contempla el esplendor manifiesto del sol de la sabiduría en la aurora de la expresión divina. Siembra las semillas de Mi sabiduría divina en la tierra pura del corazón y riégalas con las aguas de la certeza, para que broten verdes y lozanos los jacintos del conocimiento y la sabiduría en la ciudad sagrada del corazón."
         }
       ]
     },
@@ -3951,7 +3958,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/11/Text/15",
-          "similarity": 0.36309272,
+          "similarity": 0.22798677,
           "pdf_text": "Con las manos de Mi tierna bondad he plantado en el santo jardín del paraíso el joven árbol de vuestro amor y vuestra amistad, y lo he regado con las abundantes lluvias de Mi tierno favor. Ahora que ha llegado el tiempo de dar sus frutos, esforzaos por mantenerlo protegido, para que no se consuma con las llamas del deseo y la pasión."
         }
       ]
@@ -3967,7 +3974,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/11/Text/17",
-          "similarity": 0.32171622,
+          "similarity": 0.20804353,
           "pdf_text": "Extinguid la lámpara del error y encended en vuestro corazón la antorcha perdurable de la guía divina. Pues, en breve, los tasadores de la humanidad, en la santa presencia del Adorado, no aceptarán sino la más pura virtud y hechos de inmaculada santidad."
         }
       ]
@@ -3983,7 +3990,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/12/Text/1",
-          "similarity": 0.42871356,
+          "similarity": 0.21437308,
           "pdf_text": "Sabios son quienes no hablan si no hay oídos que escuchen, como el copero que no ofrece su copa hasta encontrar al sediento, y el amante que no exclama desde el fondo de su corazón hasta contemplar la belleza de su amada. Por tanto, siembra las semillas de la sabiduría y el conocimiento en la tierra pura del corazón, y ocúltalas hasta que los jacintos de la sabiduría divina broten del corazón, y no del lodo y la arcilla."
         }
       ]
@@ -3994,12 +4001,12 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/12/Text/2",
-          "similarity": 0.38069612,
+          "similarity": 0.27666095,
           "pdf_text": "Escrito y registrado en la primera línea de la Tabla, y oculto en el santuario del tabernáculo de Dios, consta así:"
         },
         {
           "pdf_block_id": "/page/13/Text/6",
-          "similarity": 0.3135236,
+          "similarity": 0.20521109,
           "pdf_text": "En la tercera de las santísimas líneas que la pluma del invisible ha escrito y consignado en la Tabla Rubí, consta así:"
         }
       ]
@@ -4015,7 +4022,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/12/Text/4",
-          "similarity": 0.20775698,
+          "similarity": 0.28778183,
           "pdf_text": "No renuncies a un dominio sempiterno a cambio de aquello que perece, ni deseches la soberanía celestial por un deseo mundano. Esta es el agua de vida eterna que ha brotado del manantial de la pluma del misericordioso. ¡Dichosos los que beben de ella!"
         }
       ]
@@ -4041,7 +4048,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/12/Text/8",
-          "similarity": 0.4023907,
+          "similarity": 0.4001928,
           "pdf_text": "No te contentes con el bienestar de un día pasajero, y no te prives de un reposo sempiterno. No trueques el jardín de felicidad eterna por el cúmulo de polvo de un mundo perecedero. Asciende desde tu prisión a las gloriosas praderas de lo alto y, desde tu jaula mortal, remonta el vuelo hacia el paraíso de Aquel que no ocupa lugar."
         }
       ]
@@ -4057,12 +4064,12 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/12/Text/10",
-          "similarity": 0.28085825,
+          "similarity": 0.27675596,
           "pdf_text": "Libérate de las cadenas de este mundo y redime tu alma de la prisión del yo. Aprovecha tu oportunidad, pues no volverá a ti nunca más."
         },
         {
           "pdf_block_id": "/page/6/Text/3",
-          "similarity": 0.27460754,
+          "similarity": 0.2707671,
           "pdf_text": "Tu corazón es Mi morada; santifícalo para Mi descenso. Tu espíritu es la sede de Mi revelación; purifícalo para que en él Me manifieste."
         }
       ]
@@ -4078,7 +4085,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/12/Text/12",
-          "similarity": 0.23035938,
+          "similarity": 0.30751255,
           "pdf_text": "Si pudieras contemplar la soberanía inmortal, aspirarías a abandonar este mundo efímero. Mas ocultarte aquella y desvelarte este es un misterio que nadie, salvo los puros de corazón, puede comprender."
         }
       ]
@@ -4094,12 +4101,12 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/8/Text/18",
-          "similarity": 0.23384716,
+          "similarity": 0.23915055,
           "pdf_text": "Camina presuroso por el sendero de la santidad y entra en el cielo de la comunión conmigo. Limpia tu corazón con el pulimento del espíritu y dirígete a la corte del Altísimo."
         },
         {
           "pdf_block_id": "/page/12/Text/14",
-          "similarity": 0.22936049,
+          "similarity": 0.23233265,
           "pdf_text": "Purifica tu corazón de toda malicia y, libre de envidia, entra en la divina corte de la santidad."
         }
       ]
@@ -4112,7 +4119,13 @@
     {
       "xml_element_id": "452186269",
       "xml_text": "43\n                           \n                           O My Friends!\n                           Walk ye in the ways of the good pleasure of the Friend, and know that His pleasure is in the pleasure of His creatures. That is: no man should enter the house of his friend save at his friend’s pleasure, nor lay hands upon his treasures nor prefer his own will to his friend’s, and in no wise seek an advantage over him. Ponder this, ye that have insight!",
-      "top_matches": []
+      "top_matches": [
+        {
+          "pdf_block_id": "/page/12/Text/16",
+          "similarity": 0.414388,
+          "pdf_text": "Transitad por los senderos del agrado del Amigo y sabed que Su agrado está en el agrado de Sus criaturas. Es decir: nadie debe entrar en la casa de su amigo sin su beneplácito, ni poner las manos sobre sus bienes, ni preferir su propia voluntad a la de su amigo; y en ningún caso debe intentar aventajarle. Meditad sobre esto, oh gentes dotadas de percepción."
+        }
+      ]
     },
     {
       "xml_element_id": "427562184",
@@ -4122,7 +4135,13 @@
     {
       "xml_element_id": "697759113",
       "xml_text": "44\n                           \n                           O Companion of My Throne!\n                           Hear no evil, and see no evil, abase not thyself, neither sigh and weep. Speak no evil, that thou mayest not hear it spoken unto thee, and magnify not the faults of others that thine own faults may not appear great; and wish not the abasement of anyone, that thine own abasement be not exposed. Live then the days of thy life, that are less than a fleeting moment, with thy mind stainless, thy heart unsullied, thy thoughts pure, and thy nature sanctified, so that, free and content, thou mayest put away this mortal frame, and repair unto the mystic paradise and abide in the eternal kingdom forevermore.",
-      "top_matches": []
+      "top_matches": [
+        {
+          "pdf_block_id": "/page/12/Text/18",
+          "similarity": 0.43479028,
+          "pdf_text": "No oigas nada malo ni veas nada malo; no te rebajes, ni llores ni te lamentes. No digas nada malo, para no oír nada malo; y no agrandes las faltas de otros, para que tus propias faltas no parezcan grandes; y no desees la degradación de nadie, para que no quede expuesta tu propia degradación. Vive, pues, los días de tu vida ―más breves que un instante fugaz― con la mente limpia, el corazón inmaculado, los pensamientos puros y el alma santificada, para que, libre y feliz, renuncies a esta figura mortal, te remontes al paraíso místico y habites para siempre en el dominio imperecedero."
+        }
+      ]
     },
     {
       "xml_element_id": "674265467",
@@ -4145,7 +4164,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/13/Text/3",
-          "similarity": 0.49932283,
+          "similarity": 0.30885792,
           "pdf_text": "¿Por qué habéis descuidado la mención del Amado y permanecido lejos de Su sagrada presencia? La esencia de la belleza se halla dentro del pabellón incomparable, establecida sobre el trono de la gloria, mientras vosotros os entretenéis con ociosas disputas. Soplan los dulces aromas de la santidad y se desprende por doquier el hálito de la misericordia; pero todos estáis acatarrados y os veis privados de ellos. ¡Ay de vosotros, y de quienes andan por vuestros caminos y siguen vuestros pasos!"
         }
       ]
@@ -4161,7 +4180,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/13/Text/5",
-          "similarity": 0.17060071,
+          "similarity": 0.18379687,
           "pdf_text": "Quitaos el ropaje de la vanagloria y despojaos del atuendo de la altivez."
         }
       ]
@@ -4172,12 +4191,12 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/13/Text/6",
-          "similarity": 0.23434374,
+          "similarity": 0.21020207,
           "pdf_text": "En la tercera de las santísimas líneas que la pluma del invisible ha escrito y consignado en la Tabla Rubí, consta así:"
         },
         {
           "pdf_block_id": "/page/12/Text/2",
-          "similarity": 0.23198113,
+          "similarity": 0.20880802,
           "pdf_text": "Escrito y registrado en la primera línea de la Tabla, y oculto en el santuario del tabernáculo de Dios, consta así:"
         }
       ]
@@ -4193,7 +4212,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/13/Text/8",
-          "similarity": 0.3565648,
+          "similarity": 0.34574008,
           "pdf_text": "Sed tolerantes los unos con los otros y no pongáis vuestro afecto en cosas mundanas. No os preciéis de vuestra gloria, ni os avergoncéis de la humillación. ¡Por Mi belleza! Del polvo he creado todas las cosas, y al polvo las haré regresar."
         }
       ]
@@ -4206,13 +4225,7 @@
     {
       "xml_element_id": "886046055",
       "xml_text": "49\n                           \n                           O Children of Dust!\n                           Tell the rich of the midnight sighing of the poor, lest heedlessness lead them into the path of destruction, and deprive them of the Tree of Wealth. To give and to be generous are attributes of Mine; well is it with him that adorneth himself with My virtues.",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/13/Text/10",
-          "similarity": 0.37238824,
-          "pdf_text": "Habladles a los ricos del suspirar de los pobres en medio de la noche, no sea que la negligencia los lleve al sendero de la destrucción y los prive del Árbol de la Riqueza. Dar y ser generoso son atributos Míos; bienaventurado es aquel que se adorna con Mis virtudes."
-        }
-      ]
+      "top_matches": []
     },
     {
       "xml_element_id": "769661891",
@@ -4235,17 +4248,17 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/13/Text/14",
-          "similarity": 0.48735046,
+          "similarity": 0.44689903,
           "pdf_text": "No te aflijas en la pobreza ni te confíes en la riqueza, pues a la pobreza sigue la riqueza y tras la riqueza viene la pobreza. Mas ser pobre en todo, menos en Dios, es una dádiva maravillosa; no desdeñes su valor, pues finalmente te hará rico en Dios, y así comprenderás el significado de «En verdad, vosotros sois los pobres», y las santas palabras «Dios es Quien todo lo posee» despuntarán en el corazón del amante, gloriosas y resplandecientes como la verdadera mañana, y perdurarán, seguras, en el trono de la riqueza."
         },
         {
           "pdf_block_id": "/page/13/Text/10",
-          "similarity": 0.32339975,
+          "similarity": 0.3020782,
           "pdf_text": "Habladles a los ricos del suspirar de los pobres en medio de la noche, no sea que la negligencia los lleve al sendero de la destrucción y los prive del Árbol de la Riqueza. Dar y ser generoso son atributos Míos; bienaventurado es aquel que se adorna con Mis virtudes."
         },
         {
           "pdf_block_id": "/page/5/Text/15",
-          "similarity": 0.29385248,
+          "similarity": 0.28037867,
           "pdf_text": "Si te sobreviene la pobreza, no te entristezcas, pues en su momento te visitará el Señor de la riqueza. No temas la humillación, pues algún día descansará sobre ti la gloria."
         }
       ]
@@ -4261,17 +4274,17 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/13/Text/16",
-          "similarity": 0.4822039,
+          "similarity": 0.35138074,
           "pdf_text": "Habéis recibido en Mi casa a Mi enemigo y habéis expulsado a Mi amigo, pues en vuestro corazón habéis albergado el amor de otro fuera de Mí. Prestad oído a las palabras del Amigo y volveos hacia Su paraíso. Los amigos mundanos, en pos de su propio bien, parecen amarse unos a otros, mientras que el Amigo verdadero os ha amado y os ama por vosotros mismos; es más, ha padecido multitud de aflicciones para poder guiaros. No seáis desleales con semejante Amigo; más bien, avanzad presurosos hacia Él. Esta es la aurora de la palabra de la veracidad y la fidelidad que ha despuntado en el horizonte de la pluma del Señor de todos los nombres. Abrid los oídos para percibir la palabra de Dios, Quien ayuda en el peligro, Quien existe por Sí mismo."
         },
         {
           "pdf_block_id": "/page/5/Text/7",
-          "similarity": 0.17993891,
+          "similarity": 0.16180202,
           "pdf_text": "El amante verdadero ansía el sufrimiento, así como el rebelde ansía el perdón, y el pecador, la indulgencia."
         },
         {
           "pdf_block_id": "/page/13/SectionHeader/15",
-          "similarity": 0.16627663,
+          "similarity": 0.15807083,
           "pdf_text": "52. ¡OH HIJOS DE LA NEGLIGENCIA Y LA PASIÓN!"
         }
       ]
@@ -4287,12 +4300,12 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/14/Text/1",
-          "similarity": 0.3597827,
+          "similarity": 0.5075355,
           "pdf_text": "Sabed en verdad que la riqueza es una sólida barrera entre el buscador y el objeto de su deseo, entre el amante y su amada. Los ricos, salvo unos pocos, de ningún modo llegarán a la corte de Su presencia ni entrarán en la ciudad del contento y la resignación. Bienaventurado, pues, aquel cuyas riquezas no le impiden alcanzar el reino eterno ni le privan del dominio imperecedero. ¡Por el Más Grande Nombre! ¡El resplandor de esa persona pudiente iluminará a los moradores del cielo, así como el Sol alumbra a las gentes de la Tierra!"
         },
         {
           "pdf_block_id": "/page/14/SectionHeader/0",
-          "similarity": 0.1962091,
+          "similarity": 0.16300708,
           "pdf_text": "53. ¡OH VOSOTROS QUE OS ENVANECÉIS CON RIQUEZAS MORTALES!"
         }
       ]
@@ -4308,7 +4321,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/14/Text/3",
-          "similarity": 0.24284893,
+          "similarity": 0.24386552,
           "pdf_text": "Los pobres entre vosotros son Mi encomienda; cuidad de Mi encomienda y no os ocupéis solo en vuestro propio bienestar."
         }
       ]
@@ -4324,7 +4337,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/14/Text/5",
-          "similarity": 0.30889177,
+          "similarity": 0.26146612,
           "pdf_text": "Límpiate de la profanación de las riquezas y avanza hacia el dominio de la pobreza con absoluta serenidad, para que, de la fuente del desprendimiento, bebas el vino de la vida inmortal."
         }
       ]
@@ -4340,7 +4353,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/14/Text/7",
-          "similarity": 0.3118702,
+          "similarity": 0.20752388,
           "pdf_text": "La compañía del impío aumenta la tristeza, mientras que el trato con los justos limpia la herrumbre del corazón. Quien busque la comunión con Dios, que acuda a la compañía de Sus amados; y quien desee escuchar la palabra de Dios, que preste oído a las palabras de Sus escogidos."
         }
       ]
@@ -4363,13 +4376,7 @@
     {
       "xml_element_id": "628305516",
       "xml_text": "58\n                           \n                           O Son of My Handmaid!\n                           Wouldst thou seek the grace of the Holy Spirit, enter into fellowship with the righteous, for he hath drunk the cup of eternal life at the hands of the immortal Cupbearer and even as the true morn doth quicken and illumine the hearts of the dead.",
-      "top_matches": [
-        {
-          "pdf_block_id": "/page/14/Text/11",
-          "similarity": 0.36863697,
-          "pdf_text": "Si anhelas la gracia del Espíritu Santo, busca la compañía de los justos, pues estos han bebido del cáliz de la vida eterna de manos del Copero inmortal y, cual verdadera mañana, despiertan e iluminan los corazones de los muertos."
-        }
-      ]
+      "top_matches": []
     },
     {
       "xml_element_id": "651261106",
@@ -4382,7 +4389,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/14/Text/13",
-          "similarity": 0.33220574,
+          "similarity": 0.36818695,
           "pdf_text": "No creáis que los secretos de los corazones están ocultos; al contrario: tened por cierto que se encuentran grabados con caracteres nítidos y claramente visibles ante la santa Presencia."
         }
       ]
@@ -4398,7 +4405,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/14/Text/15",
-          "similarity": 0.23429044,
+          "similarity": 0.3175237,
           "pdf_text": "En verdad os digo: todo lo que habéis escondido en vuestros corazones Nos es claro y manifiesto como el día; mas que ello esté oculto se debe a Nuestra gracia y favor, y no a vuestro merecimiento."
         }
       ]
@@ -4414,7 +4421,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/14/Text/17",
-          "similarity": 0.38472292,
+          "similarity": 0.44348383,
           "pdf_text": "Del insondable océano de Mi misericordia, he salpicado una gota de rocío sobre los pueblos del mundo, mas a nadie he encontrado que se vuelva hacia ella; pues todos han trocado el vino celestial de la unidad por las fétidas escorias de la impureza y, contentos con una copa mortal, han renunciado al cáliz de la inmortal belleza. Infame es aquello con lo que se contentan."
         }
       ]
@@ -4430,12 +4437,12 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/14/Text/19",
-          "similarity": 0.2836834,
+          "similarity": 0.31913814,
           "pdf_text": "No retires los ojos del vino incomparable del Amado sempiterno, y no los abras a desechos fétidos y mortales. Toma el cáliz de la vida inmortal de manos del Copero divino, para que tuya sea toda sabiduría y percibas la voz mística que llama desde el reino de lo invisible. Exclama: ¡Oh gente de bajas miras! ¿Por qué habéis despreciado Mi vino santo y sempiterno, a cambio de agua que se evapora?"
         },
         {
           "pdf_block_id": "/page/14/Text/17",
-          "similarity": 0.26205254,
+          "similarity": 0.2949758,
           "pdf_text": "Del insondable océano de Mi misericordia, he salpicado una gota de rocío sobre los pueblos del mundo, mas a nadie he encontrado que se vuelva hacia ella; pues todos han trocado el vino celestial de la unidad por las fétidas escorias de la impureza y, contentos con una copa mortal, han renunciado al cáliz de la inmortal belleza. Infame es aquello con lo que se contentan."
         }
       ]
@@ -4451,12 +4458,12 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/15/Text/1",
-          "similarity": 0.23030178,
+          "similarity": 0.4078776,
           "pdf_text": "Sabed que, en verdad, una calamidad imprevista os acecha y un doloroso castigo os aguarda. No penséis que cuanto habéis cometido se ha borrado de Mi vista. ¡Por Mi belleza! Todas vuestras acciones las ha inscrito Mi pluma con caracteres nítidos en tablas de crisólito."
         },
         {
           "pdf_block_id": "/page/15/SectionHeader/0",
-          "similarity": 0.17618835,
+          "similarity": 0.15354508,
           "pdf_text": "63. ¡OH PUEBLOS DEL MUNDO!"
         }
       ]
@@ -4472,12 +4479,12 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/15/Text/3",
-          "similarity": 0.30217326,
+          "similarity": 0.3172722,
           "pdf_text": "Apartad las manos de la tiranía, pues Me he comprometido a no perdonar la injusticia de nadie. Esta es Mi alianza, que he decretado irrevocablemente en la tabla resguardada y he sellado con Mi sello de gloria."
         },
         {
           "pdf_block_id": "/page/15/SectionHeader/2",
-          "similarity": 0.18245412,
+          "similarity": 0.18480796,
           "pdf_text": "64. ¡OH OPRESORES DE LA TIERRA!"
         }
       ]
@@ -4492,13 +4499,8 @@
       "xml_text": "65\n                           \n                           O Rebellious Ones!\n                           My forbearance hath emboldened you and My long-suffering hath made you negligent, in such wise that ye have spurred on the fiery charger of  passion into perilous ways that lead unto destruction. Have ye thought Me heedless or that I was unaware?",
       "top_matches": [
         {
-          "pdf_block_id": "/page/15/SectionHeader/4",
-          "similarity": 0.19165513,
-          "pdf_text": "65. ¡OH REBELDES!"
-        },
-        {
           "pdf_block_id": "/page/15/Text/5",
-          "similarity": 0.18271302,
+          "similarity": 0.321548,
           "pdf_text": "Mi indulgencia os ha envalentonado y Mi paciencia os ha hecho indolentes, de tal modo que galopáis sobre el furioso corcel de la pasión hacia caminos peligrosos que conducen a la destrucción. ¿Creíais que era inconsciente o que no Me daba cuenta?"
         }
       ]
@@ -4513,19 +4515,14 @@
       "xml_text": "66\n                           \n                           O Emigrants!\n                           The tongue I have designed for the mention of Me, defile it not with detraction. If the fire of self overcome you, remember your own faults and not the faults of My creatures, inasmuch as every one of you knoweth his own self better than he knoweth others.",
       "top_matches": [
         {
-          "pdf_block_id": "/page/15/Text/7",
-          "similarity": 0.46963638,
-          "pdf_text": "La lengua la he destinado para hacer mención de Mí; no la profanéis con maledicencias. Y si os venciere el fuego del yo, recordad vuestras propias faltas y no las faltas de Mis criaturas, pues cada uno de vosotros se conoce a sí mismo mejor que a los demás."
-        },
-        {
-          "pdf_block_id": "/page/3/Text/11",
-          "similarity": 0.2894412,
-          "pdf_text": "¿Cómo puedes olvidar tus propias faltas y ocuparte con las faltas de otros? Detestado por Mí es quien así procede."
-        },
-        {
           "pdf_block_id": "/page/15/SectionHeader/6",
-          "similarity": 0.14571188,
+          "similarity": 0.3488994,
           "pdf_text": "66. ¡OH EMIGRANTES!"
+        },
+        {
+          "pdf_block_id": "/page/15/Text/7",
+          "similarity": 0.2190321,
+          "pdf_text": "La lengua la he destinado para hacer mención de Mí; no la profanéis con maledicencias. Y si os venciere el fuego del yo, recordad vuestras propias faltas y no las faltas de Mis criaturas, pues cada uno de vosotros se conoce a sí mismo mejor que a los demás."
         }
       ]
     },
@@ -4540,13 +4537,8 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/15/Text/9",
-          "similarity": 0.3346194,
+          "similarity": 0.29236087,
           "pdf_text": "Sabed, en verdad, que al despuntar la radiante mañana sobre el horizonte de santidad eterna, los secretos y actos malignos perpetrados en la oscuridad de la noche serán descubiertos y puestos de manifiesto ante las gentes del mundo."
-        },
-        {
-          "pdf_block_id": "/page/15/SectionHeader/8",
-          "similarity": 0.15614855,
-          "pdf_text": "67. ¡OH HIJOS DE LA FANTASÍA!"
         }
       ]
     },
@@ -4561,7 +4553,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/15/Text/11",
-          "similarity": 0.26058733,
+          "similarity": 0.3134581,
           "pdf_text": "¿Cómo es que estas manos manchadas tuyas no han tocado primero tu propia vestimenta, y con corazón mancillado por el deseo y la pasión buscas la comunión conmigo y entrar en Mi dominio sagrado? ¡Lejos, muy lejos estáis de aquello que deseáis!"
         }
       ]
@@ -4577,7 +4569,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/15/Text/13",
-          "similarity": 0.220006,
+          "similarity": 0.35329616,
           "pdf_text": "Las palabras santas y las acciones buenas y puras ascienden al cielo de la gloria celestial. Esforzaos para que vuestras acciones se limpien del polvo del yo y de la hipocresía, y sean aceptadas en la corte de gloria; pues, en breve, los tasadores de la humanidad, en la santa presencia del Adorado, no aceptarán sino absoluta virtud y acciones de inmaculada pureza. Este es el sol de la sabiduría y del misterio divino que ha brillado en el horizonte de la voluntad divina. Bienaventurados quienes se vuelven hacia él."
         }
       ]
@@ -4593,7 +4585,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/15/Text/15",
-          "similarity": 0.40299618,
+          "similarity": 0.41452557,
           "pdf_text": "Grato es el reino del ser, si tan solo lo alcanzaras; glorioso es el dominio de la eternidad, si tan solo trascendieras el mundo de la mortalidad; y dulce es el éxtasis sagrado, si tan solo bebieras del cáliz místico de manos del Joven celestial. Si alcanzaras ese estado, te librarías de la destrucción y la muerte, de la fatiga y el pecado."
         }
       ]
@@ -4609,12 +4601,12 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/15/Text/17",
-          "similarity": 0.20378603,
+          "similarity": 0.37381127,
           "pdf_text": "Recordad aquella alianza que establecisteis conmigo sobre el Monte Parán, situado en los sagrados recintos de Zamán. Tomé como testigos al concurso de lo alto y a los moradores de la ciudad de la eternidad, mas ahora no encuentro a nadie que sea leal a la alianza. Sin duda, el orgullo y la rebeldía la han borrado de los corazones, de tal manera que no queda de ella vestigio alguno. Aun sabiéndolo, he aguardado y no lo he dado a conocer."
         },
         {
           "pdf_block_id": "/page/14/SectionHeader/12",
-          "similarity": 0.1753456,
+          "similarity": 0.13202927,
           "pdf_text": "59. ¡OH NEGLIGENTES!"
         }
       ]
@@ -4650,13 +4642,18 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/16/Text/3",
-          "similarity": 0.49025765,
+          "similarity": 0.35504282,
           "pdf_text": "Por una soberanía efímera habéis renunciado a Mi dominio sempiterno, y os habéis engalanado con los vistosos ropajes del mundo y hacéis alarde de ello. ¡Por Mi belleza! A todos reuniré bajo la capa unicolor del polvo y eliminaré toda esa diversidad de colores, excepto a aquellos que escojan el Mío, que consiste en purificarse de todo color."
         },
         {
           "pdf_block_id": "/page/13/Text/5",
-          "similarity": 0.1899603,
+          "similarity": 0.14980514,
           "pdf_text": "Quitaos el ropaje de la vanagloria y despojaos del atuendo de la altivez."
+        },
+        {
+          "pdf_block_id": "/page/16/SectionHeader/2",
+          "similarity": 0.1407041,
+          "pdf_text": "74. ¡OH HIJOS DE LA VANAGLORIA!"
         }
       ]
     },
@@ -4671,7 +4668,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/16/Text/5",
-          "similarity": 0.2071914,
+          "similarity": 0.42450798,
           "pdf_text": "No pongáis vuestro afecto en la soberanía mortal ni os deleitéis en ella. Sois como el pájaro incauto que, lleno de confianza, gorjea sobre la rama hasta que, de repente, la cazadora Muerte lo derriba al suelo, y la melodía, la forma y el color desaparecen sin dejar rastro. Tened cuidado, pues, oh esclavos del deseo."
         }
       ]
@@ -4686,14 +4683,14 @@
       "xml_text": "76\n                           \n                           O Son of My Handmaid!\n                           Guidance hath ever been given by words, and now it is given by deeds. Everyone must show forth deeds that are pure and holy, for words are the property of all alike, whereas such deeds as these belong only to Our loved ones. Strive then with heart and soul to distinguish yourselves by your  deeds. In this wise We counsel you in this holy and resplendent tablet.",
       "top_matches": [
         {
-          "pdf_block_id": "/page/16/Text/7",
-          "similarity": 0.38053688,
-          "pdf_text": "La guía siempre se ha expresado con palabras, mas ahora se expresa con acciones. Todos deben manifestar acciones puras y santas, pues las palabras son propiedad de todos por igual, en tanto que acciones como estas son propias solo de Nuestros amados. Esforzaos, pues, con alma y corazón para distinguiros por vuestras acciones. Así os aconsejamos en esta tabla santa y resplandeciente."
+          "pdf_block_id": "/page/1/Text/8",
+          "similarity": 0.3985208,
+          "pdf_text": "De todo lo que hay ante Mi vista, lo más amado es la Justicia; no te alejes de ella si Me deseas, y no la descuides para que pueda confiar en ti. Con su ayuda, verás con tus propios ojos y no con los ojos de otros, y conocerás mediante tu propio conocimiento y no mediante el conocimiento de tu prójimo. Pondera con el corazón cómo te corresponde ser. En verdad, la justicia es Mi dádiva para ti y la señal de Mi amorosa bondad. Mantenla, pues, ante tu vista."
         },
         {
-          "pdf_block_id": "/page/1/Text/8",
-          "similarity": 0.31305766,
-          "pdf_text": "De todo lo que hay ante Mi vista, lo más amado es la Justicia; no te alejes de ella si Me deseas, y no la descuides para que pueda confiar en ti. Con su ayuda, verás con tus propios ojos y no con los ojos de otros, y conocerás mediante tu propio conocimiento y no mediante el conocimiento de tu prójimo. Pondera con el corazón cómo te corresponde ser. En verdad, la justicia es Mi dádiva para ti y la señal de Mi amorosa bondad. Mantenla, pues, ante tu vista."
+          "pdf_block_id": "/page/16/Text/7",
+          "similarity": 0.3747776,
+          "pdf_text": "La guía siempre se ha expresado con palabras, mas ahora se expresa con acciones. Todos deben manifestar acciones puras y santas, pues las palabras son propiedad de todos por igual, en tanto que acciones como estas son propias solo de Nuestros amados. Esforzaos, pues, con alma y corazón para distinguiros por vuestras acciones. Así os aconsejamos en esta tabla santa y resplandeciente."
         }
       ]
     },
@@ -4707,14 +4704,19 @@
       "xml_text": "77\n                           \n                           O Son of Justice!\n                           In the night-season the beauty of the immortal Being hath repaired from the emerald height of fidelity unto the Sadratu’l-Muntahá, and wept with such a weeping that the concourse on high and the dwellers of the realms above wailed at His lamenting. Whereupon there was asked, Why the wailing and weeping? He made reply: As bidden I waited expectant upon the hill of faithfulness, yet inhaled not from them that dwell on earth the fragrance of fidelity. Then summoned to return I beheld, and lo! certain doves of holiness were sore tried within the claws of the dogs of earth. Thereupon the Maid of heaven hastened forth unveiled and resplendent from Her mystic mansion, and asked of their names, and all were told but one. And when urged, the first letter thereof was uttered, whereupon the dwellers of the celestial chambers rushed forth out of their habitation of glory. And whilst the second letter was pronounced they fell down, one and all, upon the dust. At that moment a voice was heard from the inmost shrine: “Thus far and no farther.” Verily We bear witness  to that which they have done and now are doing.",
       "top_matches": [
         {
-          "pdf_block_id": "/page/16/Text/9",
-          "similarity": 0.3101895,
-          "pdf_text": "Durante la noche, desde la cumbre esmeralda de la fidelidad, la belleza del Ser inmortal acudió al Sadratu'l-Muntahá y lloró con tal llanto que el concurso de lo alto y los moradores de los dominios celestiales gimieron por Su lamento. Entonces se Le preguntó: ¿Por qué ese llanto y ese lamento? Él respondió: Tal como se Me ordenó, aguardé expectante en el monte de la fidelidad, mas no aspiré la fragancia de la lealtad de quienes habitan la tierra. Llamado entonces a regresar, miré, y he aquí que ciertas palomas de santidad estaban agonizando en las garras de los perros de la tierra. En seguida, la Doncella celestial salió rápidamente de Su mística mansión, resplandeciente y sin velos, preguntando por sus nombres, y todos fueron mencionados menos uno. Y al insistir, fue pronunciada la primera letra de este, con lo cual los moradores de los aposentos celestiales salieron precipitadamente de su morada de gloria. Y al pronunciarse la segunda letra, cayeron todos al polvo. En ese instante se oyó una voz proveniente del santuario más íntimo: «Hasta aquí y no más allá». Ciertamente, atestiguamos lo que han hecho y lo que hacen ahora."
+          "pdf_block_id": "/page/16/SectionHeader/8",
+          "similarity": 0.27055675,
+          "pdf_text": "77. ¡OH HIJO DE LA JUSTICIA!"
         },
         {
-          "pdf_block_id": "/page/16/SectionHeader/8",
-          "similarity": 0.1833171,
-          "pdf_text": "77. ¡OH HIJO DE LA JUSTICIA!"
+          "pdf_block_id": "/page/15/SectionHeader/8",
+          "similarity": 0.2566501,
+          "pdf_text": "67. ¡OH HIJOS DE LA FANTASÍA!"
+        },
+        {
+          "pdf_block_id": "/page/16/Text/9",
+          "similarity": 0.23199372,
+          "pdf_text": "Durante la noche, desde la cumbre esmeralda de la fidelidad, la belleza del Ser inmortal acudió al Sadratu'l-Muntahá y lloró con tal llanto que el concurso de lo alto y los moradores de los dominios celestiales gimieron por Su lamento. Entonces se Le preguntó: ¿Por qué ese llanto y ese lamento? Él respondió: Tal como se Me ordenó, aguardé expectante en el monte de la fidelidad, mas no aspiré la fragancia de la lealtad de quienes habitan la tierra. Llamado entonces a regresar, miré, y he aquí que ciertas palomas de santidad estaban agonizando en las garras de los perros de la tierra. En seguida, la Doncella celestial salió rápidamente de Su mística mansión, resplandeciente y sin velos, preguntando por sus nombres, y todos fueron mencionados menos uno. Y al insistir, fue pronunciada la primera letra de este, con lo cual los moradores de los aposentos celestiales salieron precipitadamente de su morada de gloria. Y al pronunciarse la segunda letra, cayeron todos al polvo. En ese instante se oyó una voz proveniente del santuario más íntimo: «Hasta aquí y no más allá». Ciertamente, atestiguamos lo que han hecho y lo que hacen ahora."
         }
       ]
     },
@@ -4729,12 +4731,12 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/16/Text/11",
-          "similarity": 0.20798506,
+          "similarity": 0.49697423,
           "pdf_text": "Bebe de la boca del misericordioso la corriente de misterio divino, y contempla el esplendor manifiesto del sol de la sabiduría en la aurora de la expresión divina. Siembra las semillas de Mi sabiduría divina en la tierra pura del corazón y riégalas con las aguas de la certeza, para que broten verdes y lozanos los jacintos del conocimiento y la sabiduría en la ciudad sagrada del corazón."
         },
         {
           "pdf_block_id": "/page/11/Text/13",
-          "similarity": 0.19739097,
+          "similarity": 0.46266735,
           "pdf_text": "Escucha las deliciosas palabras de Mi lengua almibarada y bebe del arroyo de mística santidad que fluye de Mis labios azucarados. Siembra las semillas de Mi sabiduría divina en la tierra pura de tu corazón y riégalas con el agua de la certeza, para que los jacintos de Mi conocimiento y sabiduría broten verdes y lozanos en la sagrada ciudad de tu corazón."
         }
       ]
@@ -4747,7 +4749,13 @@
     {
       "xml_element_id": "492899806",
       "xml_text": "79\n                           \n                           O Son of Desire!\n                           How long wilt thou soar in the realms of desire? Wings have I bestowed upon thee, that thou mayest fly to the realms of mystic holiness and not the regions of satanic fancy. The comb, too, have I given thee that thou mayest dress My raven locks, and not lacerate My throat.",
-      "top_matches": []
+      "top_matches": [
+        {
+          "pdf_block_id": "/page/16/Text/13",
+          "similarity": 0.3609404,
+          "pdf_text": "¿Hasta cuándo has de volar por los espacios del deseo? Te he dado alas para que vueles a los dominios de la santidad mística, y no a las regiones de fantasías malignas. Un peine te he dado también para que arregles Mis mechones azabaches, y no para que laceres Mi garganta."
+        }
+      ]
     },
     {
       "xml_element_id": "944440429",
@@ -4759,8 +4767,13 @@
       "xml_text": "80\n                           \n                           O My Servants!\n                           Ye are the trees of My garden; ye must give forth goodly and wondrous fruits, that ye yourselves  and others may profit therefrom. Thus it is incumbent on every one to engage in crafts and professions, for therein lies the secret of wealth, O men of understanding! For results depend upon means, and the grace of God shall be all-sufficient unto you. Trees that yield no fruit have been and will ever be for the fire.",
       "top_matches": [
         {
+          "pdf_block_id": "/page/16/Text/15",
+          "similarity": 0.4210393,
+          "pdf_text": "Vosotros sois los árboles de Mi vergel; debéis producir frutos excelentes y admirables, para vuestro propio beneficio y el beneficio de otros. Por tanto, incumbe a todos ocuparse en oficios y profesiones, ya que en ello reside el secreto de la riqueza, oh gentes dotadas de entendimiento,"
+        },
+        {
           "pdf_block_id": "/page/17/Text/0",
-          "similarity": 0.1996784,
+          "similarity": 0.33234647,
           "pdf_text": "pues los resultados dependen de los medios, y la gracia de Dios os será del todo suficiente. Los árboles que no dan fruto han estado y estarán siempre destinados al fuego."
         }
       ]
@@ -4786,7 +4799,7 @@
       "top_matches": [
         {
           "pdf_block_id": "/page/17/Text/4",
-          "similarity": 0.24769014,
+          "similarity": 0.4611253,
           "pdf_text": "Las mejores personas son aquellas que se ganan el sustento con su ocupación y lo emplean en sí mismas y en sus parientes, por amor a Dios, el Señor de todos los mundos."
         }
       ]
@@ -4794,100 +4807,111 @@
     {
       "xml_element_id": "576315659",
       "xml_text": "The mystic and wondrous Bride, hidden ere this beneath the veiling of utterance, hath now, by the grace of God and His divine favor, been made manifest even as the resplendent light shed by the beauty of the Beloved. I bear witness, O friends! that the favor is complete, the argument fulfilled, the proof  manifest and the evidence established. Let it now be seen what your endeavors in the path of detachment will reveal. In this wise hath the divine favor been fully vouchsafed unto you and unto them that are in heaven and on earth. All praise to God, the Lord of all Worlds.",
-      "top_matches": []
+      "top_matches": [
+        {
+          "pdf_block_id": "/page/17/Text/6",
+          "similarity": 0.44006342,
+          "pdf_text": "La Novia mística y maravillosa, antes oculta tras los velos de la expresión, se ha revelado ahora por la gracia de Dios y Su divino favor, como la luz brillante que derrama la belleza del Amado. ¡Oh amigos! Soy testigo de que el favor se ha consumado, el argumento se ha efectuado, la prueba ha quedado clara, y la evidencia, establecida. Veamos ahora lo que habrán de revelar vuestros esfuerzos en el sendero del desprendimiento. De este modo se os ha concedido plenamente el favor divino, a vosotros y a cuantos están en el cielo y en la tierra. Toda alabanza sea para Dios, el Señor de todos los Mundos."
+        },
+        {
+          "pdf_block_id": "/page/14/Text/13",
+          "similarity": 0.23304245,
+          "pdf_text": "No creáis que los secretos de los corazones están ocultos; al contrario: tened por cierto que se encuentran grabados con caracteres nítidos y claramente visibles ante la santa Presencia."
+        }
+      ]
     }
   ],
   "top_phrase_matches": [
     {
       "xml_document_id": "hidden-words",
-      "xml_element_id": "076998102",
-      "xml_text": "46\n                           \n                           O Brethren in the Path!\n                           Wherefore have ye neglected the mention of the Loved One, and kept remote from His holy presence? The essence of beauty is within the peerless pavilion, set upon the throne of glory, whilst ye busy yourselves with idle contentions. The sweet savors of holiness are breathing and the breath of bounty is wafted, yet ye are all sorely afflicted and deprived thereof. Alas for you and for them that walk in your ways and follow in your footsteps!",
-      "pdf_block_id": "/page/13/Text/3",
-      "pdf_text": "¿Por qué habéis descuidado la mención del Amado y permanecido lejos de Su sagrada presencia? La esencia de la belleza se halla dentro del pabellón incomparable, establecida sobre el trono de la gloria, mientras vosotros os entretenéis con ociosas disputas. Soplan los dulces aromas de la santidad y se desprende por doquier el hálito de la misericordia; pero todos estáis acatarrados y os veis privados de ellos. ¡Ay de vosotros, y de quienes andan por vuestros caminos y siguen vuestros pasos!",
-      "similarity": 0.49932283
+      "xml_element_id": "305325189",
+      "xml_text": "53\n                           \n                           O Ye that Pride Yourselves on Mortal Riches!\n                           Know ye in truth that wealth is a mighty barrier between the seeker and his desire, the lover and his beloved. The rich, but for a few, shall in no wise attain the court of His presence nor enter the city of content and resignation. Well is it then with him, who, being rich, is not hindered by his riches from the eternal kingdom, nor deprived by them of imperishable dominion. By the Most Great Name! The splendor of such a wealthy man shall illuminate the dwellers of heaven even as the sun enlightens the people of the earth!",
+      "pdf_block_id": "/page/14/Text/1",
+      "pdf_text": "Sabed en verdad que la riqueza es una sólida barrera entre el buscador y el objeto de su deseo, entre el amante y su amada. Los ricos, salvo unos pocos, de ningún modo llegarán a la corte de Su presencia ni entrarán en la ciudad del contento y la resignación. Bienaventurado, pues, aquel cuyas riquezas no le impiden alcanzar el reino eterno ni le privan del dominio imperecedero. ¡Por el Más Grande Nombre! ¡El resplandor de esa persona pudiente iluminará a los moradores del cielo, así como el Sol alumbra a las gentes de la Tierra!",
+      "similarity": 0.5075355
     },
     {
       "xml_document_id": "hidden-words",
-      "xml_element_id": "077330259",
-      "xml_text": "74\n                           \n                           O Children of Vainglory!\n                           For a fleeting sovereignty ye have abandoned My imperishable dominion, and have adorned yourselves  with the gay livery of the world and made of it your boast. By My beauty! All will I gather beneath the one-colored covering of the dust and efface all these diverse colors save them that choose My own, and that is purging from every color.",
-      "pdf_block_id": "/page/16/Text/3",
-      "pdf_text": "Por una soberanía efímera habéis renunciado a Mi dominio sempiterno, y os habéis engalanado con los vistosos ropajes del mundo y hacéis alarde de ello. ¡Por Mi belleza! A todos reuniré bajo la capa unicolor del polvo y eliminaré toda esa diversidad de colores, excepto a aquellos que escojan el Mío, que consiste en purificarse de todo color.",
-      "similarity": 0.49025765
+      "xml_element_id": "733813371",
+      "xml_text": "78\n                           \n                           O Son of My Handmaid!\n                           Quaff from the tongue of the merciful the stream of divine mystery, and behold from the dayspring of divine utterance the unveiled splendor of the daystar of wisdom. Sow the seeds of My divine wisdom in the pure soil of the heart, and water them with the waters of certitude, that the hyacinths of knowledge and wisdom may spring up fresh and green from the holy city of the heart.",
+      "pdf_block_id": "/page/16/Text/11",
+      "pdf_text": "Bebe de la boca del misericordioso la corriente de misterio divino, y contempla el esplendor manifiesto del sol de la sabiduría en la aurora de la expresión divina. Siembra las semillas de Mi sabiduría divina en la tierra pura del corazón y riégalas con las aguas de la certeza, para que broten verdes y lozanos los jacintos del conocimiento y la sabiduría en la ciudad sagrada del corazón.",
+      "similarity": 0.49697423
     },
     {
       "xml_document_id": "hidden-words",
-      "xml_element_id": "472999964",
-      "xml_text": "50\n                           \n                           O Son of Man!\n                           If adversity befall thee not in My path, how canst thou walk in the ways of them that are content with My pleasure? If trials afflict thee not in thy longing to meet Me, how wilt thou attain the light in thy love for My beauty?",
-      "pdf_block_id": "/page/5/Text/9",
-      "pdf_text": "Si en tu andar por Mi sendero no encuentras adversidades, ¿cómo puedes seguir el camino de quienes están contentos con Mi agrado? Si en tu anhelo por encontrarte conmigo no te afligen las desdichas, ¿cómo habrás de alcanzar la luz, en tu amor por Mi belleza?",
-      "similarity": 0.48988187
+      "xml_element_id": "186817587",
+      "xml_text": "70\n                           \n                           O Son of Him that Stood by His Own Entity in the Kingdom of His Self!\n                           Know thou, that I have wafted unto thee all the fragrances of holiness, have fully revealed to thee My word, have perfected through thee My bounty and have desired for thee that which I have desired for My Self. Be then content with My pleasure and thankful unto Me.",
+      "pdf_block_id": "/page/7/Text/40",
+      "pdf_text": "70. ¡OH HIJO DE QUIEN SE MANTUVO FIEL A SU PROPIO SER EN EL REINO DE SÍ MISMO! Sabe que sobre ti he rociado todas las fragancias de santidad y te he revelado plenamente Mi palabra; mediante ti he perfeccionado Mi generosidad y para ti he deseado lo que he deseado para Mi propio Ser. Conténtate, pues, con Mi agrado, y sé agradecido conmigo.",
+      "similarity": 0.49163303
     },
     {
       "xml_document_id": "hidden-words",
-      "xml_element_id": "937503023",
-      "xml_text": "51\n                           \n                           O Son of My Handmaid!\n                           Be not troubled in poverty nor confident in riches, for poverty is followed by riches, and riches are followed by poverty. Yet to be poor in all save God is a wondrous gift, belittle not the value thereof, for in the end it will make thee rich in God, and thus thou shalt know the meaning of the utterance, “In truth ye are the poor,” and the holy words, “God is the all-possessing,” shall even as the true morn break forth gloriously resplendent upon the horizon of the lover’s heart, and abide secure on the throne of wealth.",
-      "pdf_block_id": "/page/13/Text/14",
-      "pdf_text": "No te aflijas en la pobreza ni te confíes en la riqueza, pues a la pobreza sigue la riqueza y tras la riqueza viene la pobreza. Mas ser pobre en todo, menos en Dios, es una dádiva maravillosa; no desdeñes su valor, pues finalmente te hará rico en Dios, y así comprenderás el significado de «En verdad, vosotros sois los pobres», y las santas palabras «Dios es Quien todo lo posee» despuntarán en el corazón del amante, gloriosas y resplandecientes como la verdadera mañana, y perdurarán, seguras, en el trono de la riqueza.",
-      "similarity": 0.48735046
+      "xml_element_id": "724175772",
+      "xml_text": "12\n                           \n                           O Son of Being!\n                           With the hands of power I made thee and with the fingers of strength I created thee; and within thee have I placed the essence of My light. Be thou content with it and seek naught else, for My work is perfect and My command is binding. Question it not, nor have a doubt thereof.",
+      "pdf_block_id": "/page/2/Text/7",
+      "pdf_text": "Con las manos del poder te he modelado y con los dedos de la fuerza te he creado, y dentro de ti he depositado la esencia de Mi luz. Conténtate con ello y no busques nada más, pues Mi obra es perfecta, y Mi mandato, ineludible. No lo cuestiones, ni lo pongas en duda.",
+      "similarity": 0.482425
     },
     {
       "xml_document_id": "hidden-words",
-      "xml_element_id": "304654598",
-      "xml_text": "17\n                           \n                           O Comrades!\n                           The gates that open on the Placeless stand wide and the habitation of the loved one is adorned with the lovers’ blood, yet all but a few remain bereft of this celestial city, and even of these few, none but the smallest handful hath been found with a pure heart and sanctified spirit.",
-      "pdf_block_id": "/page/9/Text/15",
-      "pdf_text": "Abiertas de par en par están las puertas que llevan a Aquel que no ocupa lugar, y la estancia del amado está adornada con la sangre de los amantes; mas, salvo unos pocos, todos siguen apartados de esta ciudad celestial; y aun entre esos pocos, solo se ha encontrado un número ínfimo con corazón puro y espíritu santificado.",
-      "similarity": 0.4862932
+      "xml_element_id": "708223253",
+      "xml_text": "14\n                           \n                           O Son of Man!\n                           Thou art My dominion and My dominion perisheth not; wherefore fearest thou thy perishing? Thou art My light and My light shall never be extinguished; why dost thou dread extinction? Thou art My glory and My glory fadeth not; thou art My robe and My robe shall never be outworn. Abide then in thy love for Me, that thou mayest find Me in the realm of glory.",
+      "pdf_block_id": "/page/2/Text/11",
+      "pdf_text": "Tú eres Mi dominio y Mi dominio no perece, ¿por qué, pues, temes perecer? Tú eres Mi luz y Mi luz jamás se extingue, ¿por qué temes la extinción? Tú eres Mi gloria y Mi gloria no se desvanece; tú eres Mi manto y Mi manto jamás se desgasta. Por tanto, vive en tu amor por Mí, y Me encontrarás en el dominio de la gloria.",
+      "similarity": 0.48181173
     },
     {
       "xml_document_id": "hidden-words",
-      "xml_element_id": "564055916",
-      "xml_text": "52\n                           \n                           O Children of Negligence and Passion!\n                           Ye have suffered My enemy to enter My house and have cast out My friend, for ye have enshrined the love of another than Me in your hearts. Give ear to the sayings of the Friend and turn towards His paradise. Worldly friends, seeking their own good, appear to love one the other, whereas the true Friend hath loved and doth love you for your own sakes; indeed He hath suffered for your guidance countless afflictions. Be not disloyal to such a Friend, nay rather hasten unto Him. Such is the daystar of the word of truth and faithfulness, that hath dawned above the horizon  of the pen of the Lord of all names. Open your ears that ye may hearken unto the word of God, the Help in peril, the Self-Existent.",
-      "pdf_block_id": "/page/13/Text/16",
-      "pdf_text": "Habéis recibido en Mi casa a Mi enemigo y habéis expulsado a Mi amigo, pues en vuestro corazón habéis albergado el amor de otro fuera de Mí. Prestad oído a las palabras del Amigo y volveos hacia Su paraíso. Los amigos mundanos, en pos de su propio bien, parecen amarse unos a otros, mientras que el Amigo verdadero os ha amado y os ama por vosotros mismos; es más, ha padecido multitud de aflicciones para poder guiaros. No seáis desleales con semejante Amigo; más bien, avanzad presurosos hacia Él. Esta es la aurora de la palabra de la veracidad y la fidelidad que ha despuntado en el horizonte de la pluma del Señor de todos los nombres. Abrid los oídos para percibir la palabra de Dios, Quien ayuda en el peligro, Quien existe por Sí mismo.",
-      "similarity": 0.4822039
+      "xml_element_id": "725404749",
+      "xml_text": "33\n                           \n                           O My Brother!\n                           Hearken to the delightsome words of My honeyed tongue, and quaff the stream of mystic holiness from My sugar-shedding lips. Sow the seeds of My  divine wisdom in the pure soil of thy heart, and water them with the water of certitude, that the hyacinths of My knowledge and wisdom may spring up fresh and green in the sacred city of thy heart.",
+      "pdf_block_id": "/page/11/Text/13",
+      "pdf_text": "Escucha las deliciosas palabras de Mi lengua almibarada y bebe del arroyo de mística santidad que fluye de Mis labios azucarados. Siembra las semillas de Mi sabiduría divina en la tierra pura de tu corazón y riégalas con el agua de la certeza, para que los jacintos de Mi conocimiento y sabiduría broten verdes y lozanos en la sagrada ciudad de tu corazón.",
+      "similarity": 0.47969413
     },
     {
       "xml_document_id": "hidden-words",
-      "xml_element_id": "062883030",
-      "xml_text": "66\n                           \n                           O Emigrants!\n                           The tongue I have designed for the mention of Me, defile it not with detraction. If the fire of self overcome you, remember your own faults and not the faults of My creatures, inasmuch as every one of you knoweth his own self better than he knoweth others.",
-      "pdf_block_id": "/page/15/Text/7",
-      "pdf_text": "La lengua la he destinado para hacer mención de Mí; no la profanéis con maledicencias. Y si os venciere el fuego del yo, recordad vuestras propias faltas y no las faltas de Mis criaturas, pues cada uno de vosotros se conoce a sí mismo mejor que a los demás.",
-      "similarity": 0.46963638
+      "xml_element_id": "511421653",
+      "xml_text": "13\n                           \n                           O Son of Spirit!\n                           I created thee rich, why dost thou bring thyself down to poverty? Noble I made thee, wherewith  dost thou abase thyself? Out of the essence of knowledge I gave thee being, why seekest thou enlightenment from anyone beside Me? Out of the clay of love I molded thee, how dost thou busy thyself with another? Turn thy sight unto thyself, that thou mayest find Me standing within thee, mighty, powerful and self-subsisting.",
+      "pdf_block_id": "/page/2/Text/9",
+      "pdf_text": "Te he creado rico, ¿por qué te rebajas a la pobreza? Noble te hice, ¿por qué te degradas a ti mismo? De la esencia del conocimiento te he dado la existencia, ¿por qué buscas iluminación en alguien que no sea Yo? Con la arcilla del amor te di forma, ¿cómo es que te ocupas con otro? Vuelve la mirada hacia ti mismo y Me hallarás dentro de ti, fuerte, poderoso y autosuficiente.",
+      "similarity": 0.46969628
     },
     {
       "xml_document_id": "hidden-words",
-      "xml_element_id": "472999964",
-      "xml_text": "50\n                           \n                           O Son of Man!\n                           If adversity befall thee not in My path, how canst thou walk in the ways of them that are content with My pleasure? If trials afflict thee not in thy longing to meet Me, how wilt thou attain the light in thy love for My beauty?",
-      "pdf_block_id": "/page/4/Text/1",
-      "pdf_text": "El espíritu de santidad te trae las buenas nuevas del encuentro; ¿por qué te afliges? El espíritu del poder te confirma en Su causa; ¿por qué te ocultas tras un velo? La luz de Su semblante te guía en el camino; ¿cómo puedes extraviarte?",
-      "similarity": 0.4529441
+      "xml_element_id": "956386997",
+      "xml_text": "53\n                           \n                           O Son of Being!\n                           If poverty overtake thee, be not sad; for in time the Lord of wealth shall visit thee. Fear not abasement, for glory shall one day rest on thee.",
+      "pdf_block_id": "/page/5/Text/15",
+      "pdf_text": "Si te sobreviene la pobreza, no te entristezcas, pues en su momento te visitará el Señor de la riqueza. No temas la humillación, pues algún día descansará sobre ti la gloria.",
+      "similarity": 0.46906263
     },
     {
       "xml_document_id": "hidden-words",
-      "xml_element_id": "746355706",
-      "xml_text": "51\n                           \n                           O Son of Man!\n                           My calamity is My providence, outwardly it is fire and vengeance, but inwardly it is light and mercy. Hasten thereunto that thou mayest become an eternal light and an immortal spirit. This is My command unto thee, do thou observe it.",
-      "pdf_block_id": "/page/5/Text/11",
-      "pdf_text": "Mi calamidad es Mi providencia: fuego y venganza, por fuera; luz y misericordia, por dentro. Apresúrate a recibirla, para que llegues a ser una luz eterna y un espíritu imperecedero. Este es Mi decreto para ti; acátalo.",
-      "similarity": 0.45199758
+      "xml_element_id": "856926883",
+      "xml_text": "44\n                           \n                           O Son of the Throne!\n                           Thy hearing is My hearing, hear thou therewith. Thy sight is My sight, do thou see therewith, that in thine inmost soul thou mayest testify unto My exalted sanctity, and I within Myself may bear witness unto an exalted station for thee.",
+      "pdf_block_id": "/page/4/Text/21",
+      "pdf_text": "Tu oído es Mi oído; oye, entonces, con él. Tu vista es Mi vista; ve con ella; para que así, en lo más íntimo del alma, tú seas testigo de Mi exaltada santidad y Yo, en Mi propio Ser, dé testimonio de una elevada posición para ti.",
+      "similarity": 0.4652457
     },
     {
       "xml_document_id": "hidden-words",
-      "xml_element_id": "447289253",
-      "xml_text": "36\n                           \n                           O Son of Dust!\n                           The wise are they that speak not unless they obtain a hearing, even as the cup-bearer, who  proffereth not his cup till he findeth a seeker, and the lover who crieth not out from the depths of his heart until he gazeth upon the beauty of his beloved. Wherefore sow the seeds of wisdom and knowledge in the pure soil of the heart, and keep them hidden, till the hyacinths of divine wisdom spring from the heart and not from mire and clay.",
-      "pdf_block_id": "/page/12/Text/1",
-      "pdf_text": "Sabios son quienes no hablan si no hay oídos que escuchen, como el copero que no ofrece su copa hasta encontrar al sediento, y el amante que no exclama desde el fondo de su corazón hasta contemplar la belleza de su amada. Por tanto, siembra las semillas de la sabiduría y el conocimiento en la tierra pura del corazón, y ocúltalas hasta que los jacintos de la sabiduría divina broten del corazón, y no del lodo y la arcilla.",
-      "similarity": 0.42871356
+      "xml_element_id": "733813371",
+      "xml_text": "78\n                           \n                           O Son of My Handmaid!\n                           Quaff from the tongue of the merciful the stream of divine mystery, and behold from the dayspring of divine utterance the unveiled splendor of the daystar of wisdom. Sow the seeds of My divine wisdom in the pure soil of the heart, and water them with the waters of certitude, that the hyacinths of knowledge and wisdom may spring up fresh and green from the holy city of the heart.",
+      "pdf_block_id": "/page/11/Text/13",
+      "pdf_text": "Escucha las deliciosas palabras de Mi lengua almibarada y bebe del arroyo de mística santidad que fluye de Mis labios azucarados. Siembra las semillas de Mi sabiduría divina en la tierra pura de tu corazón y riégalas con el agua de la certeza, para que los jacintos de Mi conocimiento y sabiduría broten verdes y lozanos en la sagrada ciudad de tu corazón.",
+      "similarity": 0.46266735
     }
   ],
   "statistics": {
     "total_xml_documents": 27,
     "total_xml_elements": 322,
     "total_pdf_blocks": 325,
-    "matched_elements": 130,
-    "unmatched_elements": 192,
+    "matched_elements": 129,
+    "unmatched_elements": 193,
     "match_threshold": 0.01,
     "top_k_matches": 3,
-    "matches_above_01": 185,
+    "matches_above_01": 190,
     "matches_above_03": 67,
     "top_phrase_matches": []
   }

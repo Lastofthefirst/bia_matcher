@@ -1,0 +1,168 @@
+=== JSON Schema Analysis ===
+File: /home/quddus/ridvan/bia/v6/matching/output/Contestacion-a-unas-preguntas_traduccion-actualizada-2023_processed_matches.json
+
+Root object properties:
+----------------------
+  pdf_document_id: string
+  best_match: object
+    xml_document_id: string
+    similarity: number
+    top_phrase_pairs: array
+      length: 10
+      items: object
+      object properties:
+        xml_element_id: string (numeric string)
+        xml_text: string
+        pdf_block_id: string
+        pdf_text: string
+        similarity: number
+  all_document_scores: array
+    length: 27
+    items: object
+    object properties:
+      xml_document_id: string
+      similarity: number
+      top_phrase_pairs: array
+        length: 10
+        items: object
+        object properties:
+          xml_element_id: string (numeric string)
+          xml_text: string
+          pdf_block_id: string
+          pdf_text: string
+          similarity: number
+  paragraph_matches: array
+    length: 1625
+    items: object
+    object properties:
+      xml_element_id: string (numeric string)
+      xml_text: string
+      top_matches: array
+        length: 1
+        items: object
+        object properties:
+          pdf_block_id: string
+          similarity: number
+          pdf_text: string
+  top_phrase_matches: array
+    length: 10
+    items: object
+    object properties:
+      xml_document_id: string
+      xml_element_id: string (numeric string)
+      xml_text: string
+      pdf_block_id: string
+      pdf_text: string
+      similarity: number
+  statistics: object
+    total_xml_documents: number
+    total_xml_elements: number
+    total_pdf_blocks: number
+    matched_elements: number
+    unmatched_elements: number
+    match_threshold: number
+    top_k_matches: number
+    matches_above_01: number
+    matches_above_03: number
+    top_phrase_matches: array
+      length: 0
+      (empty array)
+
+=== Summary ===
+Total top-level properties: 6
+File size: 981K
+
+=== Field Types Summary ===
+  1420 array field(s)
+  609 number field(s)
+  5013 string field(s)
+
+
+
+  Field Documentation for Document Matching Visualization
+
+  1. Root Level Fields
+
+  pdf_document_id (string)
+  Identifier for the PDF document that was analyzed and matched against XML documents.
+
+  best_match (object)
+  Contains information about the XML document that had the highest similarity score to the PDF document.
+
+  ##### Sub-fields:
+   - xml_document_id (string): Identifier of the XML document with the highest similarity.
+   - similarity (number): Numerical score representing the overall similarity between PDF and XML documents.
+   - top_phrase_pairs (array): Collection of the top 10 phrase pairs with highest similarity scores.
+
+  ###### For each item in top_phrase_pairs:
+   - xml_element_id (string): Unique identifier for the XML element.
+   - xml_text (string): Actual text content from the XML element.
+   - pdf_block_id (string): Unique identifier for the PDF text block.
+   - pdf_text (string): Actual text content from the PDF block.
+   - similarity (number): Similarity score between the paired XML and PDF texts.
+
+  all_document_scores (array)
+  Complete list of similarity scores for all XML documents compared against the PDF document, sorted by similarity.
+
+  ##### For each item:
+   - xml_document_id (string): Identifier of an XML document.
+   - similarity (number): Overall similarity score between this XML document and the PDF.
+   - top_phrase_pairs (array): Top 10 matching phrase pairs for this document pair.
+
+  paragraph_matches (array)
+  Detailed matching results for individual XML elements against PDF blocks.
+
+  ##### For each item:
+   - xml_element_id (string): Unique identifier for the XML element.
+   - xml_text (string): Text content of the XML element.
+   - top_matches (array): List of the best matching PDF blocks for this XML element.
+
+  ###### For each item in top_matches:
+   - pdf_block_id (string): Identifier of the matching PDF block.
+   - similarity (number): Similarity score between XML element and PDF block.
+   - pdf_text (string): Text content of the matching PDF block.
+
+  top_phrase_matches (array)
+  Overall collection of the top 10 phrase pairs with highest similarity scores across all document comparisons.
+
+  ##### For each item:
+   - xml_document_id (string): Identifier of the XML document.
+   - xml_element_id (string): Unique identifier for the XML element.
+   - xml_text (string): Text content from the XML element.
+   - pdf_block_id (string): Identifier of the matching PDF block.
+   - pdf_text (string): Text content of the matching PDF block.
+   - similarity (number): Similarity score between the paired texts.
+
+  statistics (object)
+  Summary statistics about the matching process.
+
+  ##### Fields:
+   - total_xml_documents (number): Total count of XML documents processed.
+   - total_xml_elements (number): Total count of XML elements analyzed.
+   - total_pdf_blocks (number): Total count of PDF text blocks analyzed.
+   - matched_elements (number): Number of XML elements that found matching PDF blocks.
+   - unmatched_elements (number): Number of XML elements without significant matches.
+   - match_threshold (number): Minimum similarity score required for a match to be considered valid.
+   - top_k_matches (number): Number of top matches to report for each XML element.
+   - matches_above_01 (number): Count of matches with similarity scores above 0.1.
+   - matches_above_03 (number): Count of matches with similarity scores above 0.3.
+   - top_phrase_matches (array): Additional collection of top phrase matches (appears to be empty in this implementation).
+
+  Explanation for Visualization Purposes
+
+  This structure enables several types of visualizations:
+
+   1. Document-Level Heatmaps: Use all_document_scores to show similarity matrix between PDF and XML documents.
+
+   2. Phrase-Level Networks: Use top_phrase_matches and top_phrase_pairs to visualize connections between similar phrases.
+
+   3. Element Match Trees: Use paragraph_matches to create hierarchical views showing how XML elements connect to PDF blocks.
+
+   4. Progress Dashboards: Use statistics to track matching performance and coverage.
+
+   5. Comparison Charts: Use similarity scores to create bar charts or scatter plots showing matching quality.
+
+  The matching algorithm combines semantic similarity (using embeddings) with structural features (text length and word
+  The matching algorithm combines semantic similarity (using embeddings) with structural features (text length and word
+  count) to provide robust matching that accounts for both content and form.
+
